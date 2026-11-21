@@ -1,0 +1,11 @@
+figure,metric,contrast,region,response_percent,two_mcse_percentage_points,original_csv_row
+appendix-B1,n,cluster-off-minus-default,4pi,33.138753156462045,2.5582047817850793,2
+appendix-B1,n,cluster-off-minus-default,0-45,36.94741740344378,4.175550363417039,92
+appendix-B1,n,cluster-off-minus-default,45-90,33.70610296624539,3.2394578878792624,182
+appendix-B1,n,cluster-off-minus-default,90-135,28.82538627679001,4.525916286059842,272
+appendix-B1,n,cluster-off-minus-default,135-180,20.692497938993746,9.406092223274499,362
+appendix-B1,N_total,cluster-off-minus-default,4pi,1.4060939060939415,1.8703519788804306,8
+appendix-B1,N_total,cluster-off-minus-default,0-45,-9.783191603462893,2.539811067098727,98
+appendix-B1,N_total,cluster-off-minus-default,45-90,3.0750630782168553,2.376544761102059,188
+appendix-B1,N_total,cluster-off-minus-default,90-135,16.706803130644097,4.0372939495489,278
+appendix-B1,N_total,cluster-off-minus-default,135-180,10.993176648976167,8.512913888701206,368

@@ -1,0 +1,888 @@
+{
+  "passed": false,
+  "table": [
+    {
+      "id": "P01",
+      "title": "物理包身份",
+      "classification": "C4",
+      "sides": {
+        "geant4": {
+          "effective": "QGSP_INCLXX_HP",
+          "answer": "QGSP_INCLXX_HP",
+          "explicit": true,
+          "confirmed": true,
+          "status": "confirmed"
+        },
+        "fluka": {
+          "effective": "PRECISIO",
+          "answer": "PRECISIO",
+          "explicit": true,
+          "confirmed": true,
+          "status": "confirmed"
+        }
+      },
+      "align": false,
+      "aligned": null,
+      "registered_difference": null,
+      "passed": true
+    },
+    {
+      "id": "P02",
+      "title": "INCL 宿主模式",
+      "classification": "C4",
+      "sides": {
+        "geant4": {
+          "effective": "default",
+          "answer": "default",
+          "explicit": true,
+          "confirmed": true,
+          "status": "confirmed"
+        }
+      },
+      "align": false,
+      "aligned": null,
+      "registered_difference": null,
+      "passed": true
+    },
+    {
+      "id": "P03",
+      "title": "级联团簇开关",
+      "classification": "C1s/C3",
+      "sides": {
+        "geant4": {
+          "effective": true,
+          "answer": true,
+          "explicit": true,
+          "confirmed": true,
+          "status": "confirmed"
+        },
+        "fluka": {
+          "effective": true,
+          "answer": true,
+          "explicit": true,
+          "confirmed": true,
+          "status": "confirmed"
+        }
+      },
+      "align": true,
+      "aligned": true,
+      "registered_difference": null,
+      "passed": true
+    },
+    {
+      "id": "P22",
+      "title": "质子输运阈 MeV",
+      "classification": "C3/C4",
+      "sides": {
+        "fluka": {
+          "effective": 0.1,
+          "answer": 0.1,
+          "explicit": true,
+          "confirmed": true,
+          "status": "confirmed"
+        }
+      },
+      "align": false,
+      "aligned": null,
+      "registered_difference": null,
+      "passed": true
+    },
+    {
+      "id": "P23",
+      "title": "中子输运截止",
+      "classification": "C3",
+      "sides": {
+        "geant4": {
+          "effective": false,
+          "answer": true,
+          "explicit": false,
+          "confirmed": false,
+          "status": "answer_missing_or_mismatch"
+        },
+        "fluka": {
+          "effective": 1e-11,
+          "answer": 1e-11,
+          "explicit": true,
+          "confirmed": true,
+          "status": "confirmed"
+        }
+      },
+      "align": false,
+      "aligned": null,
+      "registered_difference": null,
+      "passed": false
+    },
+    {
+      "id": "P24",
+      "title": "产生阈",
+      "classification": "C3",
+      "sides": {
+        "geant4": {
+          "effective": {
+            "gamma_mm": 0.7,
+            "electron_mm": 0.7,
+            "positron_mm": 0.7
+          },
+          "answer": {
+            "gamma_mm": 0.7,
+            "electron_mm": 0.7,
+            "positron_mm": 0.7
+          },
+          "explicit": true,
+          "confirmed": true,
+          "status": "confirmed"
+        },
+        "fluka": {
+          "effective": {
+            "Ae_total_MeV": 1.0,
+            "Ap_MeV": 0.1
+          },
+          "answer": {
+            "Ae_total_MeV": 1.0,
+            "Ap_MeV": 0.1
+          },
+          "explicit": true,
+          "confirmed": true,
+          "status": "confirmed"
+        }
+      },
+      "align": false,
+      "aligned": null,
+      "registered_difference": null,
+      "passed": true
+    },
+    {
+      "id": "P25",
+      "title": "靶区电磁输运阈 MeV 总能量",
+      "classification": "C3",
+      "sides": {
+        "fluka": {
+          "effective": {
+            "prompt": {
+              "Ecut_total_MeV": 1.0,
+              "Pcut_MeV": 0.1
+            },
+            "delayed": {
+              "Ecut_total_MeV": 1.0,
+              "Pcut_MeV": 0.1
+            }
+          },
+          "answer": {
+            "prompt": {
+              "Ecut_total_MeV": 1.0,
+              "Pcut_MeV": 0.1
+            },
+            "delayed": {
+              "Ecut_total_MeV": 1.0,
+              "Pcut_MeV": 0.1
+            }
+          },
+          "explicit": true,
+          "confirmed": true,
+          "status": "confirmed"
+        }
+      },
+      "align": false,
+      "aligned": null,
+      "registered_difference": null,
+      "passed": true
+    },
+    {
+      "id": "P26",
+      "title": "反冲产生射程 mm",
+      "classification": "C3",
+      "sides": {
+        "geant4": {
+          "effective": 0.0,
+          "answer": 0.7,
+          "explicit": false,
+          "confirmed": false,
+          "status": "answer_missing_or_mismatch"
+        }
+      },
+      "align": false,
+      "aligned": null,
+      "registered_difference": null,
+      "passed": false
+    },
+    {
+      "id": "P28",
+      "title": "中子库身份",
+      "classification": "C4",
+      "sides": {
+        "geant4": {
+          "effective": "G4NDL4.7.1",
+          "answer": "G4NDL installed HP neutron library; installation identity requires readback",
+          "explicit": false,
+          "confirmed": false,
+          "status": "answer_missing_or_mismatch"
+        },
+        "fluka": {
+          "effective": "JEFF-3.3",
+          "answer": "LOW-PWXS default pointwise isotope libraries; installation identities require readback",
+          "explicit": false,
+          "confirmed": false,
+          "status": "answer_missing_or_mismatch"
+        }
+      },
+      "align": false,
+      "aligned": null,
+      "registered_difference": null,
+      "passed": false
+    },
+    {
+      "id": "P29",
+      "title": "名义温度 K",
+      "classification": "C1",
+      "sides": {
+        "geant4": {
+          "effective": 296.0,
+          "answer": 296.0,
+          "explicit": true,
+          "confirmed": true,
+          "status": "confirmed"
+        },
+        "fluka": {
+          "effective": 296.0,
+          "answer": 296.0,
+          "explicit": true,
+          "confirmed": true,
+          "status": "confirmed"
+        }
+      },
+      "align": true,
+      "aligned": true,
+      "registered_difference": null,
+      "passed": true
+    },
+    {
+      "id": "P30",
+      "title": "中子处理分派",
+      "classification": "C4",
+      "sides": {
+        "geant4": {
+          "effective": "HP_Fe_0_20MeV_dispatch",
+          "answer": "HP_Fe_0_20MeV_dispatch",
+          "explicit": false,
+          "confirmed": true,
+          "status": "confirmed"
+        },
+        "fluka": {
+          "effective": "pointwise",
+          "answer": "pointwise",
+          "explicit": true,
+          "confirmed": true,
+          "status": "confirmed"
+        }
+      },
+      "align": false,
+      "aligned": null,
+      "registered_difference": null,
+      "passed": true
+    },
+    {
+      "id": "P31",
+      "title": "光核开关",
+      "classification": "C1s",
+      "sides": {
+        "geant4": {
+          "effective": true,
+          "answer": true,
+          "explicit": true,
+          "confirmed": true,
+          "status": "confirmed"
+        },
+        "fluka": {
+          "effective": true,
+          "answer": true,
+          "explicit": true,
+          "confirmed": true,
+          "status": "confirmed"
+        }
+      },
+      "align": true,
+      "aligned": true,
+      "registered_difference": null,
+      "passed": true
+    },
+    {
+      "id": "P32",
+      "title": "电核开关",
+      "classification": "C1s",
+      "sides": {
+        "geant4": {
+          "effective": {
+            "e-": true,
+            "e+": true
+          },
+          "answer": {
+            "e-": true,
+            "e+": true
+          },
+          "explicit": true,
+          "confirmed": true,
+          "status": "confirmed"
+        },
+        "fluka": {
+          "effective": true,
+          "answer": true,
+          "explicit": true,
+          "confirmed": true,
+          "status": "confirmed"
+        }
+      },
+      "align": true,
+      "aligned": true,
+      "registered_difference": null,
+      "passed": true
+    },
+    {
+      "id": "S01",
+      "title": "计分安装",
+      "classification": "question prerequisite",
+      "align": true,
+      "sides": {
+        "geant4": {
+          "effective": true,
+          "answer": true,
+          "confirmed": true,
+          "conforms_to_question": true,
+          "basis": "fixed host",
+          "status": "confirmed"
+        },
+        "fluka": {
+          "effective": true,
+          "answer": true,
+          "confirmed": true,
+          "conforms_to_question": true,
+          "basis": "native output",
+          "status": "confirmed"
+        }
+      },
+      "passed": true,
+      "aligned": true,
+      "registered_difference": null
+    },
+    {
+      "id": "S02",
+      "title": "能量×极角格子覆盖，无缺口无重叠",
+      "classification": "question prerequisite",
+      "align": true,
+      "sides": {
+        "geant4": {
+          "effective": {
+            "energy_edges_MeV": [
+              35.18064,
+              41.25585,
+              48.38017,
+              56.73476,
+              66.53208,
+              78.02125,
+              91.49445,
+              107.29429
+            ],
+            "angle_edges_deg": [
+              0,
+              45,
+              90,
+              135,
+              180
+            ],
+            "coverage": "exact_once"
+          },
+          "answer": {
+            "energy_edges_MeV": [
+              35.18064,
+              41.25585,
+              48.38017,
+              56.73476,
+              66.53208,
+              78.02125,
+              91.49445,
+              107.29429
+            ],
+            "angle_edges_deg": [
+              0,
+              45,
+              90,
+              135,
+              180
+            ],
+            "coverage": "exact_once"
+          },
+          "confirmed": true,
+          "conforms_to_question": true,
+          "basis": "fixed host",
+          "status": "confirmed"
+        },
+        "fluka": {
+          "effective": {
+            "energy_edges_MeV": [
+              35.18064,
+              41.25585,
+              48.38017,
+              56.73476,
+              66.53208,
+              78.02125,
+              91.49445,
+              107.29429
+            ],
+            "angle_edges_deg": [
+              0,
+              45,
+              90,
+              135,
+              180
+            ],
+            "coverage": "exact_once"
+          },
+          "answer": {
+            "energy_edges_MeV": [
+              35.18064,
+              41.25585,
+              48.38017,
+              56.73476,
+              66.53208,
+              78.02125,
+              91.49445,
+              107.29429
+            ],
+            "angle_edges_deg": [
+              0,
+              45,
+              90,
+              135,
+              180
+            ],
+            "coverage": "exact_once"
+          },
+          "confirmed": true,
+          "conforms_to_question": true,
+          "basis": "native output",
+          "status": "confirmed"
+        }
+      },
+      "passed": true,
+      "aligned": true,
+      "registered_difference": null
+    },
+    {
+      "id": "S03",
+      "title": "计分粒子",
+      "classification": "question prerequisite",
+      "align": true,
+      "sides": {
+        "geant4": {
+          "effective": "neutron",
+          "answer": "neutron",
+          "confirmed": true,
+          "conforms_to_question": true,
+          "basis": "fixed host",
+          "status": "confirmed"
+        },
+        "fluka": {
+          "effective": "neutron",
+          "answer": "neutron",
+          "confirmed": true,
+          "conforms_to_question": true,
+          "basis": "native output",
+          "status": "confirmed"
+        }
+      },
+      "passed": true,
+      "aligned": true,
+      "registered_difference": null
+    },
+    {
+      "id": "S04",
+      "title": "穿越面、方向与极角参考轴",
+      "classification": "question prerequisite",
+      "align": true,
+      "sides": {
+        "geant4": {
+          "effective": {
+            "from": "TARGET",
+            "to": "VOID",
+            "direction": "outward",
+            "angle_reference": "beam",
+            "axis": [
+              0.0,
+              0.0,
+              1.0
+            ],
+            "azimuth": "full"
+          },
+          "answer": {
+            "from": "TARGET",
+            "to": "VOID",
+            "direction": "outward",
+            "angle_reference": "beam",
+            "axis": [
+              0,
+              0,
+              1
+            ],
+            "azimuth": "full"
+          },
+          "confirmed": true,
+          "conforms_to_question": true,
+          "basis": "fixed host",
+          "status": "confirmed"
+        },
+        "fluka": {
+          "effective": {
+            "from": "TARGET",
+            "to": "VOID",
+            "direction": "outward",
+            "angle_reference": "beam",
+            "axis": [
+              0.0,
+              0.0,
+              1.0
+            ],
+            "azimuth": "full"
+          },
+          "answer": {
+            "from": "TARGET",
+            "to": "VOID",
+            "direction": "outward",
+            "angle_reference": "beam",
+            "axis": [
+              0,
+              0,
+              1
+            ],
+            "azimuth": "full"
+          },
+          "confirmed": true,
+          "conforms_to_question": true,
+          "basis": "native output",
+          "status": "confirmed"
+        }
+      },
+      "passed": true,
+      "aligned": true,
+      "registered_difference": null
+    },
+    {
+      "id": "S05",
+      "title": "结果量与产额类型",
+      "classification": "question prerequisite",
+      "align": true,
+      "sides": {
+        "geant4": {
+          "effective": "d2N_dE_dOmega_per_primary",
+          "answer": "d2N_dE_dOmega_per_primary",
+          "confirmed": true,
+          "conforms_to_question": true,
+          "basis": "fixed host",
+          "status": "confirmed"
+        },
+        "fluka": {
+          "effective": "d2N_dE_dOmega_per_primary",
+          "answer": "d2N_dE_dOmega_per_primary",
+          "confirmed": true,
+          "conforms_to_question": true,
+          "basis": "native output",
+          "status": "confirmed"
+        }
+      },
+      "passed": true,
+      "aligned": true,
+      "registered_difference": null
+    },
+    {
+      "id": "S06",
+      "title": "实际归一",
+      "classification": "question prerequisite",
+      "align": true,
+      "sides": {
+        "geant4": {
+          "effective": {
+            "per_primary": true,
+            "per_energy_width": true,
+            "per_solid_angle": true,
+            "user_normalization": 1.0,
+            "cross_section_factor": 1.0
+          },
+          "answer": {
+            "per_primary": true,
+            "per_energy_width": true,
+            "per_solid_angle": true,
+            "user_normalization": 1.0,
+            "cross_section_factor": 1.0
+          },
+          "confirmed": true,
+          "conforms_to_question": true,
+          "basis": "fixed host",
+          "status": "confirmed"
+        },
+        "fluka": {
+          "effective": {
+            "per_primary": true,
+            "per_energy_width": true,
+            "per_solid_angle": true,
+            "user_normalization": 1.0,
+            "cross_section_factor": 1.0
+          },
+          "answer": {
+            "per_primary": true,
+            "per_energy_width": true,
+            "per_solid_angle": true,
+            "user_normalization": 1.0,
+            "cross_section_factor": 1.0
+          },
+          "confirmed": true,
+          "conforms_to_question": true,
+          "basis": "native output",
+          "status": "confirmed"
+        }
+      },
+      "passed": true,
+      "aligned": true,
+      "registered_difference": null
+    },
+    {
+      "id": "S07",
+      "title": "到题面结果量的换算",
+      "classification": "question prerequisite",
+      "align": true,
+      "sides": {
+        "geant4": {
+          "effective": {
+            "native_energy_unit": "MeV",
+            "output_unit": "1/(primary MeV sr)",
+            "factor": 1.0
+          },
+          "answer": {
+            "native_energy_unit": "MeV",
+            "output_unit": "1/(primary MeV sr)",
+            "factor": 1.0
+          },
+          "confirmed": true,
+          "conforms_to_question": true,
+          "basis": "fixed host",
+          "status": "confirmed"
+        },
+        "fluka": {
+          "effective": {
+            "native_energy_unit": "GeV",
+            "output_unit": "1/(primary MeV sr)",
+            "factor": 0.001
+          },
+          "answer": {
+            "native_energy_unit": "GeV",
+            "output_unit": "1/(primary MeV sr)",
+            "factor": 0.001
+          },
+          "confirmed": true,
+          "conforms_to_question": true,
+          "basis": "native output",
+          "status": "confirmed"
+        }
+      },
+      "passed": true,
+      "aligned": true,
+      "registered_difference": null
+    },
+    {
+      "id": "S08",
+      "title": "输出可读性",
+      "classification": "question prerequisite",
+      "align": true,
+      "sides": {
+        "geant4": {
+          "effective": "event_CSV_plus_fixed_reducer",
+          "answer": "event_CSV_plus_fixed_reducer",
+          "confirmed": true,
+          "conforms_to_question": true,
+          "basis": "fixed host",
+          "status": "confirmed"
+        },
+        "fluka": {
+          "effective": "formatted_USRYIELD",
+          "answer": "formatted_USRYIELD",
+          "confirmed": true,
+          "conforms_to_question": true,
+          "basis": "native output",
+          "status": "confirmed"
+        }
+      },
+      "passed": true,
+      "aligned": true,
+      "registered_difference": null
+    },
+    {
+      "id": "S09",
+      "title": "两个变量的编码、含义与数值单位",
+      "classification": "question prerequisite",
+      "align": true,
+      "sides": {
+        "geant4": {
+          "effective": {
+            "energy": "kinetic",
+            "angle": "laboratory_polar",
+            "energy_readback_unit": "MeV",
+            "angle_readback_unit": "direction_cosine"
+          },
+          "answer": {
+            "energy": "kinetic",
+            "angle": "laboratory_polar",
+            "energy_readback_unit": "MeV",
+            "angle_readback_unit": "direction_cosine"
+          },
+          "confirmed": true,
+          "conforms_to_question": true,
+          "basis": "fixed host",
+          "status": "confirmed"
+        },
+        "fluka": {
+          "effective": {
+            "energy": "kinetic",
+            "angle": "laboratory_polar",
+            "energy_readback_unit": "GeV",
+            "angle_readback_unit": "radian"
+          },
+          "answer": {
+            "energy": "kinetic",
+            "angle": "laboratory_polar",
+            "energy_readback_unit": "GeV",
+            "angle_readback_unit": "radian"
+          },
+          "confirmed": true,
+          "conforms_to_question": true,
+          "basis": "native output",
+          "status": "confirmed"
+        }
+      },
+      "passed": true,
+      "aligned": true,
+      "registered_difference": null
+    }
+  ],
+  "intrinsic": [
+    {
+      "id": "P04",
+      "status": "registered",
+      "confirmed": false,
+      "basis": "T058 program-specific boundary; no per-input confirmation claimed"
+    },
+    {
+      "id": "P05",
+      "status": "registered",
+      "confirmed": false,
+      "basis": "T058 program-specific boundary; no per-input confirmation claimed"
+    },
+    {
+      "id": "P06",
+      "status": "registered",
+      "confirmed": false,
+      "basis": "T058 program-specific boundary; no per-input confirmation claimed"
+    },
+    {
+      "id": "P07",
+      "status": "registered",
+      "confirmed": false,
+      "basis": "T058 program-specific boundary; no per-input confirmation claimed"
+    },
+    {
+      "id": "P08",
+      "status": "registered",
+      "confirmed": false,
+      "basis": "T058 program-specific boundary; no per-input confirmation claimed"
+    },
+    {
+      "id": "P09",
+      "status": "registered",
+      "confirmed": false,
+      "basis": "T058 program-specific boundary; no per-input confirmation claimed"
+    },
+    {
+      "id": "P10",
+      "status": "registered",
+      "confirmed": false,
+      "basis": "T058 program-specific boundary; no per-input confirmation claimed"
+    },
+    {
+      "id": "P11",
+      "status": "registered",
+      "confirmed": false,
+      "basis": "T058 program-specific boundary; no per-input confirmation claimed"
+    },
+    {
+      "id": "P12",
+      "status": "registered",
+      "confirmed": false,
+      "basis": "T058 program-specific boundary; no per-input confirmation claimed"
+    },
+    {
+      "id": "P13",
+      "status": "registered",
+      "confirmed": false,
+      "basis": "T058 program-specific boundary; no per-input confirmation claimed"
+    },
+    {
+      "id": "P14",
+      "status": "registered",
+      "confirmed": false,
+      "basis": "T058 program-specific boundary; no per-input confirmation claimed"
+    },
+    {
+      "id": "P15",
+      "status": "registered",
+      "confirmed": false,
+      "basis": "T058 program-specific boundary; no per-input confirmation claimed"
+    },
+    {
+      "id": "P16",
+      "status": "registered",
+      "confirmed": false,
+      "basis": "T058 program-specific boundary; no per-input confirmation claimed"
+    },
+    {
+      "id": "P17",
+      "status": "registered",
+      "confirmed": false,
+      "basis": "T058 program-specific boundary; no per-input confirmation claimed"
+    },
+    {
+      "id": "P18",
+      "status": "registered",
+      "confirmed": false,
+      "basis": "T058 program-specific boundary; no per-input confirmation claimed"
+    },
+    {
+      "id": "P19",
+      "status": "registered",
+      "confirmed": false,
+      "basis": "T058 program-specific boundary; no per-input confirmation claimed"
+    },
+    {
+      "id": "P20",
+      "status": "registered",
+      "confirmed": false,
+      "basis": "T058 program-specific boundary; no per-input confirmation claimed"
+    },
+    {
+      "id": "P21",
+      "status": "registered",
+      "confirmed": false,
+      "basis": "T058 program-specific boundary; no per-input confirmation claimed"
+    },
+    {
+      "id": "P27",
+      "status": "registered",
+      "confirmed": false,
+      "basis": "T058 program-specific boundary; no per-input confirmation claimed"
+    }
+  ],
+  "answer_field_sha256": {
+    "geometry_gdml": "dee7c6ceaae400f99b70a588882d40ddddd32366fc382d4052a72ad0fb061e17",
+    "beam_mac": "cfc43a751470b52ad440f2d99402b8a63f08ae46bd4caef8d7210d7a79b72333",
+    "physics_txt": "57e7fd81b92029537f91fa772deedf2fb93870506d294580eb53aedf072eee7c",
+    "host_options_json": "5e82835035e7750688a965fc45cd6c8991179744f34f57eae6b95cd77c26ab7b",
+    "fluka_inp": "2add3441a1b76c3e8ba1c7aed504881d2301ea76aee005a3374052bfce685bcd",
+    "answers_json": "c6004a6e2c0df28050d5a91a3a1ca676ad4f41c01ca48b240d73e1b9bc6cd88c",
+    "differences_json": "06103e42f28c1e0bb92be5deb2eaba398231b210be9a135b432a8630565bb51a"
+  }
+}

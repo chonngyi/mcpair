@@ -1,0 +1,153 @@
+{
+  "schema": "t062/1",
+  "per_input": [
+    {
+      "id": "P01",
+      "title": "物理包身份",
+      "classification": "C4",
+      "sides": [
+        "geant4",
+        "fluka"
+      ],
+      "align": false
+    },
+    {
+      "id": "P02",
+      "title": "INCL 宿主模式",
+      "classification": "C4",
+      "sides": [
+        "geant4"
+      ],
+      "align": false
+    },
+    {
+      "id": "P03",
+      "title": "级联团簇开关",
+      "classification": "C1s/C3",
+      "sides": [
+        "geant4",
+        "fluka"
+      ],
+      "align": true
+    },
+    {
+      "id": "P22",
+      "title": "质子输运阈 MeV",
+      "classification": "C3/C4",
+      "sides": [
+        "fluka"
+      ],
+      "align": false
+    },
+    {
+      "id": "P23",
+      "title": "中子输运截止",
+      "classification": "C3",
+      "sides": [
+        "geant4",
+        "fluka"
+      ],
+      "align": false
+    },
+    {
+      "id": "P24",
+      "title": "产生阈",
+      "classification": "C3",
+      "sides": [
+        "geant4",
+        "fluka"
+      ],
+      "align": false
+    },
+    {
+      "id": "P25",
+      "title": "靶区电磁输运阈 MeV 总能量",
+      "classification": "C3",
+      "sides": [
+        "fluka"
+      ],
+      "align": false
+    },
+    {
+      "id": "P26",
+      "title": "反冲产生射程 mm",
+      "classification": "C3",
+      "sides": [
+        "geant4"
+      ],
+      "align": false
+    },
+    {
+      "id": "P28",
+      "title": "中子库身份",
+      "classification": "C4",
+      "sides": [
+        "geant4",
+        "fluka"
+      ],
+      "align": false
+    },
+    {
+      "id": "P29",
+      "title": "名义温度 K",
+      "classification": "C1",
+      "sides": [
+        "geant4",
+        "fluka"
+      ],
+      "align": true
+    },
+    {
+      "id": "P30",
+      "title": "中子处理分派",
+      "classification": "C4",
+      "sides": [
+        "geant4",
+        "fluka"
+      ],
+      "align": false
+    },
+    {
+      "id": "P31",
+      "title": "光核开关",
+      "classification": "C1s",
+      "sides": [
+        "geant4",
+        "fluka"
+      ],
+      "align": true
+    },
+    {
+      "id": "P32",
+      "title": "电核开关",
+      "classification": "C1s",
+      "sides": [
+        "geant4",
+        "fluka"
+      ],
+      "align": true
+    }
+  ],
+  "intrinsic": [
+    "P04",
+    "P05",
+    "P06",
+    "P07",
+    "P08",
+    "P09",
+    "P10",
+    "P11",
+    "P12",
+    "P13",
+    "P14",
+    "P15",
+    "P16",
+    "P17",
+    "P18",
+    "P19",
+    "P20",
+    "P21",
+    "P27"
+  ],
+  "source": "notes/physics-settings-inventory.md"
+}

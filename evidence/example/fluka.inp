@@ -1,0 +1,51 @@
+TITLE
+800 MeV proton on natural Fe cylindrical target
+DEFAULTS         0.0       0.0       0.0       0.0       0.0       0.0PRECISIO
+BEAM            -0.8       0.0       0.0       0.0       0.0       0.0PROTON
+BEAMPOS          0.0       0.0      -5.0       0.0       0.0       0.0
+GEOBEGIN         0.0       0.0       0.0       0.0       0.0       0.0COMBNAME
+    0    0
+SPH WORLD 0.0 0.0 0.0 50.0
+SPH OUTER 0.0 0.0 0.0 100.0
+RCC TGT 0.0 0.0 -0.06350012700025401 0.0 0.0 0.12700025400050802 1.5
+END
+TARGET 5 +TGT
+VOID 5 +WORLD -TGT
+BLKBODY 5 +OUTER -WORLD
+END
+GEOEND
+MATERIAL        26.0-53.939608     7.874                    54.0000000FE54
+MATERIAL        26.0-55.934936     7.874                    56.0000000FE56
+MATERIAL        26.0-56.935392     7.874                    57.0000000FE57
+MATERIAL        26.0-57.933274     7.874                    58.0000000FE58
+MATERIAL         0.0       0.0     7.874                    0.00000000NATTARG
+COMPOUND     0.05845      FE54   0.91754      FE56                    NATTARG
+COMPOUND     0.02119      FE57   0.00282      FE58                    NATTARG
+ASSIGNMA     NATTARG    TARGET    TARGET       1.0       0.0
+ASSIGNMA      VACUUM      VOID      VOID       1.0       0.0
+ASSIGNMA    BLCKHOLE   BLKBODY   BLKBODY       1.0       0.0
+LOW-PWXS         1.0               296.0      FE54   NATTARG       1.0JEFF-3.3
+PHYSICS          1.0       0.0       0.0       0.0       0.0       0.0COALESCE
+PART-THR     -0.0001    PROTON    PROTON       1.0       0.0       0.0
+PART-THR    -1.0E-14   NEUTRON   NEUTRON       1.0       0.0       0.0
+EMFCUT      0.000611    0.0001       0.0    TARGET      VOID       1.0
+EMFCUT      0.000611    0.0001       1.0   NATTARG   NATTARG       1.0PROD-CUT
+PHOTONUC         1.0       0.0       0.0   NATTARG   NATTARG       1.0
+PHOTONUC         1.0       0.0       0.0   NATTARG   NATTARG       1.0ELECTNUC
+USRYIELD       124.0   NEUTRON      21.0    TARGET      VOID       1.0FE01
+USRYIELD       180.0       0.0       4.0 .04125585 .03518064       3.0&
+USRYIELD       124.0   NEUTRON      21.0    TARGET      VOID       1.0FE02
+USRYIELD       180.0       0.0       4.0 .04838017 .04125585       3.0&
+USRYIELD       124.0   NEUTRON      21.0    TARGET      VOID       1.0FE03
+USRYIELD       180.0       0.0       4.0 .05673476 .04838017       3.0&
+USRYIELD       124.0   NEUTRON      21.0    TARGET      VOID       1.0FE04
+USRYIELD       180.0       0.0       4.0 .06653208 .05673476       3.0&
+USRYIELD       124.0   NEUTRON      21.0    TARGET      VOID       1.0FE05
+USRYIELD       180.0       0.0       4.0 .07802125 .06653208       3.0&
+USRYIELD       124.0   NEUTRON      21.0    TARGET      VOID       1.0FE06
+USRYIELD       180.0       0.0       4.0 .09149445 .07802125       3.0&
+USRYIELD       124.0   NEUTRON      21.0    TARGET      VOID       1.0FE07
+USRYIELD       180.0       0.0       4.0 .10729429 .09149445       3.0&
+RANDOMIZ         1.0 1234567.0       0.0       0.0       0.0       0.0
+START            1.0       0.0       0.0       0.0       0.0       0.0
+STOP

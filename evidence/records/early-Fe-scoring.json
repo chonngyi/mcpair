@@ -1,0 +1,978 @@
+{
+  "stage": "Development input: old 13/13 physics pass (M02-r5), replay of cross-section USRYIELD (ixa=1, unit -21), round-1 card modification (ixa=3, unit +21) with geometry-header stop, and round-2 first native readback confirming yield",
+  "old_physics_record": {
+    "source_table": "experiments/direct-input-continuation/results/rounds/M02-r5/table.md",
+    "source_kernel": "experiments/direct-input-continuation/results/rounds/M02-r5/kernel.json",
+    "bundled_table": "records/M02-r5-table.md",
+    "bundled_table_sha256": "da4a246547c940ca65e3c47612221eae07980807851a9b704bdcb5903be08805",
+    "kernel_version": "t063/1-unreviewed",
+    "slot": "M02-r5",
+    "passed": true,
+    "physics_row_count": 13,
+    "physics_passed_count": 13,
+    "intrinsic_count": 19,
+    "readback_errors": [],
+    "physics_rows": [
+      {
+        "id": "P01",
+        "title": "物理包身份",
+        "passed": true
+      },
+      {
+        "id": "P02",
+        "title": "INCL 宿主模式",
+        "passed": true
+      },
+      {
+        "id": "P03",
+        "title": "级联团簇开关",
+        "passed": true
+      },
+      {
+        "id": "P22",
+        "title": "质子输运阈 MeV",
+        "passed": true
+      },
+      {
+        "id": "P23",
+        "title": "中子输运截止",
+        "passed": true
+      },
+      {
+        "id": "P24",
+        "title": "产生阈",
+        "passed": true
+      },
+      {
+        "id": "P25",
+        "title": "靶区电磁输运阈 MeV 总能量",
+        "passed": true
+      },
+      {
+        "id": "P26",
+        "title": "反冲产生射程 mm",
+        "passed": true
+      },
+      {
+        "id": "P28",
+        "title": "中子库身份",
+        "passed": true
+      },
+      {
+        "id": "P29",
+        "title": "名义温度 K",
+        "passed": true
+      },
+      {
+        "id": "P30",
+        "title": "中子处理分派",
+        "passed": true
+      },
+      {
+        "id": "P31",
+        "title": "光核开关",
+        "passed": true
+      },
+      {
+        "id": "P32",
+        "title": "电核开关",
+        "passed": true
+      }
+    ]
+  },
+  "source_answer": "experiments/direct-input-continuation/results/rounds/M02-r5/answer.json",
+  "statement_location": "answers_json -> scoring -> fluka",
+  "model_statement": "保留28个单能箱、单角箱 USRYIELD 1401 计分器。原生每GeV每sr每初级结果乘0.001转换为每MeV每sr每初级；不重复除以能宽、立体角或靶表面积。",
+  "first_detector_input_cards": [
+    {
+      "line": 35,
+      "text": "USRYIELD      1401.0   NEUTRON     -21.0    TARGET      VOID       1.0N01A1"
+    },
+    {
+      "line": 36,
+      "text": "USRYIELD  0.041255850.03518064       1.00.78539816       0.0       1.0&"
+    }
+  ],
+  "native_source": "T063/M02-r5/fluka/input001.out",
+  "native_output_excerpt": [
+    {
+      "line": 196,
+      "text": " ***** Next control card *****   USRYIELD   1401.       8.000      -21.00       1.000       2.000       1.000      N01A1     "
+    },
+    {
+      "line": 199,
+      "text": " ***** Next control card *****   USRYIELD  4.1256E-02  3.5181E-02   1.000      0.7854       0.000       1.000      &         "
+    },
+    {
+      "line": 1366,
+      "text": " ******* \"Usryield\" option:"
+    },
+    {
+      "line": 1367,
+      "text": ""
+    },
+    {
+      "line": 1368,
+      "text": "   Yield n.   1  \"N01A1     \" , generalized particle n.    8, from region n.     1 to region n.     2"
+    },
+    {
+      "line": 1369,
+      "text": "      user normalization:  1.0000E+00, adopted cross section (if any):  2.0534E+01 mb"
+    },
+    {
+      "line": 1370,
+      "text": "      linear 1st variable binning from   3.5181E-02 to  4.1256E-02     1 bins ( 6.0752E-03 wide)"
+    },
+    {
+      "line": 1371,
+      "text": "      2nd variable ranges from   0.0000E+00 to  7.8540E-01"
+    }
+  ],
+  "replay_source": "experiments/scoring-continuation/results/replay/t063-M02-r5/kernel.json",
+  "replay_rows": [
+    {
+      "id": "S02",
+      "title": "能量×极角格子覆盖，无缺口无重叠",
+      "classification": "question prerequisite",
+      "align": true,
+      "sides": {
+        "geant4": {
+          "effective": {
+            "energy_edges_MeV": [
+              35.18064,
+              41.25585,
+              48.38017,
+              56.73476,
+              66.53208,
+              78.02125,
+              91.49445,
+              107.29429
+            ],
+            "angle_edges_deg": [
+              0,
+              45,
+              90,
+              135,
+              180
+            ],
+            "coverage": "exact_once"
+          },
+          "answer": null,
+          "confirmed": false,
+          "conforms_to_question": true,
+          "basis": "fixed host",
+          "status": "answer_missing_or_mismatch"
+        },
+        "fluka": {
+          "effective": {
+            "energy_edges_MeV": [
+              35.18064,
+              41.25585,
+              48.38017,
+              56.73476,
+              66.53208,
+              78.02125,
+              91.49445,
+              107.29429
+            ],
+            "angle_edges_deg": [
+              0,
+              45,
+              90,
+              135,
+              180
+            ],
+            "coverage": "exact_once"
+          },
+          "answer": null,
+          "confirmed": false,
+          "conforms_to_question": true,
+          "basis": "native output",
+          "status": "answer_missing_or_mismatch"
+        }
+      },
+      "passed": false,
+      "aligned": true,
+      "registered_difference": null
+    },
+    {
+      "id": "S03",
+      "title": "计分粒子",
+      "classification": "question prerequisite",
+      "align": true,
+      "sides": {
+        "geant4": {
+          "effective": "neutron",
+          "answer": null,
+          "confirmed": false,
+          "conforms_to_question": true,
+          "basis": "fixed host",
+          "status": "answer_missing_or_mismatch"
+        },
+        "fluka": {
+          "effective": "neutron",
+          "answer": null,
+          "confirmed": false,
+          "conforms_to_question": true,
+          "basis": "native output",
+          "status": "answer_missing_or_mismatch"
+        }
+      },
+      "passed": false,
+      "aligned": true,
+      "registered_difference": null
+    },
+    {
+      "id": "S04",
+      "title": "穿越面、方向与极角参考轴",
+      "classification": "question prerequisite",
+      "align": true,
+      "sides": {
+        "geant4": {
+          "effective": {
+            "from": "TARGET",
+            "to": "VOID",
+            "direction": "outward",
+            "angle_reference": "beam",
+            "axis": [
+              0.0,
+              0.0,
+              1.0
+            ],
+            "azimuth": "full"
+          },
+          "answer": null,
+          "confirmed": false,
+          "conforms_to_question": true,
+          "basis": "fixed host",
+          "status": "answer_missing_or_mismatch"
+        },
+        "fluka": {
+          "effective": {
+            "from": "TARGET",
+            "to": "VOID",
+            "direction": "outward",
+            "angle_reference": "beam",
+            "axis": [
+              0.0,
+              0.0,
+              1.0
+            ],
+            "azimuth": "full"
+          },
+          "answer": null,
+          "confirmed": false,
+          "conforms_to_question": true,
+          "basis": "native output",
+          "status": "answer_missing_or_mismatch"
+        }
+      },
+      "passed": false,
+      "aligned": true,
+      "registered_difference": null
+    },
+    {
+      "id": "S05",
+      "title": "结果量与产额类型",
+      "classification": "question prerequisite",
+      "align": true,
+      "sides": {
+        "geant4": {
+          "effective": "d2N_dE_dOmega_per_primary",
+          "answer": null,
+          "confirmed": false,
+          "conforms_to_question": true,
+          "basis": "fixed host",
+          "status": "answer_missing_or_mismatch"
+        },
+        "fluka": {
+          "effective": "d2sigma_dE_dOmega",
+          "answer": null,
+          "confirmed": false,
+          "conforms_to_question": false,
+          "basis": "native output",
+          "status": "question_mismatch"
+        }
+      },
+      "passed": false,
+      "aligned": false,
+      "registered_difference": null
+    },
+    {
+      "id": "S06",
+      "title": "实际归一",
+      "classification": "question prerequisite",
+      "align": true,
+      "sides": {
+        "geant4": {
+          "effective": {
+            "per_primary": true,
+            "per_energy_width": true,
+            "per_solid_angle": true,
+            "user_normalization": 1.0,
+            "cross_section_factor": 1.0
+          },
+          "answer": null,
+          "confirmed": false,
+          "conforms_to_question": true,
+          "basis": "fixed host",
+          "status": "answer_missing_or_mismatch"
+        },
+        "fluka": {
+          "effective": {
+            "per_primary": true,
+            "per_energy_width": true,
+            "per_solid_angle": true,
+            "user_normalization": 1.0,
+            "cross_section_factor": 20.534
+          },
+          "answer": null,
+          "confirmed": false,
+          "conforms_to_question": false,
+          "basis": "native output",
+          "status": "question_mismatch"
+        }
+      },
+      "passed": false,
+      "aligned": false,
+      "registered_difference": null
+    },
+    {
+      "id": "S09",
+      "title": "两个变量的编码、含义与数值单位",
+      "classification": "question prerequisite",
+      "align": true,
+      "sides": {
+        "geant4": {
+          "effective": {
+            "energy": "kinetic",
+            "angle": "laboratory_polar",
+            "energy_readback_unit": "MeV",
+            "angle_readback_unit": "direction_cosine"
+          },
+          "answer": null,
+          "confirmed": false,
+          "conforms_to_question": true,
+          "basis": "fixed host",
+          "status": "answer_missing_or_mismatch"
+        },
+        "fluka": {
+          "effective": {
+            "energy": "kinetic",
+            "angle": "laboratory_polar",
+            "energy_readback_unit": "GeV",
+            "angle_readback_unit": "radian"
+          },
+          "answer": null,
+          "confirmed": false,
+          "conforms_to_question": true,
+          "basis": "native output",
+          "status": "answer_missing_or_mismatch"
+        }
+      },
+      "passed": false,
+      "aligned": true,
+      "registered_difference": null
+    }
+  ],
+  "continuation_round_1": {
+    "source_answer": "experiments/scoring-continuation/results/rounds/Fe-M02-r1/answer.json",
+    "source_kernel": "experiments/scoring-continuation/results/rounds/Fe-M02-r1/kernel.json",
+    "interface_correction_source": "experiments/scoring-continuation/results/interface-correction.json",
+    "passed": false,
+    "fluka_exit": 2,
+    "readback_errors": [
+      "fluka: AssertionError('native run failed or not submitted')"
+    ],
+    "fluka_inp_sha256": "7ce9f83181b0dd54078b05d97ed5ddb95e45d595a095117dd091f6ad93c433cf",
+    "usryield_line_count": 56,
+    "usryield_lines_sha256": "309ef060ce7c4e5fbd57e8f6ec44bc3d2a9554dcff234aceb6feb030a10aeb19",
+    "first_detector_input_cards": [
+      {
+        "line": 35,
+        "text": "USRYIELD      2401.0   NEUTRON      21.0    TARGET      VOID       1.0N01A1"
+      },
+      {
+        "line": 36,
+        "text": "USRYIELD  0.041255850.03518064       1.0      45.0       0.0       3.0&"
+      }
+    ],
+    "executed_header": "    0    0Natural iron target and vacuum",
+    "bad_supplied_example": "    0    0Scoring continuation",
+    "cause": "T065 supplied interface example and the Fe first continuation both omitted whitespace between the second geometry-header integer and title; native execution stopped with Bad integer. The supplied example was defective. Whether the model copied it is not established, so this failure cannot be attributed solely to the model.",
+    "native_log_source": "T065/Fe-M02-r1/fluka/fluka_11861/input001.log",
+    "native_log_sha256": "0e9b893f006a4ddaeb393da8d10d17b301b5cdc2ce705f5a02d5b5401a1d97f4",
+    "native_error_excerpt": [
+      {
+        "line": 1,
+        "text": "At line 226 of file comlat/flkcgi.f"
+      },
+      {
+        "line": 2,
+        "text": "Fortran runtime error: Bad integer for item 2 in list input"
+      }
+    ],
+    "scoring_rows_status": {
+      "S01": "no_readback",
+      "S02": "no_readback",
+      "S03": "no_readback",
+      "S04": "no_readback",
+      "S05": "no_readback",
+      "S06": "no_readback",
+      "S07": "no_readback",
+      "S08": "no_readback",
+      "S09": "no_readback"
+    }
+  },
+  "continuation_round_2": {
+    "source_answer": "experiments/scoring-continuation/results/rounds/Fe-M02-r2/answer.json",
+    "source_kernel": "experiments/scoring-continuation/results/rounds/Fe-M02-r2/kernel.json",
+    "passed": true,
+    "fluka_inp_sha256": "8c41d1e2c693481aca079dfa38d1a1d90cbbe7ded4303845be46f8e51d487ef7",
+    "usryield_line_count": 56,
+    "usryield_lines_sha256": "309ef060ce7c4e5fbd57e8f6ec44bc3d2a9554dcff234aceb6feb030a10aeb19",
+    "first_detector_input_cards": [
+      {
+        "line": 35,
+        "text": "USRYIELD      2401.0   NEUTRON      21.0    TARGET      VOID       1.0N01A1"
+      },
+      {
+        "line": 36,
+        "text": "USRYIELD  0.041255850.03518064       1.0      45.0       0.0       3.0&"
+      }
+    ],
+    "usryield_cards_identical_to_round_1": true,
+    "only_fluka_inp_line_changed_from_round_1": {
+      "line": 7,
+      "round_1": "    0    0Natural iron target and vacuum",
+      "round_2": "    0    0"
+    },
+    "model_scoring_declarations": {
+      "S05": {
+        "geant4": "d2N_dE_dOmega_per_primary",
+        "fluka": "d2N_dE_dOmega_per_primary"
+      },
+      "S06": {
+        "geant4": {
+          "per_primary": true,
+          "per_energy_width": true,
+          "per_solid_angle": true,
+          "user_normalization": 1.0,
+          "cross_section_factor": 1.0
+        },
+        "fluka": {
+          "per_primary": true,
+          "per_energy_width": true,
+          "per_solid_angle": true,
+          "user_normalization": 1.0,
+          "cross_section_factor": 1.0
+        }
+      },
+      "S07": {
+        "geant4": {
+          "native_energy_unit": "MeV",
+          "output_unit": "1/(primary MeV sr)",
+          "factor": 1.0
+        },
+        "fluka": {
+          "native_energy_unit": "GeV",
+          "output_unit": "1/(primary MeV sr)",
+          "factor": 0.001
+        }
+      },
+      "S08": {
+        "geant4": "event_CSV_plus_fixed_reducer",
+        "fluka": "formatted_USRYIELD"
+      },
+      "S09": {
+        "geant4": {
+          "energy": "kinetic",
+          "angle": "laboratory_polar",
+          "energy_readback_unit": "MeV",
+          "angle_readback_unit": "direction_cosine"
+        },
+        "fluka": {
+          "energy": "kinetic",
+          "angle": "laboratory_polar",
+          "energy_readback_unit": "GeV",
+          "angle_readback_unit": "radian"
+        }
+      }
+    },
+    "native_source": "T065/Fe-M02-r2/fluka/input001.out",
+    "native_output_sha256": "b9004153a88d86ce46726e415dede2feb3c5055e9de8802503d18dac55aa06fa",
+    "native_output_excerpt": [
+      {
+        "line": 196,
+        "text": " ***** Next control card *****   USRYIELD   2401.       8.000       21.00       1.000       2.000       1.000      N01A1     "
+      },
+      {
+        "line": 199,
+        "text": " ***** Next control card *****   USRYIELD  4.1256E-02  3.5181E-02   1.000       45.00       0.000       3.000      &         "
+      },
+      {
+        "line": 1366,
+        "text": " ******* \"Usryield\" option:"
+      },
+      {
+        "line": 1367,
+        "text": ""
+      },
+      {
+        "line": 1368,
+        "text": "   Yield n.   1  \"N01A1     \" , generalized particle n.    8, from region n.     1 to region n.     2"
+      },
+      {
+        "line": 1369,
+        "text": "      user normalization:  1.0000E+00, adopted cross section (if any):  1.0000E+00 mb"
+      },
+      {
+        "line": 1370,
+        "text": "      linear 1st variable binning from   3.5181E-02 to  4.1256E-02     1 bins ( 6.0752E-03 wide)"
+      },
+      {
+        "line": 1371,
+        "text": "      2nd variable ranges from   0.0000E+00 to  7.8540E-01"
+      },
+      {
+        "line": 1372,
+        "text": "      1st variable is: Laboratory Kinetic Energy    "
+      },
+      {
+        "line": 1373,
+        "text": "      2nd variable is: Laboratory Angle (radians)   "
+      },
+      {
+        "line": 1374,
+        "text": "      data will be printed on unit   21 (unformatted if < 0)"
+      }
+    ],
+    "initialized_detector_count": 28,
+    "all_detectors_unit_21_and_factor_1": true,
+    "scoring_rows": [
+      {
+        "id": "S01",
+        "title": "计分安装",
+        "classification": "question prerequisite",
+        "align": true,
+        "sides": {
+          "geant4": {
+            "effective": true,
+            "answer": true,
+            "confirmed": true,
+            "conforms_to_question": true,
+            "basis": "fixed host",
+            "status": "confirmed"
+          },
+          "fluka": {
+            "effective": true,
+            "answer": true,
+            "confirmed": true,
+            "conforms_to_question": true,
+            "basis": "native output",
+            "status": "confirmed"
+          }
+        },
+        "passed": true,
+        "aligned": true,
+        "registered_difference": null
+      },
+      {
+        "id": "S02",
+        "title": "能量×极角格子覆盖，无缺口无重叠",
+        "classification": "question prerequisite",
+        "align": true,
+        "sides": {
+          "geant4": {
+            "effective": {
+              "energy_edges_MeV": [
+                35.18064,
+                41.25585,
+                48.38017,
+                56.73476,
+                66.53208,
+                78.02125,
+                91.49445,
+                107.29429
+              ],
+              "angle_edges_deg": [
+                0,
+                45,
+                90,
+                135,
+                180
+              ],
+              "coverage": "exact_once"
+            },
+            "answer": {
+              "energy_edges_MeV": [
+                35.18064,
+                41.25585,
+                48.38017,
+                56.73476,
+                66.53208,
+                78.02125,
+                91.49445,
+                107.29429
+              ],
+              "angle_edges_deg": [
+                0,
+                45,
+                90,
+                135,
+                180
+              ],
+              "coverage": "exact_once"
+            },
+            "confirmed": true,
+            "conforms_to_question": true,
+            "basis": "fixed host",
+            "status": "confirmed"
+          },
+          "fluka": {
+            "effective": {
+              "energy_edges_MeV": [
+                35.18064,
+                41.25585,
+                48.38017,
+                56.73476,
+                66.53208,
+                78.02125,
+                91.49445,
+                107.29429
+              ],
+              "angle_edges_deg": [
+                0,
+                45,
+                90,
+                135,
+                180
+              ],
+              "coverage": "exact_once"
+            },
+            "answer": {
+              "energy_edges_MeV": [
+                35.18064,
+                41.25585,
+                48.38017,
+                56.73476,
+                66.53208,
+                78.02125,
+                91.49445,
+                107.29429
+              ],
+              "angle_edges_deg": [
+                0,
+                45,
+                90,
+                135,
+                180
+              ],
+              "coverage": "exact_once"
+            },
+            "confirmed": true,
+            "conforms_to_question": true,
+            "basis": "native output",
+            "status": "confirmed"
+          }
+        },
+        "passed": true,
+        "aligned": true,
+        "registered_difference": null
+      },
+      {
+        "id": "S03",
+        "title": "计分粒子",
+        "classification": "question prerequisite",
+        "align": true,
+        "sides": {
+          "geant4": {
+            "effective": "neutron",
+            "answer": "neutron",
+            "confirmed": true,
+            "conforms_to_question": true,
+            "basis": "fixed host",
+            "status": "confirmed"
+          },
+          "fluka": {
+            "effective": "neutron",
+            "answer": "neutron",
+            "confirmed": true,
+            "conforms_to_question": true,
+            "basis": "native output",
+            "status": "confirmed"
+          }
+        },
+        "passed": true,
+        "aligned": true,
+        "registered_difference": null
+      },
+      {
+        "id": "S04",
+        "title": "穿越面、方向与极角参考轴",
+        "classification": "question prerequisite",
+        "align": true,
+        "sides": {
+          "geant4": {
+            "effective": {
+              "from": "TARGET",
+              "to": "VOID",
+              "direction": "outward",
+              "angle_reference": "beam",
+              "axis": [
+                0.0,
+                0.0,
+                1.0
+              ],
+              "azimuth": "full"
+            },
+            "answer": {
+              "from": "TARGET",
+              "to": "VOID",
+              "direction": "outward",
+              "angle_reference": "beam",
+              "axis": [
+                0.0,
+                0.0,
+                1.0
+              ],
+              "azimuth": "full"
+            },
+            "confirmed": true,
+            "conforms_to_question": true,
+            "basis": "fixed host",
+            "status": "confirmed"
+          },
+          "fluka": {
+            "effective": {
+              "from": "TARGET",
+              "to": "VOID",
+              "direction": "outward",
+              "angle_reference": "beam",
+              "axis": [
+                0.0,
+                0.0,
+                1.0
+              ],
+              "azimuth": "full"
+            },
+            "answer": {
+              "from": "TARGET",
+              "to": "VOID",
+              "direction": "outward",
+              "angle_reference": "beam",
+              "axis": [
+                0.0,
+                0.0,
+                1.0
+              ],
+              "azimuth": "full"
+            },
+            "confirmed": true,
+            "conforms_to_question": true,
+            "basis": "native output",
+            "status": "confirmed"
+          }
+        },
+        "passed": true,
+        "aligned": true,
+        "registered_difference": null
+      },
+      {
+        "id": "S05",
+        "title": "结果量与产额类型",
+        "classification": "question prerequisite",
+        "align": true,
+        "sides": {
+          "geant4": {
+            "effective": "d2N_dE_dOmega_per_primary",
+            "answer": "d2N_dE_dOmega_per_primary",
+            "confirmed": true,
+            "conforms_to_question": true,
+            "basis": "fixed host",
+            "status": "confirmed"
+          },
+          "fluka": {
+            "effective": "d2N_dE_dOmega_per_primary",
+            "answer": "d2N_dE_dOmega_per_primary",
+            "confirmed": true,
+            "conforms_to_question": true,
+            "basis": "native output",
+            "status": "confirmed"
+          }
+        },
+        "passed": true,
+        "aligned": true,
+        "registered_difference": null
+      },
+      {
+        "id": "S06",
+        "title": "实际归一",
+        "classification": "question prerequisite",
+        "align": true,
+        "sides": {
+          "geant4": {
+            "effective": {
+              "per_primary": true,
+              "per_energy_width": true,
+              "per_solid_angle": true,
+              "user_normalization": 1.0,
+              "cross_section_factor": 1.0
+            },
+            "answer": {
+              "per_primary": true,
+              "per_energy_width": true,
+              "per_solid_angle": true,
+              "user_normalization": 1.0,
+              "cross_section_factor": 1.0
+            },
+            "confirmed": true,
+            "conforms_to_question": true,
+            "basis": "fixed host",
+            "status": "confirmed"
+          },
+          "fluka": {
+            "effective": {
+              "per_primary": true,
+              "per_energy_width": true,
+              "per_solid_angle": true,
+              "user_normalization": 1.0,
+              "cross_section_factor": 1.0
+            },
+            "answer": {
+              "per_primary": true,
+              "per_energy_width": true,
+              "per_solid_angle": true,
+              "user_normalization": 1.0,
+              "cross_section_factor": 1.0
+            },
+            "confirmed": true,
+            "conforms_to_question": true,
+            "basis": "native output",
+            "status": "confirmed"
+          }
+        },
+        "passed": true,
+        "aligned": true,
+        "registered_difference": null
+      },
+      {
+        "id": "S07",
+        "title": "到题面结果量的换算",
+        "classification": "question prerequisite",
+        "align": true,
+        "sides": {
+          "geant4": {
+            "effective": {
+              "native_energy_unit": "MeV",
+              "output_unit": "1/(primary MeV sr)",
+              "factor": 1.0
+            },
+            "answer": {
+              "native_energy_unit": "MeV",
+              "output_unit": "1/(primary MeV sr)",
+              "factor": 1.0
+            },
+            "confirmed": true,
+            "conforms_to_question": true,
+            "basis": "fixed host",
+            "status": "confirmed"
+          },
+          "fluka": {
+            "effective": {
+              "native_energy_unit": "GeV",
+              "output_unit": "1/(primary MeV sr)",
+              "factor": 0.001
+            },
+            "answer": {
+              "native_energy_unit": "GeV",
+              "output_unit": "1/(primary MeV sr)",
+              "factor": 0.001
+            },
+            "confirmed": true,
+            "conforms_to_question": true,
+            "basis": "native output",
+            "status": "confirmed"
+          }
+        },
+        "passed": true,
+        "aligned": true,
+        "registered_difference": null
+      },
+      {
+        "id": "S08",
+        "title": "输出可读性",
+        "classification": "question prerequisite",
+        "align": true,
+        "sides": {
+          "geant4": {
+            "effective": "event_CSV_plus_fixed_reducer",
+            "answer": "event_CSV_plus_fixed_reducer",
+            "confirmed": true,
+            "conforms_to_question": true,
+            "basis": "fixed host",
+            "status": "confirmed"
+          },
+          "fluka": {
+            "effective": "formatted_USRYIELD",
+            "answer": "formatted_USRYIELD",
+            "confirmed": true,
+            "conforms_to_question": true,
+            "basis": "native output",
+            "status": "confirmed"
+          }
+        },
+        "passed": true,
+        "aligned": true,
+        "registered_difference": null
+      },
+      {
+        "id": "S09",
+        "title": "两个变量的编码、含义与数值单位",
+        "classification": "question prerequisite",
+        "align": true,
+        "sides": {
+          "geant4": {
+            "effective": {
+              "energy": "kinetic",
+              "angle": "laboratory_polar",
+              "energy_readback_unit": "MeV",
+              "angle_readback_unit": "direction_cosine"
+            },
+            "answer": {
+              "energy": "kinetic",
+              "angle": "laboratory_polar",
+              "energy_readback_unit": "MeV",
+              "angle_readback_unit": "direction_cosine"
+            },
+            "confirmed": true,
+            "conforms_to_question": true,
+            "basis": "fixed host",
+            "status": "confirmed"
+          },
+          "fluka": {
+            "effective": {
+              "energy": "kinetic",
+              "angle": "laboratory_polar",
+              "energy_readback_unit": "GeV",
+              "angle_readback_unit": "radian"
+            },
+            "answer": {
+              "energy": "kinetic",
+              "angle": "laboratory_polar",
+              "energy_readback_unit": "GeV",
+              "angle_readback_unit": "radian"
+            },
+            "confirmed": true,
+            "conforms_to_question": true,
+            "basis": "native output",
+            "status": "confirmed"
+          }
+        },
+        "passed": true,
+        "aligned": true,
+        "registered_difference": null
+      }
+    ]
+  }
+}

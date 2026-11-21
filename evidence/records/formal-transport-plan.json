@@ -1,0 +1,189 @@
+{
+  "methods_document": "experiments/recorded-input-transport/METHODS.md",
+  "methods_sha256": "c3800796dcea92507c4b84e6eea06a0c4fd3ea3b0ece1bb2e84ee27ca92c3882",
+  "schema": "t069-transport-plan/1",
+  "source_commit": "da22a9bbc74fb4e5c3a98df9be5d29f77ac5a185",
+  "kernel_version": "t069/1-transport-unreviewed",
+  "previous_checker_commit": "66d3acb04ae834e3dd4579d2239ede9a8bac17ba",
+  "recheck_kernel_version": "t069/2-exact-seed-unreviewed",
+  "recheck_previous_checker_commit": "da22a9bbc74fb4e5c3a98df9be5d29f77ac5a185",
+  "recheck_source_commit": "e2fb2d95b7cfbde9584b866f0c20b8516b24e66c",
+  "total_histories": 32000000,
+  "workers": 18,
+  "retries": 0,
+  "pre_registered_criteria": {
+    "reference_compatibility": "abs(R-R0) <= 2*sqrt(SE_R**2+SE0**2)",
+    "lower_bound": "R-2*SE_R > 1.10",
+    "lower_threshold": 1.1
+  },
+  "selected_reference": {
+    "cell": "两边都开：G4 默认 / FLUKA COALESCE",
+    "display": "1.315 ± 0.029",
+    "ratio": 1.3147499288226958,
+    "mc_se": 0.0143609212300579,
+    "source_sha256": "8612e1108a5ddf435aa1b63b40e0f32433ed142ab138a2f38eb104e0c6ace210"
+  },
+  "reference_table": {
+    "scope": "4pi free neutrons, 35.18064-107.29429 MeV, T056 thin target 800MeV",
+    "statistics": {
+      "g4-default": {
+        "yield": 0.0038116250000000003,
+        "variance_mean": 7.354848052252817e-10,
+        "units": 800,
+        "histories": 8000000
+      },
+      "g4-incl42": {
+        "yield": 0.005308250000000001,
+        "variance_mean": 9.959098091364207e-10,
+        "units": 800,
+        "histories": 8000000
+      },
+      "fluka-default": {
+        "yield": 0.0037310012182762047,
+        "variance_mean": 9.787150285483171e-10,
+        "units": 40,
+        "histories": 8000000
+      },
+      "fluka-coalesce": {
+        "yield": 0.002899125465945568,
+        "variance_mean": 5.773072711650576e-10,
+        "units": 40,
+        "histories": 8000000
+      },
+      "g4-cluster-off": {
+        "yield": 0.00507475,
+        "variance_mean": 1.0732946652065082e-09,
+        "units": 800,
+        "histories": 8000000
+      }
+    },
+    "ratios": [
+      {
+        "label": "两边都关：G4 仅关团簇 / FLUKA 默认",
+        "numerator": "g4-cluster-off",
+        "denominator": "fluka-default",
+        "ratio": 1.3601576904187218,
+        "mc_se": 0.01439355778979161,
+        "low2se": 1.3313705748391387,
+        "high2se": 1.388944805998305
+      },
+      {
+        "label": "两边都开：G4 默认 / FLUKA COALESCE",
+        "numerator": "g4-default",
+        "denominator": "fluka-coalesce",
+        "ratio": 1.3147499288226958,
+        "mc_se": 0.0143609212300579,
+        "low2se": 1.28602808636258,
+        "high2se": 1.3434717712828117
+      },
+      {
+        "label": "incl42 组合 / FLUKA 默认",
+        "numerator": "g4-incl42",
+        "denominator": "fluka-default",
+        "ratio": 1.4227414276890846,
+        "mc_se": 0.014623971959009966,
+        "low2se": 1.3934934837710646,
+        "high2se": 1.4519893716071046
+      },
+      {
+        "label": "默认配对：G4 默认 / FLUKA 默认",
+        "numerator": "g4-default",
+        "denominator": "fluka-default",
+        "ratio": 1.021609154488844,
+        "mc_se": 0.01123453134431027,
+        "low2se": 0.9991400918002233,
+        "high2se": 1.0440782171774645
+      },
+      {
+        "label": "反向不齐：G4 仅关团簇 / FLUKA COALESCE",
+        "numerator": "g4-cluster-off",
+        "denominator": "fluka-coalesce",
+        "ratio": 1.7504416623600105,
+        "mc_se": 0.018389062837193198,
+        "low2se": 1.713663536685624,
+        "high2se": 1.787219788034397
+      }
+    ],
+    "four_cell_supplement": {
+      "date": "2026-11-11",
+      "new_histories": 0,
+      "new_model_calls": 0,
+      "method": "same first-order independent numerator/denominator MC variance propagation; existing yields only",
+      "frozen_three_ratios_unchanged": true
+    }
+  },
+  "groups": {
+    "Fe-M01": {
+      "slot": "Fe-M01",
+      "answer": "experiments/four-condition-inputs/consistency/results/formal-v2/Fe-M01-r2/answer.json",
+      "answer_file_sha256": "5fe0f8b02cfd22e6bb1c73b9370bde75e048456527feb52f03b1c8f24f717b05",
+      "answer_fields_sha256": {
+        "geometry_gdml": "9015a85ca64c59d68465ca1ec7bf3a10f851f2413801ceb2e1757fc23fe81524",
+        "beam_mac": "cfc43a751470b52ad440f2d99402b8a63f08ae46bd4caef8d7210d7a79b72333",
+        "physics_txt": "57e7fd81b92029537f91fa772deedf2fb93870506d294580eb53aedf072eee7c",
+        "host_options_json": "41edfdce04d17d157c61df68c1d06b431a9c81bf1321ebce056afe1ea4c72530",
+        "fluka_inp": "b88c613200ee39c02b672a67af00c50d9291e3480de266ccc2d78f4eccf58c60",
+        "answers_json": "908524153042e2f3b878184621da03066669cf0432eaecc28abf31801d33532b",
+        "differences_json": "afe36df93e3aa39377d80016d970658e62201137420838e8123e2903fa0db447"
+      },
+      "g4_binary_sha256": "0fcc6efaf81480236abe5a9b47c86bdb7cb01ff924d3fbc3c17afff5ff1e33d6",
+      "fluka_binary_sha256": "1b7e0a904dcbbb915f62fe16c25bb24b729ec5531a2265d7c866f6b6f22ce2e6",
+      "g4_seed_base": 70690000,
+      "fluka_seed_base": 72690000,
+      "g4_statistical_units": 800,
+      "fluka_statistical_units": 40,
+      "archived_paired_setting_records": 800
+    },
+    "Fe-C01": {
+      "slot": "Fe-C01",
+      "answer": "experiments/four-condition-inputs/consistency/results/formal-v2/Fe-C01-r2/answer.json",
+      "answer_file_sha256": "ad2428254eb375fb28f0f3da09d0bb11248c7174e3a13b7dc88d7ecffa2ba1ab",
+      "answer_fields_sha256": {
+        "geometry_gdml": "dee7c6ceaae400f99b70a588882d40ddddd32366fc382d4052a72ad0fb061e17",
+        "beam_mac": "cfc43a751470b52ad440f2d99402b8a63f08ae46bd4caef8d7210d7a79b72333",
+        "physics_txt": "57e7fd81b92029537f91fa772deedf2fb93870506d294580eb53aedf072eee7c",
+        "host_options_json": "5e82835035e7750688a965fc45cd6c8991179744f34f57eae6b95cd77c26ab7b",
+        "fluka_inp": "2add3441a1b76c3e8ba1c7aed504881d2301ea76aee005a3374052bfce685bcd",
+        "answers_json": "a0dce6071f2a790fbb531adf5110ef7a9d46ff55559c282f0468b49086be5464",
+        "differences_json": "771f0eeddea455ed3590595b6dea9b56865607e536c3b14fc8c8d80d1c0c97cb"
+      },
+      "g4_binary_sha256": "0fcc6efaf81480236abe5a9b47c86bdb7cb01ff924d3fbc3c17afff5ff1e33d6",
+      "fluka_binary_sha256": "1b7e0a904dcbbb915f62fe16c25bb24b729ec5531a2265d7c866f6b6f22ce2e6",
+      "g4_seed_base": 71690000,
+      "fluka_seed_base": 73690000,
+      "g4_statistical_units": 800,
+      "fluka_statistical_units": 40,
+      "archived_paired_setting_records": 800
+    }
+  },
+  "bound_files_sha256": {
+    "adapters/fluka/electromagnetic.py": "4d1f0ea93689ec311584332b87305446d978d91a992b851fada06983d78e60eb",
+    "adapters/fluka/usryield.py": "288969e4cced5d1744a9814ce796c154ec09f1f183b5bc57d3952ec1d395acc7",
+    "adapters/geant4/runtime_evidence.py": "2a732b062f0461c5a7b6ddeada1edc6e92f5626982baad0157092118a2f250b4",
+    "experiments/four-condition-inputs/consistency/results/formal-v2/Fe-C01-r2/answer.json": "ad2428254eb375fb28f0f3da09d0bb11248c7174e3a13b7dc88d7ecffa2ba1ab",
+    "experiments/four-condition-inputs/consistency/results/formal-v2/Fe-M01-r2/answer.json": "5fe0f8b02cfd22e6bb1c73b9370bde75e048456527feb52f03b1c8f24f717b05",
+    "experiments/recorded-input-transport/METHODS.md": "c3800796dcea92507c4b84e6eea06a0c4fd3ea3b0ece1bb2e84ee27ca92c3882",
+    "experiments/recorded-input-transport/analyze.py": "02dcd1c84538a9e0ea8bb14b39df3f63b4d53b417a3736809f1622e984f2e690",
+    "experiments/recorded-input-transport/prepare.py": "cd7298cea21c0e0f7a02ffdb0dd060bf9ec04e1d3e3ca94ec6bd4e7d23a56c18",
+    "experiments/recorded-input-transport/run.py": "345fd142dff35139312167d489b0367f0682666d566d9be3b57fe08e490a435f",
+    "experiments/scoring-continuation/host.json": "a3ddebfa58d4c5fd4b44955ff275ee021d653a1daf5032ac065271ee2d408571",
+    "experiments/scoring-continuation/host/registered-main.cc": "ad6e6e9446853123642170b79a932cf14c5406ca347338a77e278c9ae294bc6e",
+    "pilot/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "pilot/precheck.py": "47043ce4f5bc5e25a375ea8e0e04d87406b58470f2ad12252012980249d70e48",
+    "reviews/T067/offline-repair-20261114/contracts/problem-fe.json": "36688a36bf80aa3b559e868af6b5f476a32aec92f5b6baa374358e76c033c643",
+    "src/xcode_accept/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src/xcode_accept/artifact_kernel/__init__.py": "05d8d55704231af570edaf4d64897469f96b4a2fa62d9d4a1bbb4959d56cef26",
+    "src/xcode_accept/artifact_kernel/base_kernel.py": "0ecf4bf33613cf1a7ef305bc5c2e7d215e6e3d57b3b5087e1fa9d61c6f8ad314",
+    "src/xcode_accept/artifact_kernel/checklist.json": "4e510cf784f435ec6b998cb387543edeb5f61dd49eb4d0f2e06ca65631be11d6",
+    "src/xcode_accept/artifact_kernel/hp_reader.py": "ad0666a6db93b4b81d8648a14923b9804574248ae7c21bc5d0cc064dbc3fc941",
+    "src/xcode_accept/artifact_kernel/input_scope.py": "6e5ddef5dbc9298cb7e9f963f14a5a140f7974da86ed9e6b55dcfe813756801a",
+    "src/xcode_accept/artifact_kernel/kernel.py": "85eb46210a6f05e4fd24e1e15f58a3bbfd72216060691e8e4a2735dc0a65bb2a",
+    "src/xcode_accept/artifact_kernel/mass_readback.py": "786ff01b51d1d9612098fefe15fb6e53ff2ade9d77505d241b906ca244b22382",
+    "src/xcode_accept/artifact_kernel/material_readback.py": "adffd98df996402d7fce2126f4d915e676e9366af4036e87ff13f91cf74cabda",
+    "src/xcode_accept/artifact_kernel/physics.py": "ca0a6c704b868f724542aa28a05c1446450da47591ee96eb75d933b2294ae02d",
+    "src/xcode_accept/artifact_kernel/score_reduction.py": "eac3128303a8405769a465de872deed8feb8a54013bb53145cfda588d96b39d7",
+    "src/xcode_accept/artifact_kernel/scoring.py": "957050618e7a8b48aba3eb64bfd91c6ac34bc0b16b742c73b20a3eadce605d78",
+    "src/xcode_accept/artifact_kernel/transport_scope.py": "2a75480a02f348a5e8e9fc7444aa426d2ecb85dadf2bb84ed24b2734c26ea68d",
+    "src/xcode_accept/catalog.py": "6e0ab7b9068a98b65e4dab13837cb9cad5faf352ad0f7328fedd0b391b477f73"
+  }
+}

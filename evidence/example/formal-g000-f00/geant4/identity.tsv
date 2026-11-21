@@ -1,0 +1,18 @@
+schema_version	3
+engine	HepJamesRandom
+seed	70690000
+requested_events	10000
+geant4_version	$Name: geant4-11-04-patch-03 [MT]$
+run_manager_class	G4RunManager
+physics	QGSP_INCLXX_HP
+target	Target
+requested_cut_mm_bits	3fb999999999999a
+effective_default_cut_mm_bits	3fb999999999999a
+target_gamma_cut_mm_bits	3fb999999999999a
+target_electron_cut_mm_bits	3fb999999999999a
+target_positron_cut_mm_bits	3fb999999999999a
+target_proton_cut_mm_bits	0000000000000000
+macro_sha256	cfc43a751470b52ad440f2d99402b8a63f08ae46bd4caef8d7210d7a79b72333
+material	TargetMaterial
+density_g_cm3_bits	401f7ef9db22d0e4
+volume_mm3_bits	408c0db1f6a0cd1a

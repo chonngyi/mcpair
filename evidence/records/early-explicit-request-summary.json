@@ -1,0 +1,68 @@
+{
+  "groups": [
+    {
+      "scope": "all_complete_texts",
+      "group": "C",
+      "n": 4,
+      "samples": [
+        "C01",
+        "C02",
+        "C03",
+        "C04"
+      ],
+      "undeclared": 0,
+      "declared_different": 0,
+      "declared_same": 4,
+      "P03_archived_readback_confirmed": 4,
+      "all_physics_static_passed": 0
+    },
+    {
+      "scope": "all_complete_texts",
+      "group": "M",
+      "n": 4,
+      "samples": [
+        "M01",
+        "M02",
+        "M03",
+        "M04"
+      ],
+      "undeclared": 0,
+      "declared_different": 0,
+      "declared_same": 4,
+      "P03_archived_readback_confirmed": 4,
+      "all_physics_static_passed": 0
+    },
+    {
+      "scope": "conforming_only",
+      "group": "C",
+      "n": 3,
+      "samples": [
+        "C01",
+        "C03",
+        "C04"
+      ],
+      "undeclared": 0,
+      "declared_different": 0,
+      "declared_same": 3,
+      "P03_archived_readback_confirmed": 3,
+      "all_physics_static_passed": 0
+    },
+    {
+      "scope": "conforming_only",
+      "group": "M",
+      "n": 4,
+      "samples": [
+        "M01",
+        "M02",
+        "M03",
+        "M04"
+      ],
+      "undeclared": 0,
+      "declared_different": 0,
+      "declared_same": 4,
+      "P03_archived_readback_confirmed": 4,
+      "all_physics_static_passed": 0
+    }
+  ],
+  "counts_are_not_population_rates": true
+}

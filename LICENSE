@@ -1,0 +1,35 @@
+MCPair licences
+
+Software (MIT)
+
+The MIT License in LICENSES/MIT.txt covers the project's Python and C++
+source files and the machine-readable physics checklist in
+evidence/settings-source/checklist.json.
+
+Research materials (CC BY 4.0)
+
+Shiyang Zhang licenses the project's original documentation, input decks,
+setting records, research data and figures under the Creative Commons
+Attribution 4.0 International Public License, to the extent that copyright
+or database rights apply. For attribution, cite Shiyang Zhang, MCPair, and
+identify the version you used. The full terms are in LICENSES/CC-BY-4.0.txt
+and at https://creativecommons.org/licenses/by/4.0/legalcode.en.
+
+Third-party material
+
+The following files are archived outputs of the authors' CERN FLUKA 4-5.2
+run. They are outside both project licence grants.
+
+    evidence/example/formal-g000-f00/fluka/input001.out
+    evidence/example/formal-g000-f00/fluka/input001_fort.21
+
+The files retain their original notices. Third-party text quoted within
+other records, including native FLUKA output excerpts, also remains outside
+the project licence grants. The grants cover the authors' contributions
+to those records and to the derived data and figures.
+
+The simulation software is distributed separately by its developers.
+For CERN's FLUKA software terms and required references, see
+https://fluka.cern/download/licences,
+https://fluka.cern/download/licences/fluka-single-user-licence and
+https://fluka.cern/documentation/references.

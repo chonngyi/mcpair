@@ -1,0 +1,84 @@
+
+ *****  800 MeV proton on natural Fe cylindrical target                                   *****
+
+           DATE: 11/14/26,  TIME: 11:06:42
+
+          Total number of particles followed         200000, for a total weight of  2.0000E+05
+
+1
+
+   Yield n.   1  "FE01      " , generalized particle n.    8, from region n.     1 to region n.     2
+      user normalization:  1.0000E+00, adopted cross section (if any):  1.0000E+00 mb
+      linear 1st variable binning from   0.0000E+00 to  3.1416E+00     4 bins ( 7.8540E-01 wide)
+      2nd variable ranges from   3.5181E-02 to  4.1256E-02
+      1st variable is: Laboratory Angle (radians)   
+      2nd variable is: Laboratory Kinetic Energy    
+      Data follow in a vector A(ie), format (1(5x,1p,10(1x,e11.4)))
+
+       7.6027E-03  4.6311E-03  2.5934E-03  3.1305E-03
+1
+
+   Yield n.   2  "FE02      " , generalized particle n.    8, from region n.     1 to region n.     2
+      user normalization:  1.0000E+00, adopted cross section (if any):  1.0000E+00 mb
+      linear 1st variable binning from   0.0000E+00 to  3.1416E+00     4 bins ( 7.8540E-01 wide)
+      2nd variable ranges from   4.1256E-02 to  4.8380E-02
+      1st variable is: Laboratory Angle (radians)   
+      2nd variable is: Laboratory Kinetic Energy    
+      Data follow in a vector A(ie), format (1(5x,1p,10(1x,e11.4)))
+
+       7.2459E-03  6.4766E-03  3.6332E-03  1.9068E-03
+1
+
+   Yield n.   3  "FE03      " , generalized particle n.    8, from region n.     1 to region n.     2
+      user normalization:  1.0000E+00, adopted cross section (if any):  1.0000E+00 mb
+      linear 1st variable binning from   0.0000E+00 to  3.1416E+00     4 bins ( 7.8540E-01 wide)
+      2nd variable ranges from   4.8380E-02 to  5.6735E-02
+      1st variable is: Laboratory Angle (radians)   
+      2nd variable is: Laboratory Kinetic Energy    
+      Data follow in a vector A(ie), format (1(5x,1p,10(1x,e11.4)))
+
+       7.4797E-03  5.1187E-03  1.3470E-03  3.5772E-03
+1
+
+   Yield n.   4  "FE04      " , generalized particle n.    8, from region n.     1 to region n.     2
+      user normalization:  1.0000E+00, adopted cross section (if any):  1.0000E+00 mb
+      linear 1st variable binning from   0.0000E+00 to  3.1416E+00     4 bins ( 7.8540E-01 wide)
+      2nd variable ranges from   5.6735E-02 to  6.6532E-02
+      1st variable is: Laboratory Angle (radians)   
+      2nd variable is: Laboratory Kinetic Energy    
+      Data follow in a vector A(ie), format (1(5x,1p,10(1x,e11.4)))
+
+       3.8824E-03  4.8244E-03  2.0676E-03  8.3195E-04
+1
+
+   Yield n.   5  "FE05      " , generalized particle n.    8, from region n.     1 to region n.     2
+      user normalization:  1.0000E+00, adopted cross section (if any):  1.0000E+00 mb
+      linear 1st variable binning from   0.0000E+00 to  3.1416E+00     4 bins ( 7.8540E-01 wide)
+      2nd variable ranges from   6.6532E-02 to  7.8021E-02
+      1st variable is: Laboratory Angle (radians)   
+      2nd variable is: Laboratory Kinetic Energy    
+      Data follow in a vector A(ie), format (1(5x,1p,10(1x,e11.4)))
+
+       6.3849E-03  3.0365E-03  1.5672E-03  7.0944E-04
+1
+
+   Yield n.   6  "FE06      " , generalized particle n.    8, from region n.     1 to region n.     2
+      user normalization:  1.0000E+00, adopted cross section (if any):  1.0000E+00 mb
+      linear 1st variable binning from   0.0000E+00 to  3.1416E+00     4 bins ( 7.8540E-01 wide)
+      2nd variable ranges from   7.8021E-02 to  9.1494E-02
+      1st variable is: Laboratory Angle (radians)   
+      2nd variable is: Laboratory Kinetic Energy    
+      Data follow in a vector A(ie), format (1(5x,1p,10(1x,e11.4)))
+
+       5.2430E-03  4.5105E-03  9.1881E-04  8.0662E-04
+1
+
+   Yield n.   7  "FE07      " , generalized particle n.    8, from region n.     1 to region n.     2
+      user normalization:  1.0000E+00, adopted cross section (if any):  1.0000E+00 mb
+      linear 1st variable binning from   0.0000E+00 to  3.1416E+00     4 bins ( 7.8540E-01 wide)
+      2nd variable ranges from   9.1494E-02 to  1.0729E-01
+      1st variable is: Laboratory Angle (radians)   
+      2nd variable is: Laboratory Kinetic Energy    
+      Data follow in a vector A(ie), format (1(5x,1p,10(1x,e11.4)))
+
+       5.3308E-03  2.9916E-03  9.9720E-04  1.2037E-03

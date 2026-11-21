@@ -1,0 +1,6402 @@
+[
+  {
+    "g4_batch": 0,
+    "fluka_stream": 0,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p000/kernel.json",
+    "sha256": "fd74558a7d8543f074549521ac4262ac9bb92d1916d41428cc78fb218e253e1c"
+  },
+  {
+    "g4_batch": 1,
+    "fluka_stream": 0,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p001/kernel.json",
+    "sha256": "86a9e65b0d14fbd60aacf6d07d272fe8367fe00ab4f61aff28755887efde4793"
+  },
+  {
+    "g4_batch": 2,
+    "fluka_stream": 0,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p002/kernel.json",
+    "sha256": "e7dd92c5875aecd915aec49e67633ff57a7df3a37b21f0a08141e76b63f35345"
+  },
+  {
+    "g4_batch": 3,
+    "fluka_stream": 0,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p003/kernel.json",
+    "sha256": "c2391fdfc68cab1c4c254e198319c3593e7c3670832b0260f456832778b7fb1b"
+  },
+  {
+    "g4_batch": 4,
+    "fluka_stream": 0,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p004/kernel.json",
+    "sha256": "aeaa3b4f717c0397f1fc147121429e6dffe2c6a8e81a08a8d0916110b867519f"
+  },
+  {
+    "g4_batch": 5,
+    "fluka_stream": 0,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p005/kernel.json",
+    "sha256": "c1586da24e837518ce13a021aec9a11c6a1ea67eb50c6177710828923987bcc8"
+  },
+  {
+    "g4_batch": 6,
+    "fluka_stream": 0,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p006/kernel.json",
+    "sha256": "453d26fc249276058a2d6e18413e94ea47e82471e7587ecfe0e9fc22cd4c8af4"
+  },
+  {
+    "g4_batch": 7,
+    "fluka_stream": 0,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p007/kernel.json",
+    "sha256": "9e1f290e652a3c1af4c6cea24edeb169d0c74fb4063bb7cd18ed473b8ec3d63e"
+  },
+  {
+    "g4_batch": 8,
+    "fluka_stream": 0,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p008/kernel.json",
+    "sha256": "200cab8b05712e3ccc9feb946be26d952823eb90442c9cdba2152b33d8df74ce"
+  },
+  {
+    "g4_batch": 9,
+    "fluka_stream": 0,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p009/kernel.json",
+    "sha256": "08541dc21313175b28459331ddf7e5baf2c5df71abfec337898782a3d545e0bf"
+  },
+  {
+    "g4_batch": 10,
+    "fluka_stream": 0,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p010/kernel.json",
+    "sha256": "e72b419eaf65dda4466732d4f0ea28b853fad30684df98679501150efa626523"
+  },
+  {
+    "g4_batch": 11,
+    "fluka_stream": 0,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p011/kernel.json",
+    "sha256": "71ae01b2637a207391675427ac16d88388c60d125d453e9556a50fb439bcf69a"
+  },
+  {
+    "g4_batch": 12,
+    "fluka_stream": 0,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p012/kernel.json",
+    "sha256": "60d78fd21ce1a24e2d8d8dc618ccfe8f68fb20a06c994c52bdc0e3ce7dd44844"
+  },
+  {
+    "g4_batch": 13,
+    "fluka_stream": 0,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p013/kernel.json",
+    "sha256": "43b2431d880e6011c2ff257017b5f5c6ddc96907fd85c884bd22cf0ddf49254f"
+  },
+  {
+    "g4_batch": 14,
+    "fluka_stream": 0,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p014/kernel.json",
+    "sha256": "8e06ddac3219ab76501c1a921cf1119f2551683bbdc88efd19fafd5d4c34cefa"
+  },
+  {
+    "g4_batch": 15,
+    "fluka_stream": 0,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p015/kernel.json",
+    "sha256": "2047013b629b9fd470565cb5442f75542e88cf4152b09015e8f97dd45000622e"
+  },
+  {
+    "g4_batch": 16,
+    "fluka_stream": 0,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p016/kernel.json",
+    "sha256": "f99aee003ff03372b195ac9bc7339fd015640c63e8389c1acd1332a57be84c55"
+  },
+  {
+    "g4_batch": 17,
+    "fluka_stream": 0,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p017/kernel.json",
+    "sha256": "16b98867fb191f10493c9b43cc19479ca6d6614e7de2e1380a11cf529d108b92"
+  },
+  {
+    "g4_batch": 18,
+    "fluka_stream": 0,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p018/kernel.json",
+    "sha256": "482b97200cf31be5238439178be41699bf3dedb88470fde973dd9e30e80bdee2"
+  },
+  {
+    "g4_batch": 19,
+    "fluka_stream": 0,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p019/kernel.json",
+    "sha256": "0b930c8d917359a3dac0b27aaeafa1104bc30b9124c4189b5f6b444ea3251c2e"
+  },
+  {
+    "g4_batch": 20,
+    "fluka_stream": 1,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p020/kernel.json",
+    "sha256": "0024ec7060a50b44ce2dbc989e64f0bb6f38ca09fa2ed2427466d2e6c79e06e8"
+  },
+  {
+    "g4_batch": 21,
+    "fluka_stream": 1,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p021/kernel.json",
+    "sha256": "304c5841a48e66db492b8ca417dd967f17bcfdae82d9227e1af2b472d68fe3e4"
+  },
+  {
+    "g4_batch": 22,
+    "fluka_stream": 1,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p022/kernel.json",
+    "sha256": "2d96db4f38c00c7c54065f5c55de2158e699d56e38da4a66141b5b461d632f59"
+  },
+  {
+    "g4_batch": 23,
+    "fluka_stream": 1,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p023/kernel.json",
+    "sha256": "a41e5abd6bea7cdff89fd2dc10402a33f9f1c33f3bd08102c3b5c7f200577e8e"
+  },
+  {
+    "g4_batch": 24,
+    "fluka_stream": 1,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p024/kernel.json",
+    "sha256": "935b668f4488c32e1de640cbe1303f5f380fca771c0d9a7d319a021276862bd1"
+  },
+  {
+    "g4_batch": 25,
+    "fluka_stream": 1,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p025/kernel.json",
+    "sha256": "dcb281211a8ebe33c2e2bd90dcf7487b6525007817c80313d8a6a2b5b6a8d4e9"
+  },
+  {
+    "g4_batch": 26,
+    "fluka_stream": 1,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p026/kernel.json",
+    "sha256": "b91090dd9f37296aa5314a66ae861a0f502384c610f98877d9a57527e734d204"
+  },
+  {
+    "g4_batch": 27,
+    "fluka_stream": 1,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p027/kernel.json",
+    "sha256": "8f93916d4ec1c38f75eccf712e6fb20067b4eb127c14b6fe274a943c8bca0759"
+  },
+  {
+    "g4_batch": 28,
+    "fluka_stream": 1,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p028/kernel.json",
+    "sha256": "c212094605b18ffd5150c9495f45f0fd257e058083e986a9d0ee867902cf1952"
+  },
+  {
+    "g4_batch": 29,
+    "fluka_stream": 1,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p029/kernel.json",
+    "sha256": "b6fd405e54cd7fe9a56fbf628a7a28d64efbca1a5b83fbdeab03087ab45076af"
+  },
+  {
+    "g4_batch": 30,
+    "fluka_stream": 1,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p030/kernel.json",
+    "sha256": "d61042e3cff27f1af6fd749cf01ec1b6ca8bfaffe24f449acae4338c1a85b972"
+  },
+  {
+    "g4_batch": 31,
+    "fluka_stream": 1,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p031/kernel.json",
+    "sha256": "5e2d9698fecab0049a1db66fc23438ee8f89772cea5373ded4fde77bc5e2306e"
+  },
+  {
+    "g4_batch": 32,
+    "fluka_stream": 1,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p032/kernel.json",
+    "sha256": "e597794eb7a769b8e8b9af35c8934b90aa2135dd7ba2695542a7ca72c90e73ff"
+  },
+  {
+    "g4_batch": 33,
+    "fluka_stream": 1,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p033/kernel.json",
+    "sha256": "759bfac44f8b61d0a831426f8ea3364c95f69b01a875b4943a7856d4422f4c36"
+  },
+  {
+    "g4_batch": 34,
+    "fluka_stream": 1,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p034/kernel.json",
+    "sha256": "95fb345574570c7dc02d8f3a1e9e4013c0944893998a11f973bc540a8852aba3"
+  },
+  {
+    "g4_batch": 35,
+    "fluka_stream": 1,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p035/kernel.json",
+    "sha256": "3e041d0195a721bf4b135c8d9871ed63aeca21f98c8d878b8c364c55911b442c"
+  },
+  {
+    "g4_batch": 36,
+    "fluka_stream": 1,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p036/kernel.json",
+    "sha256": "cc42e32d5e16cc8856be13481ebb25d43d1c9d27f2191573c25c6d83ef5ec828"
+  },
+  {
+    "g4_batch": 37,
+    "fluka_stream": 1,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p037/kernel.json",
+    "sha256": "25b184425a62f5a5879512bc4e6df7d17b66fb31a4cddf4481da447330c0ebef"
+  },
+  {
+    "g4_batch": 38,
+    "fluka_stream": 1,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p038/kernel.json",
+    "sha256": "fd79a529a3b5a0fc8afcc9732b184436529cd0ac5f7b8306657d00c19f4a30a5"
+  },
+  {
+    "g4_batch": 39,
+    "fluka_stream": 1,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p039/kernel.json",
+    "sha256": "1d7cd4274ae80a99c3cede91e6f9694a864ca08af75fd4d8a54ebbf64c3bc95f"
+  },
+  {
+    "g4_batch": 40,
+    "fluka_stream": 2,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p040/kernel.json",
+    "sha256": "3768da0bd61f83acda76a8365e45d4376024ad249ade3a1ef67cfcb33b80e9e4"
+  },
+  {
+    "g4_batch": 41,
+    "fluka_stream": 2,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p041/kernel.json",
+    "sha256": "40299c5e09976333136fee658620b079ecca51adafe89122914a3e37de84d410"
+  },
+  {
+    "g4_batch": 42,
+    "fluka_stream": 2,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p042/kernel.json",
+    "sha256": "87a28460eaa6dacbd0dc85eafcc863d1dd7f4da4597dca2008013226b9e33896"
+  },
+  {
+    "g4_batch": 43,
+    "fluka_stream": 2,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p043/kernel.json",
+    "sha256": "1dfc3c295ff745651a1cadfb69a441c87a9e88cabc7479fbf1b1fbcc7181e39a"
+  },
+  {
+    "g4_batch": 44,
+    "fluka_stream": 2,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p044/kernel.json",
+    "sha256": "26060481b2900b24cf333fae90dd544f35d81ae0a2e59317990c141c2e3ee77f"
+  },
+  {
+    "g4_batch": 45,
+    "fluka_stream": 2,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p045/kernel.json",
+    "sha256": "b6b8378514531e111c90ba10848b422f29f7cbb35f9ec0e263db11d19dacda80"
+  },
+  {
+    "g4_batch": 46,
+    "fluka_stream": 2,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p046/kernel.json",
+    "sha256": "bb09e3165449d6f69019d02a3a407bb324da54b4b020d1e2248f6874d1e62bfc"
+  },
+  {
+    "g4_batch": 47,
+    "fluka_stream": 2,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p047/kernel.json",
+    "sha256": "f53d67acd30efcaeb2d88a8297897b842a1474a27afc2e56726e60fef74bea41"
+  },
+  {
+    "g4_batch": 48,
+    "fluka_stream": 2,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p048/kernel.json",
+    "sha256": "98a19696986ba45f9fa7abc9618059a04d4e0acaf5b11cd15059dc5adf5ac3ee"
+  },
+  {
+    "g4_batch": 49,
+    "fluka_stream": 2,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p049/kernel.json",
+    "sha256": "c223ce9ae02c974c23a39e2a30859381769bc569c5b971c1ce371ff14f4d7bd1"
+  },
+  {
+    "g4_batch": 50,
+    "fluka_stream": 2,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p050/kernel.json",
+    "sha256": "5684404f48d9a5b4ef8130d36410c7b64fe0f847b4650685196d5823a6982d7b"
+  },
+  {
+    "g4_batch": 51,
+    "fluka_stream": 2,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p051/kernel.json",
+    "sha256": "614a3b5977052f2fd771b39c0dbd9c0f4e2938c8c7d21391e9fd74cade0e7d9c"
+  },
+  {
+    "g4_batch": 52,
+    "fluka_stream": 2,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p052/kernel.json",
+    "sha256": "67161079967a2c481a4cd4799685ebc5f466b04f66e9d09be2cdba81e5d503f8"
+  },
+  {
+    "g4_batch": 53,
+    "fluka_stream": 2,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p053/kernel.json",
+    "sha256": "e3b279efe3e7394eb1105b2190286eaad71eb5d17fda75f2a94d6bf818b0182f"
+  },
+  {
+    "g4_batch": 54,
+    "fluka_stream": 2,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p054/kernel.json",
+    "sha256": "245aba3cb02eb3ad75f1332cddb2bd8b138381648d43bce343fff51a066c26b5"
+  },
+  {
+    "g4_batch": 55,
+    "fluka_stream": 2,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p055/kernel.json",
+    "sha256": "0c36a0f4e19ea7d115d3aa2814d989180931998bb893860a7126cb2d2b6ad3db"
+  },
+  {
+    "g4_batch": 56,
+    "fluka_stream": 2,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p056/kernel.json",
+    "sha256": "fd2806c454e8e1e4e6d107df7c5d36f131e4ad973b6fe855a791fe171a977987"
+  },
+  {
+    "g4_batch": 57,
+    "fluka_stream": 2,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p057/kernel.json",
+    "sha256": "c9478cdfd8cd5a7b40051812a1789640b358825632a40d45b290c60bb984ae03"
+  },
+  {
+    "g4_batch": 58,
+    "fluka_stream": 2,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p058/kernel.json",
+    "sha256": "e46f069c152edfd365453760de98d0aa7eb4cacd106b1baee85b4565381ae843"
+  },
+  {
+    "g4_batch": 59,
+    "fluka_stream": 2,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p059/kernel.json",
+    "sha256": "868eca09e9ca42daf673195e9eb532d2ac33fcb96ceeddcc24356f268f8d92c1"
+  },
+  {
+    "g4_batch": 60,
+    "fluka_stream": 3,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p060/kernel.json",
+    "sha256": "06fbd0ebc993676266032de337d6d25573aa2c011f79ef3a7665f4ef3117f241"
+  },
+  {
+    "g4_batch": 61,
+    "fluka_stream": 3,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p061/kernel.json",
+    "sha256": "6dc9de30af21a3ace26213c3557be0a0ed345548e0e7bff88539fa3d6230779f"
+  },
+  {
+    "g4_batch": 62,
+    "fluka_stream": 3,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p062/kernel.json",
+    "sha256": "adb878e361b05cd450e20338804efb0c135ac4bb9a3b81678d049ae00a3f5cb9"
+  },
+  {
+    "g4_batch": 63,
+    "fluka_stream": 3,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p063/kernel.json",
+    "sha256": "be8820b39662e141d06818a69898a9db7f500b24c66127885171d28a98155e69"
+  },
+  {
+    "g4_batch": 64,
+    "fluka_stream": 3,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p064/kernel.json",
+    "sha256": "e619a4ae66810e24a2eb3616ec14083bf0c9b845130fe9af3cc796cf0a17f12d"
+  },
+  {
+    "g4_batch": 65,
+    "fluka_stream": 3,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p065/kernel.json",
+    "sha256": "333d339d1875528f0fa7cbac887498a20416f3b85d8ae6fb67671ac5702a02a3"
+  },
+  {
+    "g4_batch": 66,
+    "fluka_stream": 3,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p066/kernel.json",
+    "sha256": "75125c6a8957b074b72a0ed42c778346b7d5f010590b26568316b6e9e68cf8c0"
+  },
+  {
+    "g4_batch": 67,
+    "fluka_stream": 3,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p067/kernel.json",
+    "sha256": "3f813bd6aa4da087494573d73493aa6655879960f0fdbf098f8a69baf055cccc"
+  },
+  {
+    "g4_batch": 68,
+    "fluka_stream": 3,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p068/kernel.json",
+    "sha256": "91a4d4ed3c53da7a183639a42da08f6d8b8c65c76f7575b89d030e2c35093c8f"
+  },
+  {
+    "g4_batch": 69,
+    "fluka_stream": 3,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p069/kernel.json",
+    "sha256": "65cf75e9d3411036147644dedfabf208e25167977ad1881f6869ffcfc7672071"
+  },
+  {
+    "g4_batch": 70,
+    "fluka_stream": 3,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p070/kernel.json",
+    "sha256": "d60ee0de3eab385fa29bfb3a6c2468a12450a5be252a2550607f8e17db28d41c"
+  },
+  {
+    "g4_batch": 71,
+    "fluka_stream": 3,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p071/kernel.json",
+    "sha256": "fe79b54f9dd9704b9ec10ca6f306e6dfd8f6fc5020a49511bdafdb68c0f89197"
+  },
+  {
+    "g4_batch": 72,
+    "fluka_stream": 3,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p072/kernel.json",
+    "sha256": "7c1b9f1e6c3200870afc57b9d62bbfd6ad932676d7ee3bdd4ad228ee18fe655a"
+  },
+  {
+    "g4_batch": 73,
+    "fluka_stream": 3,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p073/kernel.json",
+    "sha256": "f31a38b8c84dcebd20643eb9f4f07818e731f533e1c44a7ce784e63331b24ed0"
+  },
+  {
+    "g4_batch": 74,
+    "fluka_stream": 3,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p074/kernel.json",
+    "sha256": "da72298ab07dc35ff91c1852bcb7259977263013a2d1cebcf0611d5bda1041fa"
+  },
+  {
+    "g4_batch": 75,
+    "fluka_stream": 3,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p075/kernel.json",
+    "sha256": "9dd71fecc8779321e743cc23e7629da045adf9a89f6042852dcf5f430eacbe3f"
+  },
+  {
+    "g4_batch": 76,
+    "fluka_stream": 3,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p076/kernel.json",
+    "sha256": "ce5fd5cebbc3328223769f8e3d6b1d82ca0dcbee834d48c0c78d085cc18c8021"
+  },
+  {
+    "g4_batch": 77,
+    "fluka_stream": 3,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p077/kernel.json",
+    "sha256": "e1ec8c680ef55d2817abaebdfc6d41911468201ef4d15a06f735812ccb2f0568"
+  },
+  {
+    "g4_batch": 78,
+    "fluka_stream": 3,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p078/kernel.json",
+    "sha256": "64fa35fb126dfe86f70283eda3b87226c3b18ced6b4a18e425bb181a4adfbf74"
+  },
+  {
+    "g4_batch": 79,
+    "fluka_stream": 3,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p079/kernel.json",
+    "sha256": "155630b2966ea827cf230d5b5dafc9fc628711bdb998773a1a5e87384b72a562"
+  },
+  {
+    "g4_batch": 80,
+    "fluka_stream": 4,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p080/kernel.json",
+    "sha256": "e693f6f0f26905e74e4e5af661621ae631e7e14cda802b1751ef105c179758e5"
+  },
+  {
+    "g4_batch": 81,
+    "fluka_stream": 4,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p081/kernel.json",
+    "sha256": "d9bd6c0b0cfd914283e1cd168f1126fe4934a0c2ab852b0a0ac39d4e95755c0b"
+  },
+  {
+    "g4_batch": 82,
+    "fluka_stream": 4,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p082/kernel.json",
+    "sha256": "9ecb7bdd78df205537d5f78447fa8b3a21885d11535f92e7a254fc12f787655e"
+  },
+  {
+    "g4_batch": 83,
+    "fluka_stream": 4,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p083/kernel.json",
+    "sha256": "6fdab0a45fd260293ed145f78a5fc881204d7a1bee3399f62a02545f756718bc"
+  },
+  {
+    "g4_batch": 84,
+    "fluka_stream": 4,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p084/kernel.json",
+    "sha256": "005e7b3affd537699efdeed52b88997926677e5056cceeb471ecd5badfd5f293"
+  },
+  {
+    "g4_batch": 85,
+    "fluka_stream": 4,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p085/kernel.json",
+    "sha256": "f2326ce5df8738db1c34a1f712723fdbd5df61cb1ce95f3b1329e759e72286a7"
+  },
+  {
+    "g4_batch": 86,
+    "fluka_stream": 4,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p086/kernel.json",
+    "sha256": "857cf3d7d9d68435f0de0c3d751c5926452d85ad32a6def232256d750f7999ef"
+  },
+  {
+    "g4_batch": 87,
+    "fluka_stream": 4,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p087/kernel.json",
+    "sha256": "caa039f84b60df45f0a06530c0207c7175ba39a866cf711a35a551782b5a33c8"
+  },
+  {
+    "g4_batch": 88,
+    "fluka_stream": 4,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p088/kernel.json",
+    "sha256": "346c44f1c6d69c5b4376da6523fb9cf70fb4cb14f5c6ba31fb20b4d7e9c330db"
+  },
+  {
+    "g4_batch": 89,
+    "fluka_stream": 4,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p089/kernel.json",
+    "sha256": "7c921cf2253685cf51f692dc1ecfa57a0dbda7d17db2e8f57854f148daabecce"
+  },
+  {
+    "g4_batch": 90,
+    "fluka_stream": 4,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p090/kernel.json",
+    "sha256": "5979c32843b551b11b6ba417bd8bc5f6a734a46301f69ef46368a21f6e708fec"
+  },
+  {
+    "g4_batch": 91,
+    "fluka_stream": 4,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p091/kernel.json",
+    "sha256": "0171ea87f1cb6e4b2ce2d7df3fa8924701e99c1a21167aad9de02804352e4a57"
+  },
+  {
+    "g4_batch": 92,
+    "fluka_stream": 4,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p092/kernel.json",
+    "sha256": "30e54c58870f0f14ea53c072dfd0220d95cad1ed8507d3a6e4af1482991f5847"
+  },
+  {
+    "g4_batch": 93,
+    "fluka_stream": 4,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p093/kernel.json",
+    "sha256": "e73a5a87e18f7f35a4effac534b73d49d96dde15ca38d2c11a06a0893a1a48d4"
+  },
+  {
+    "g4_batch": 94,
+    "fluka_stream": 4,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p094/kernel.json",
+    "sha256": "2972b50d3dd2b50d88d4b5a39fe6f7fdf2571f58ab8e86208c1c6ca45e35e2c4"
+  },
+  {
+    "g4_batch": 95,
+    "fluka_stream": 4,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p095/kernel.json",
+    "sha256": "7d0f4bb2f7882fc003fd9b5dd1e23009aac31a0530b1f5da70673f73f6c8ea83"
+  },
+  {
+    "g4_batch": 96,
+    "fluka_stream": 4,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p096/kernel.json",
+    "sha256": "94f9b2d102c5f175e39b3843532897d9fd48438e7800b53d0bfa8910cc8879a5"
+  },
+  {
+    "g4_batch": 97,
+    "fluka_stream": 4,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p097/kernel.json",
+    "sha256": "36d76c9e11b19115eb043636c5b69fd147cb74bfdb99de666df93fc1cb408356"
+  },
+  {
+    "g4_batch": 98,
+    "fluka_stream": 4,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p098/kernel.json",
+    "sha256": "47f3aed006c6be619d5e10e29a9c6df26fe3cb31158d1e08322e14597b751de5"
+  },
+  {
+    "g4_batch": 99,
+    "fluka_stream": 4,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p099/kernel.json",
+    "sha256": "d1b101db5cd1eabea90b71bdb241acd35a7ed771752dd15591e8cc537c4cfef4"
+  },
+  {
+    "g4_batch": 100,
+    "fluka_stream": 5,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p100/kernel.json",
+    "sha256": "7ed6b39c625d676cc8b891f432537548002371d42ed8921540a8fb86270bd78d"
+  },
+  {
+    "g4_batch": 101,
+    "fluka_stream": 5,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p101/kernel.json",
+    "sha256": "2fa3bf57ef6c8c44e880e499bb48ea6383b35b30168598b1ce428deb91725e76"
+  },
+  {
+    "g4_batch": 102,
+    "fluka_stream": 5,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p102/kernel.json",
+    "sha256": "d7abd8a43084a5c970b0a26063988dd461c2e8ef06c08d1b193d030f81826323"
+  },
+  {
+    "g4_batch": 103,
+    "fluka_stream": 5,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p103/kernel.json",
+    "sha256": "7825e676ad5622734d9db3a1d922082475dbcb1c8d09c1781e2349247b42a047"
+  },
+  {
+    "g4_batch": 104,
+    "fluka_stream": 5,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p104/kernel.json",
+    "sha256": "0f7ac8d5e424d1a189931924cf23c375b73314133ccf9ebb0ac2ecb27f01e105"
+  },
+  {
+    "g4_batch": 105,
+    "fluka_stream": 5,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p105/kernel.json",
+    "sha256": "520a35edf6c61d8269ee0013879724e665154f1673b5d5f29efa322840987b6d"
+  },
+  {
+    "g4_batch": 106,
+    "fluka_stream": 5,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p106/kernel.json",
+    "sha256": "fcfcbcb4bc88a13fbb1361d925dea2227e04ec259b898759ec6a5c6a55fe5e3e"
+  },
+  {
+    "g4_batch": 107,
+    "fluka_stream": 5,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p107/kernel.json",
+    "sha256": "605cd7513cd64bd8362f27d17bf61ff7ccb4f614db7cf0242d6f6ff57a116405"
+  },
+  {
+    "g4_batch": 108,
+    "fluka_stream": 5,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p108/kernel.json",
+    "sha256": "c54a542d3a922ed8db922c36945b088b2e77c54769153c481b46b7a6bdd6ea2d"
+  },
+  {
+    "g4_batch": 109,
+    "fluka_stream": 5,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p109/kernel.json",
+    "sha256": "6ecd2d13c34d85b696936d15fdb34ef85b4b5a809548bd2efa59d5c164ebcca1"
+  },
+  {
+    "g4_batch": 110,
+    "fluka_stream": 5,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p110/kernel.json",
+    "sha256": "e1dd6adbea32c46f60323bd7962bfd4dbf64fe52fb75234ed43887e915cee52e"
+  },
+  {
+    "g4_batch": 111,
+    "fluka_stream": 5,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p111/kernel.json",
+    "sha256": "c3a553309567ea58d809700e361e870cf4a783f0e5715b339cb7d93ea226098c"
+  },
+  {
+    "g4_batch": 112,
+    "fluka_stream": 5,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p112/kernel.json",
+    "sha256": "359e7619d82adf6b31073bd0d5c0a88d185e4e57fdb1a7075d3ffe01598fcbd1"
+  },
+  {
+    "g4_batch": 113,
+    "fluka_stream": 5,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p113/kernel.json",
+    "sha256": "3352b33663b33aa5afe7d29ed580ef3dc42b1d9255374dfcc847d73dd5ef9afd"
+  },
+  {
+    "g4_batch": 114,
+    "fluka_stream": 5,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p114/kernel.json",
+    "sha256": "ac6fd9051a9913de5d0db93b580ea50d0b7c747ac73348a0b237f24ae8896b23"
+  },
+  {
+    "g4_batch": 115,
+    "fluka_stream": 5,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p115/kernel.json",
+    "sha256": "7ee28a49a79994ac0635b6a46fbbd096b75bf6ad4ea41344daec4d7110538976"
+  },
+  {
+    "g4_batch": 116,
+    "fluka_stream": 5,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p116/kernel.json",
+    "sha256": "178b8094ee0ef6b751e4191037908b58c374e300696c53bda7af0a205a2d56e8"
+  },
+  {
+    "g4_batch": 117,
+    "fluka_stream": 5,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p117/kernel.json",
+    "sha256": "eb2630b79063678d8503cd068d6dc8ead6654d250afa4b77c42c3c3933f520f1"
+  },
+  {
+    "g4_batch": 118,
+    "fluka_stream": 5,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p118/kernel.json",
+    "sha256": "2d9ba33da95eb87c225493c521209b0d5ec8cac10e8ae7da2b4df730edb6434b"
+  },
+  {
+    "g4_batch": 119,
+    "fluka_stream": 5,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p119/kernel.json",
+    "sha256": "1095ece2ba2a122165fb393fb083eca34d8f14a356fb03c26df569e634adfd53"
+  },
+  {
+    "g4_batch": 120,
+    "fluka_stream": 6,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p120/kernel.json",
+    "sha256": "48061f1c3adf930c6500b28ebf9f74a565232f0cc2062a041e7d3b33f00af916"
+  },
+  {
+    "g4_batch": 121,
+    "fluka_stream": 6,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p121/kernel.json",
+    "sha256": "ab9e5e126171667799a2efb4a9a422191c19a1947cc65b9b7ac4d5dac9d43d3b"
+  },
+  {
+    "g4_batch": 122,
+    "fluka_stream": 6,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p122/kernel.json",
+    "sha256": "893e7f0e5cb1aec768d74d657c0d2ad290a8970617750e6edd54b59c60ab12ee"
+  },
+  {
+    "g4_batch": 123,
+    "fluka_stream": 6,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p123/kernel.json",
+    "sha256": "3f3c68bd7e6c673551047de63d18c3bec35c675268e4b601ce3c98a8966d4b98"
+  },
+  {
+    "g4_batch": 124,
+    "fluka_stream": 6,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p124/kernel.json",
+    "sha256": "47d786c67838f0449e9e50c1e5bd0a5e0d5ee60d05310e5ad8ad84a5a79eec3e"
+  },
+  {
+    "g4_batch": 125,
+    "fluka_stream": 6,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p125/kernel.json",
+    "sha256": "2aa46b758e24e741e97c8f260a1c095447e201e3674bd62e2d2cc0980a230def"
+  },
+  {
+    "g4_batch": 126,
+    "fluka_stream": 6,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p126/kernel.json",
+    "sha256": "7184b8fb88a5ba41fedc7fc8828dfdb75eb829e2e53bba7e721829497a07bf39"
+  },
+  {
+    "g4_batch": 127,
+    "fluka_stream": 6,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p127/kernel.json",
+    "sha256": "e70b20820900fae8275b6d839a6477f2c27d8bd7db2c423a028a7dc63f8d23dc"
+  },
+  {
+    "g4_batch": 128,
+    "fluka_stream": 6,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p128/kernel.json",
+    "sha256": "7cfdc7f019805c27fb57efe9f0ae63cd5690501177982f72c60cd36ff8e8d969"
+  },
+  {
+    "g4_batch": 129,
+    "fluka_stream": 6,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p129/kernel.json",
+    "sha256": "d536d4f213c6855b57ca00a93703ecd171f8b8f9085941b194b85fe83c051ae4"
+  },
+  {
+    "g4_batch": 130,
+    "fluka_stream": 6,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p130/kernel.json",
+    "sha256": "aa38caf13d9863d05fcd4a47c8b743ab3e91ac2794eef18086d570d1c0c7666a"
+  },
+  {
+    "g4_batch": 131,
+    "fluka_stream": 6,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p131/kernel.json",
+    "sha256": "81e10e8337fc649fe04a10290739acebed28fdf10610c478e96c375d29d9fa7c"
+  },
+  {
+    "g4_batch": 132,
+    "fluka_stream": 6,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p132/kernel.json",
+    "sha256": "a41f2fc6705083504411ae11340f5c9266b59b907d419d67e21c4de09f026c81"
+  },
+  {
+    "g4_batch": 133,
+    "fluka_stream": 6,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p133/kernel.json",
+    "sha256": "e503528112be1f521be1966f3408092d96b0391ea53c355b7d09bd7fe8103bd4"
+  },
+  {
+    "g4_batch": 134,
+    "fluka_stream": 6,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p134/kernel.json",
+    "sha256": "1ad1ad16bcfaa47549286379735d7594e8a2baacafabb944b53af0e5c98a5d6f"
+  },
+  {
+    "g4_batch": 135,
+    "fluka_stream": 6,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p135/kernel.json",
+    "sha256": "9c928aee1daf68e7f79160aef44d4b340d8f22b8d3a2216164ecee34b72a89a5"
+  },
+  {
+    "g4_batch": 136,
+    "fluka_stream": 6,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p136/kernel.json",
+    "sha256": "9904dc6f4541c0319fb35d93f74eb02a44fd4152295a4a3dbea2b2c4ceaae903"
+  },
+  {
+    "g4_batch": 137,
+    "fluka_stream": 6,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p137/kernel.json",
+    "sha256": "27d01cad0bcf31cc082bded620f4c74e0058af7d256065d430047787630cc29a"
+  },
+  {
+    "g4_batch": 138,
+    "fluka_stream": 6,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p138/kernel.json",
+    "sha256": "6f0db8c389d51fef84ee09be89184fcbfd5d33f73fe1da01022a4f67948ee306"
+  },
+  {
+    "g4_batch": 139,
+    "fluka_stream": 6,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p139/kernel.json",
+    "sha256": "2531e2d90afbce1cc1e6ed57d3eb2480c91628f106f9f13184a211364a3db5b8"
+  },
+  {
+    "g4_batch": 140,
+    "fluka_stream": 7,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p140/kernel.json",
+    "sha256": "7d31f9501992f8ad7e8dade24e8bdb92ff7f5f2d32f093297611713ea975238a"
+  },
+  {
+    "g4_batch": 141,
+    "fluka_stream": 7,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p141/kernel.json",
+    "sha256": "9de5c5807e6116b251be5cb6ba6141780880d6c2765b952256deae592b855bd0"
+  },
+  {
+    "g4_batch": 142,
+    "fluka_stream": 7,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p142/kernel.json",
+    "sha256": "13b2536f0b371c2f46d11591ab6cb51375748c21f6154acc8332a7f549a60278"
+  },
+  {
+    "g4_batch": 143,
+    "fluka_stream": 7,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p143/kernel.json",
+    "sha256": "51c56127d3e7ff52cc3f05ed1c13a2f64d6e3c3d594402741a8df3021e7ba74d"
+  },
+  {
+    "g4_batch": 144,
+    "fluka_stream": 7,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p144/kernel.json",
+    "sha256": "26fb9978b139206075252ffea15c14637da2c9e409af77de6d4be251de4ea10f"
+  },
+  {
+    "g4_batch": 145,
+    "fluka_stream": 7,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p145/kernel.json",
+    "sha256": "473f6d5bc90b339348b474b5bf589f434d28f19a84ad02a2595ab03e78f40c5a"
+  },
+  {
+    "g4_batch": 146,
+    "fluka_stream": 7,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p146/kernel.json",
+    "sha256": "fbebdb55ea2b15ff4c0ee6d21a4a07eee86e4db040ef14b4768fba63725d5b55"
+  },
+  {
+    "g4_batch": 147,
+    "fluka_stream": 7,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p147/kernel.json",
+    "sha256": "32fe161094b37f378d20f339170459db93700c416475fb5fdee80f6687386420"
+  },
+  {
+    "g4_batch": 148,
+    "fluka_stream": 7,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p148/kernel.json",
+    "sha256": "e8fbb8710b15a7499dd482429b6aa197901f590ca40e26a8a28707bfb32e9474"
+  },
+  {
+    "g4_batch": 149,
+    "fluka_stream": 7,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p149/kernel.json",
+    "sha256": "27ffe1afa8d904503c713fe8f11ba499a5f0cf67d934d76d7d86661fbd8133fd"
+  },
+  {
+    "g4_batch": 150,
+    "fluka_stream": 7,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p150/kernel.json",
+    "sha256": "75ca3c19181a7ea25ce2925b30b61d6c16c3e646d4d0bbf27dd6a6f54980fd9f"
+  },
+  {
+    "g4_batch": 151,
+    "fluka_stream": 7,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p151/kernel.json",
+    "sha256": "3e3e8324e35188c14ea3ad5677d1cd05760bfb30fa05e78fb22594330c8b33cc"
+  },
+  {
+    "g4_batch": 152,
+    "fluka_stream": 7,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p152/kernel.json",
+    "sha256": "98c305181bcde2923db9b80623ef8434cc6eb6118ffb48f072cfce754647a736"
+  },
+  {
+    "g4_batch": 153,
+    "fluka_stream": 7,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p153/kernel.json",
+    "sha256": "865baa707d00f5014aca566adf45a3c81ee78e7320151ac625bfb8e8388142af"
+  },
+  {
+    "g4_batch": 154,
+    "fluka_stream": 7,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p154/kernel.json",
+    "sha256": "4fe93c2228572fb9294b521e2d2a2b62238f349c1d543848ce88410413db21f3"
+  },
+  {
+    "g4_batch": 155,
+    "fluka_stream": 7,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p155/kernel.json",
+    "sha256": "2ef230fca0b50e74dca05d5c73caad0f65d0dd56ec02a63ae6fe6599431cdc09"
+  },
+  {
+    "g4_batch": 156,
+    "fluka_stream": 7,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p156/kernel.json",
+    "sha256": "f99b6a6ba69778edb591c243db9741f8f7eabcec22904752988439527338c674"
+  },
+  {
+    "g4_batch": 157,
+    "fluka_stream": 7,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p157/kernel.json",
+    "sha256": "093f333332f410ee5825f8a42321011c0f5593a562e4c6c0f8526d6b683ee78f"
+  },
+  {
+    "g4_batch": 158,
+    "fluka_stream": 7,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p158/kernel.json",
+    "sha256": "bd9d22bde5509e791483c855d1cdb09fd37785af062cc95b9990d205b02dd658"
+  },
+  {
+    "g4_batch": 159,
+    "fluka_stream": 7,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p159/kernel.json",
+    "sha256": "4cceffdf02ed23adf9ed56106857ac06c4cb5825266e03fae116eb4fe4bb2a7c"
+  },
+  {
+    "g4_batch": 160,
+    "fluka_stream": 8,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p160/kernel.json",
+    "sha256": "3697c865acbf6c911c9ded9360451b7674ae683226006983a68d62f2a383f98e"
+  },
+  {
+    "g4_batch": 161,
+    "fluka_stream": 8,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p161/kernel.json",
+    "sha256": "caf61706096597dc4a1531f9b39f2d0917d90f6fe23947d14c59db2f5192f284"
+  },
+  {
+    "g4_batch": 162,
+    "fluka_stream": 8,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p162/kernel.json",
+    "sha256": "3f12a606a68ca9ff5de81af351a0660061b5b9116688cbdb9d4cdc23bc6dc983"
+  },
+  {
+    "g4_batch": 163,
+    "fluka_stream": 8,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p163/kernel.json",
+    "sha256": "fdd4ec9f43e839237fe4288405f7e86cf194afde4b6e53058e5e3bab8342cee2"
+  },
+  {
+    "g4_batch": 164,
+    "fluka_stream": 8,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p164/kernel.json",
+    "sha256": "4fbd0ab4290ccc8e40c710e60fd3c17c47d4142edaa5df69a3ed623f90cc2cf1"
+  },
+  {
+    "g4_batch": 165,
+    "fluka_stream": 8,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p165/kernel.json",
+    "sha256": "e6f3f887903f06eb56aca07075de21c73b469a26bc20647c6519c1e1403317e3"
+  },
+  {
+    "g4_batch": 166,
+    "fluka_stream": 8,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p166/kernel.json",
+    "sha256": "1a37c5ed6ebe59d2d50ef6f513afd88d947ff6e65e435fd0b0540ece2d599c80"
+  },
+  {
+    "g4_batch": 167,
+    "fluka_stream": 8,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p167/kernel.json",
+    "sha256": "7daab35afa0997de66d076b998d6725745f8bfcc5911898b7ba7e4312ce03954"
+  },
+  {
+    "g4_batch": 168,
+    "fluka_stream": 8,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p168/kernel.json",
+    "sha256": "8044ea670e8e54dab5dbe80ef3cad73d28a42ab3a1e17d646d2aecdc9658c729"
+  },
+  {
+    "g4_batch": 169,
+    "fluka_stream": 8,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p169/kernel.json",
+    "sha256": "61810cb5ba384a4fd23c048068aa949fc31d04f1f16e5e9f17cb8b6c09fe93cd"
+  },
+  {
+    "g4_batch": 170,
+    "fluka_stream": 8,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p170/kernel.json",
+    "sha256": "37fb05dce8759c83b92318e0fae3228dc21fc3bff6582f30d29e8eb0f01171f7"
+  },
+  {
+    "g4_batch": 171,
+    "fluka_stream": 8,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p171/kernel.json",
+    "sha256": "bb7e0a28cb27dd702eb7466682f61879c9b1e9ab9de0dadfe1ded95768160b3b"
+  },
+  {
+    "g4_batch": 172,
+    "fluka_stream": 8,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p172/kernel.json",
+    "sha256": "022c6591b218154ca3493bff182d2c2c13780cff48212aeaf6f611bf1b06703e"
+  },
+  {
+    "g4_batch": 173,
+    "fluka_stream": 8,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p173/kernel.json",
+    "sha256": "9b8afa2b3bebed22702e09bd6a33ed6274d6b14cba94fc2d36326623d0dd9f79"
+  },
+  {
+    "g4_batch": 174,
+    "fluka_stream": 8,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p174/kernel.json",
+    "sha256": "6567b974eac2d4cc6e9bb25a8fdb7311b5677e6ef4ab599d029748d722865efe"
+  },
+  {
+    "g4_batch": 175,
+    "fluka_stream": 8,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p175/kernel.json",
+    "sha256": "995d7d16744cff5bfbd342aa1a53320951ce056a20fbbafec47c138686072cc4"
+  },
+  {
+    "g4_batch": 176,
+    "fluka_stream": 8,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p176/kernel.json",
+    "sha256": "640f0c7f67232857494e0dda66ebde67ecc04b96fc15a5b6192271b49df8f61b"
+  },
+  {
+    "g4_batch": 177,
+    "fluka_stream": 8,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p177/kernel.json",
+    "sha256": "14cc2484e2a547b8408fe3e69b76e19556a8986691a84c518305c777b3ec2802"
+  },
+  {
+    "g4_batch": 178,
+    "fluka_stream": 8,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p178/kernel.json",
+    "sha256": "e7e37fb50a9f2ec1106afd9e779d8d2454681ffe17ee0a0aa27663879df37369"
+  },
+  {
+    "g4_batch": 179,
+    "fluka_stream": 8,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p179/kernel.json",
+    "sha256": "f8c24fd9a717a992fba22eecd8c8540c78e5587d74b50fcb580fe96a82156bd4"
+  },
+  {
+    "g4_batch": 180,
+    "fluka_stream": 9,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p180/kernel.json",
+    "sha256": "490b3e0b10b883924b7755a3c85f31b19b916064279671773bfa7c97a2324ba4"
+  },
+  {
+    "g4_batch": 181,
+    "fluka_stream": 9,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p181/kernel.json",
+    "sha256": "f0ab3f19399d893a301eaaf233c156e360f40c3e769512c02fdae0f6ccd6a124"
+  },
+  {
+    "g4_batch": 182,
+    "fluka_stream": 9,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p182/kernel.json",
+    "sha256": "8945e4f22e251593a5334cbeb2c7897268e77502320b48c8e7852657cf1763a9"
+  },
+  {
+    "g4_batch": 183,
+    "fluka_stream": 9,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p183/kernel.json",
+    "sha256": "2410d18cab5c3bdc40bae4646aee9c55fa5496bf07a93627404d835debbdf5e3"
+  },
+  {
+    "g4_batch": 184,
+    "fluka_stream": 9,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p184/kernel.json",
+    "sha256": "e784767c669e0efc604df75e40fca91dcd65569667ceac9e7301303e4d7ecb75"
+  },
+  {
+    "g4_batch": 185,
+    "fluka_stream": 9,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p185/kernel.json",
+    "sha256": "612a6d0b7d72872d8cd4814478f50215341d5272fff9913cd082e54e9289ed42"
+  },
+  {
+    "g4_batch": 186,
+    "fluka_stream": 9,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p186/kernel.json",
+    "sha256": "7550bedc36654d53d956b717e9ece632aca62712bf9b403e9b7ea53c4ecee6f1"
+  },
+  {
+    "g4_batch": 187,
+    "fluka_stream": 9,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p187/kernel.json",
+    "sha256": "d52573aa22259b579bd1c7a6f0fbbd4a17fec9cb41eedcf7be425b745b26a2fc"
+  },
+  {
+    "g4_batch": 188,
+    "fluka_stream": 9,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p188/kernel.json",
+    "sha256": "caaa0a14dd9e5d161a139010378b1c810685b3316f01e2bdae63f10933f7f1c5"
+  },
+  {
+    "g4_batch": 189,
+    "fluka_stream": 9,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p189/kernel.json",
+    "sha256": "9cf98803faf8552bc2cffbab8a8d976ecfe25c953a22daa27077fefb40714353"
+  },
+  {
+    "g4_batch": 190,
+    "fluka_stream": 9,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p190/kernel.json",
+    "sha256": "a5ca125f811a5cfa504ff18e32e3f8832cc44f5b1863eec04d4c90d6003e8e7d"
+  },
+  {
+    "g4_batch": 191,
+    "fluka_stream": 9,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p191/kernel.json",
+    "sha256": "73f99d71fd4b51c608839a5c17b3a162312aacefa117dc1d0ea659c5d53d4cd9"
+  },
+  {
+    "g4_batch": 192,
+    "fluka_stream": 9,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p192/kernel.json",
+    "sha256": "c22d6f4c2f34a3f518db44cb8cb0b56e3b26e497d451ae39b73f1b14c6ad3176"
+  },
+  {
+    "g4_batch": 193,
+    "fluka_stream": 9,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p193/kernel.json",
+    "sha256": "f32bbeedf6758cd6cc02e2029bca81dce7ad775c0d6c6c366bbab9198afa2624"
+  },
+  {
+    "g4_batch": 194,
+    "fluka_stream": 9,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p194/kernel.json",
+    "sha256": "e09b2ee26878fa9915b392866f9478587534347b272104d2514fbc86420f3c82"
+  },
+  {
+    "g4_batch": 195,
+    "fluka_stream": 9,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p195/kernel.json",
+    "sha256": "73263a03ed621a4a82028e68935424375fc21d7e09fe657b5fc17cc121b45aaa"
+  },
+  {
+    "g4_batch": 196,
+    "fluka_stream": 9,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p196/kernel.json",
+    "sha256": "4b5f15e394f073c52df150c134d1c67cc8776a900fb664dc6a81cd440f794119"
+  },
+  {
+    "g4_batch": 197,
+    "fluka_stream": 9,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p197/kernel.json",
+    "sha256": "ff7d10d3b1139f34a00c404cce7a27c2667e7831eabe870f2053c624c1f5ddd7"
+  },
+  {
+    "g4_batch": 198,
+    "fluka_stream": 9,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p198/kernel.json",
+    "sha256": "b875d76beee14e927cda8ddd846cc6d0671c14362d0597995d029ec182319cee"
+  },
+  {
+    "g4_batch": 199,
+    "fluka_stream": 9,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p199/kernel.json",
+    "sha256": "3c07254ee0413284521bee96d737709485245a9d2fb4e87ee7007e105904b322"
+  },
+  {
+    "g4_batch": 200,
+    "fluka_stream": 10,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p200/kernel.json",
+    "sha256": "1d3b09110928fc969bb3ec19d580b01083806f1d8a9c6ace1e49b1660c600e6f"
+  },
+  {
+    "g4_batch": 201,
+    "fluka_stream": 10,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p201/kernel.json",
+    "sha256": "d88bf18ccc2e4d3540f2f13c61045c12366838e541b3284cadcebdd4757c0709"
+  },
+  {
+    "g4_batch": 202,
+    "fluka_stream": 10,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p202/kernel.json",
+    "sha256": "78288fc936e532096fda8988cc4604d46712e7183a271e65e388d3532eb4757e"
+  },
+  {
+    "g4_batch": 203,
+    "fluka_stream": 10,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p203/kernel.json",
+    "sha256": "df6dc8e19bc0deaf09cf262e45c2890b9a961a58d3159ee2bceed0bf0f733cbd"
+  },
+  {
+    "g4_batch": 204,
+    "fluka_stream": 10,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p204/kernel.json",
+    "sha256": "e75a308544abdf7219439b2341defd9e9ba451c3328211e665cc924e6697e418"
+  },
+  {
+    "g4_batch": 205,
+    "fluka_stream": 10,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p205/kernel.json",
+    "sha256": "88b46ea125ff4c56932c1937e4f4a16a15a8b50f0549c550529ddfe840f55701"
+  },
+  {
+    "g4_batch": 206,
+    "fluka_stream": 10,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p206/kernel.json",
+    "sha256": "b484188878ad87a89b53f6cfd1ec4aff4f7a243ab18727e0d9ec25296e2139e8"
+  },
+  {
+    "g4_batch": 207,
+    "fluka_stream": 10,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p207/kernel.json",
+    "sha256": "ead40b882561742619b0f2f10048649f0b64a88cd57f8b157ccfde6a3e90239c"
+  },
+  {
+    "g4_batch": 208,
+    "fluka_stream": 10,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p208/kernel.json",
+    "sha256": "de7aa5cef9d6c4e5363dfb472114e88dd4012e1773ae4b892391f358656f958d"
+  },
+  {
+    "g4_batch": 209,
+    "fluka_stream": 10,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p209/kernel.json",
+    "sha256": "72f0c22078d852cdd5a41ae52e1497b59f636289c22bfae454fcff33ad164095"
+  },
+  {
+    "g4_batch": 210,
+    "fluka_stream": 10,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p210/kernel.json",
+    "sha256": "0ba434f6b06ba4dbb4eed1cf9a81e6df59b1c62cf77dbc65aa9ffeda9da4b0cf"
+  },
+  {
+    "g4_batch": 211,
+    "fluka_stream": 10,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p211/kernel.json",
+    "sha256": "d05b8ac1360886aeef309becd109296bcea037521fd754fc0da854d512ea9849"
+  },
+  {
+    "g4_batch": 212,
+    "fluka_stream": 10,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p212/kernel.json",
+    "sha256": "81160b9268e614215332336d9863757bc1fb77ad79d6582f17f36668d8b5b444"
+  },
+  {
+    "g4_batch": 213,
+    "fluka_stream": 10,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p213/kernel.json",
+    "sha256": "6f1d85ec6c4ff6e2552b531549c6716a550847b20d904d9213b60b4a4f5a582e"
+  },
+  {
+    "g4_batch": 214,
+    "fluka_stream": 10,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p214/kernel.json",
+    "sha256": "771b702058622be6b10dc3dc3680df890e5e419a3c0a50b383a5a4740b3995d7"
+  },
+  {
+    "g4_batch": 215,
+    "fluka_stream": 10,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p215/kernel.json",
+    "sha256": "dd1e6a90a0482d53fe5c5d7f9ba81f0d16d74d7945d1ac7218a66b9842539db3"
+  },
+  {
+    "g4_batch": 216,
+    "fluka_stream": 10,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p216/kernel.json",
+    "sha256": "92a0ec301df329bc1aa8210ccba31df06b0a0972fd3da6fd617452aeb8075774"
+  },
+  {
+    "g4_batch": 217,
+    "fluka_stream": 10,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p217/kernel.json",
+    "sha256": "835a9daf3f90fbfb56ab41a6cc5d4890df92b06be6aca800faa3bfc25c658e44"
+  },
+  {
+    "g4_batch": 218,
+    "fluka_stream": 10,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p218/kernel.json",
+    "sha256": "eadeb387fda2a604af628b9ef6b087925fcf6f0bddb6bc76b83bf47f75d195df"
+  },
+  {
+    "g4_batch": 219,
+    "fluka_stream": 10,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p219/kernel.json",
+    "sha256": "b1d1f0e6748f902f303005e67c211c2b78ec43bc3c144d44d65653b46375c3a5"
+  },
+  {
+    "g4_batch": 220,
+    "fluka_stream": 11,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p220/kernel.json",
+    "sha256": "4c6c31247921470d33c07df5a84facd162f03b26b8b5390f70d1f97abb4d5d1a"
+  },
+  {
+    "g4_batch": 221,
+    "fluka_stream": 11,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p221/kernel.json",
+    "sha256": "f022c8a420ff8c5413600d18cdae732c28ab2afef8a36d4ebbeb366ada409350"
+  },
+  {
+    "g4_batch": 222,
+    "fluka_stream": 11,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p222/kernel.json",
+    "sha256": "e748c8dca4aa85dea163a4fbba782280ef699e3910d7061e145d78b9e4f2678b"
+  },
+  {
+    "g4_batch": 223,
+    "fluka_stream": 11,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p223/kernel.json",
+    "sha256": "1b2a2897d9b9166d529b5ff4659209a760e6005ccc7e498f901d071fa293eec2"
+  },
+  {
+    "g4_batch": 224,
+    "fluka_stream": 11,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p224/kernel.json",
+    "sha256": "238094930cd1fc492a0d5a05d99a99f0118ea7a5791703dafca56381d42bef4d"
+  },
+  {
+    "g4_batch": 225,
+    "fluka_stream": 11,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p225/kernel.json",
+    "sha256": "fc03d514695223723ca71a3c796ed90f1bb5148e85ec21f0b0c6eacf09ba0665"
+  },
+  {
+    "g4_batch": 226,
+    "fluka_stream": 11,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p226/kernel.json",
+    "sha256": "8484b40b5e686dba9704824f74216af7d298a5dc9ed8bc78be6828c0757a198d"
+  },
+  {
+    "g4_batch": 227,
+    "fluka_stream": 11,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p227/kernel.json",
+    "sha256": "9ed7a72a538654ace8c51504e1e1259c8eccfd1796a122f643b20e78feb7a132"
+  },
+  {
+    "g4_batch": 228,
+    "fluka_stream": 11,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p228/kernel.json",
+    "sha256": "0cd6003a64e77c802dea37de8eb1faf09ac79ea4860ba957ee1d1487560f144e"
+  },
+  {
+    "g4_batch": 229,
+    "fluka_stream": 11,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p229/kernel.json",
+    "sha256": "ad5738b8bd1c4b9bad1ce4a0b2a134aea58be4befb0255e07fa52166fa787136"
+  },
+  {
+    "g4_batch": 230,
+    "fluka_stream": 11,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p230/kernel.json",
+    "sha256": "4130119c90e2d98bfb5e31ae220a02e963c9fbea003fe5d7c7360eaeecf38e12"
+  },
+  {
+    "g4_batch": 231,
+    "fluka_stream": 11,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p231/kernel.json",
+    "sha256": "bd416a918756b07dee146923b928b92ef1cf1d8345af784c42d7949369d3c5c3"
+  },
+  {
+    "g4_batch": 232,
+    "fluka_stream": 11,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p232/kernel.json",
+    "sha256": "befdb8cadff8423740f502274845a1c2a1502ba1bd0678d22219ad618b020169"
+  },
+  {
+    "g4_batch": 233,
+    "fluka_stream": 11,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p233/kernel.json",
+    "sha256": "1922b8411e9f78c522dd20ad80ad6d20b6a33ac1c9b29049eb80bbe6d1136ce3"
+  },
+  {
+    "g4_batch": 234,
+    "fluka_stream": 11,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p234/kernel.json",
+    "sha256": "2a684f11993e02417523244c45f2f6ef5eb59871b4cd5c3e6bb29bf5bde624e8"
+  },
+  {
+    "g4_batch": 235,
+    "fluka_stream": 11,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p235/kernel.json",
+    "sha256": "0ce8a064d3b3f7f318dae065b65e70ed7570db14b312397eeaf2f44e799fa4a6"
+  },
+  {
+    "g4_batch": 236,
+    "fluka_stream": 11,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p236/kernel.json",
+    "sha256": "6ee496cde63c87531615c67d18bc22cd7d555d22d97cd2abc1542b1f458683a7"
+  },
+  {
+    "g4_batch": 237,
+    "fluka_stream": 11,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p237/kernel.json",
+    "sha256": "3a6887005ad8911f187662da977478cade78896707ed471af3ebe05c45644cab"
+  },
+  {
+    "g4_batch": 238,
+    "fluka_stream": 11,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p238/kernel.json",
+    "sha256": "8a1b95f075ebda98cff6ecb59e8a32d80af9bb625501c80d28196c97c3c559fd"
+  },
+  {
+    "g4_batch": 239,
+    "fluka_stream": 11,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p239/kernel.json",
+    "sha256": "45e82aae0a688116572bdff2057e64236e3feb33b660f2b3e348e1681e943121"
+  },
+  {
+    "g4_batch": 240,
+    "fluka_stream": 12,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p240/kernel.json",
+    "sha256": "bd9b97ee8481bd063dbbe808f56e15cd79127c8ae83b7ce4dd1353dbe9b9b5cc"
+  },
+  {
+    "g4_batch": 241,
+    "fluka_stream": 12,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p241/kernel.json",
+    "sha256": "7194a5d6173be6052fd58723d3940b085ccd8ba1729a5e328b70b2455fa7d080"
+  },
+  {
+    "g4_batch": 242,
+    "fluka_stream": 12,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p242/kernel.json",
+    "sha256": "076af7b5dac1ed72e69cb0a3cbfb5f0a4a16ec43d2dd27f6144cfb86c228fc5e"
+  },
+  {
+    "g4_batch": 243,
+    "fluka_stream": 12,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p243/kernel.json",
+    "sha256": "3fa7131467e70e118df5f650da704ee0838f05fa2b0d109b857bc685403b52a7"
+  },
+  {
+    "g4_batch": 244,
+    "fluka_stream": 12,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p244/kernel.json",
+    "sha256": "2590d8a355da85d6c2f362574a311e0dca76a9ebb4bac6d4c6c880c2bc62eeb2"
+  },
+  {
+    "g4_batch": 245,
+    "fluka_stream": 12,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p245/kernel.json",
+    "sha256": "0c8b032798cdd8838a7da54e7fff8184d30b39443531b6ee708e64477599ee65"
+  },
+  {
+    "g4_batch": 246,
+    "fluka_stream": 12,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p246/kernel.json",
+    "sha256": "f7dc5e96271bbd9237886b5f6473e9c5d5aa2deee8e6972bf1326c622c54735e"
+  },
+  {
+    "g4_batch": 247,
+    "fluka_stream": 12,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p247/kernel.json",
+    "sha256": "9925f16408bb31e0e72224153ee21a39904937cf887cc04bb12cc7b708fedae9"
+  },
+  {
+    "g4_batch": 248,
+    "fluka_stream": 12,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p248/kernel.json",
+    "sha256": "063864743ce67ff7f725e95404b8533b7dd7cc5cb60ca184c55614944e4d9857"
+  },
+  {
+    "g4_batch": 249,
+    "fluka_stream": 12,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p249/kernel.json",
+    "sha256": "f9f439eee6302ca849028e2fca55a281bef52dacfc60177bfc697a1123aec8f3"
+  },
+  {
+    "g4_batch": 250,
+    "fluka_stream": 12,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p250/kernel.json",
+    "sha256": "123f6f483895205acc44eaf1e7d767665145d1583a34457440b4605a188f9bbf"
+  },
+  {
+    "g4_batch": 251,
+    "fluka_stream": 12,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p251/kernel.json",
+    "sha256": "f2527e0f853bfc1dfcd8bc75ca9bd22a00710124a0359b4d134d94d6c2bc6d04"
+  },
+  {
+    "g4_batch": 252,
+    "fluka_stream": 12,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p252/kernel.json",
+    "sha256": "2e0ccb92dc8799b6007a7bf2715235f1644bbd249c1ee62b5e4dcbe271a55dae"
+  },
+  {
+    "g4_batch": 253,
+    "fluka_stream": 12,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p253/kernel.json",
+    "sha256": "62525cf54c8b84cde1bacb87c8e2a41b1662ed53f45067336f4afda3d44c1a98"
+  },
+  {
+    "g4_batch": 254,
+    "fluka_stream": 12,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p254/kernel.json",
+    "sha256": "dfedeb8ea547b7b9f0a5b896c090ef47347baf75d0e3e24d0cf01b5d76da4b2b"
+  },
+  {
+    "g4_batch": 255,
+    "fluka_stream": 12,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p255/kernel.json",
+    "sha256": "86e3538ca33f70c5e4473262fa2ddfb59d232ba49e6ff56f67f5516a36afe93b"
+  },
+  {
+    "g4_batch": 256,
+    "fluka_stream": 12,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p256/kernel.json",
+    "sha256": "14469bb254a92b5c5f445f8f5298f8a14ead78d097748cdefb663a81e86d07a8"
+  },
+  {
+    "g4_batch": 257,
+    "fluka_stream": 12,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p257/kernel.json",
+    "sha256": "66d5be4a0126730e6e74f650fa9a42ebd3592576b08f2ca98394537eb8864a80"
+  },
+  {
+    "g4_batch": 258,
+    "fluka_stream": 12,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p258/kernel.json",
+    "sha256": "08a973c3e0192ed03e679ed5957ecbabeffd19a55ea0bfcd88cb0104e8bf8b23"
+  },
+  {
+    "g4_batch": 259,
+    "fluka_stream": 12,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p259/kernel.json",
+    "sha256": "2cc785893c1d4057cee46a944a83b4035e6fd8cf247fe00de00b82cf07e3d7ed"
+  },
+  {
+    "g4_batch": 260,
+    "fluka_stream": 13,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p260/kernel.json",
+    "sha256": "909daa14192e61fc135ee16a4d5550f684b03bc2215f63c5cbd37e9185c1f64a"
+  },
+  {
+    "g4_batch": 261,
+    "fluka_stream": 13,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p261/kernel.json",
+    "sha256": "e13b91ed3242553963536977fef7143b1fb65fd7e4f8fca7bb94441d95bb2c3e"
+  },
+  {
+    "g4_batch": 262,
+    "fluka_stream": 13,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p262/kernel.json",
+    "sha256": "cc93bf18a3c8408936733dca7aaf53ea92dc8bd7fb878e87b408854ad7e8e05a"
+  },
+  {
+    "g4_batch": 263,
+    "fluka_stream": 13,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p263/kernel.json",
+    "sha256": "4967bc9cf23eb2c4411de1eb02cc18aef89b3cc95a5277dce55b2acd1e6f3207"
+  },
+  {
+    "g4_batch": 264,
+    "fluka_stream": 13,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p264/kernel.json",
+    "sha256": "31d762e8850cd347d2d3902312c1389e02decaf2a34b2be7ad338b8f4050a1e2"
+  },
+  {
+    "g4_batch": 265,
+    "fluka_stream": 13,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p265/kernel.json",
+    "sha256": "feb77722361b9d64c47b4328551b072b971a8929e4c759191f83bc2a0617b463"
+  },
+  {
+    "g4_batch": 266,
+    "fluka_stream": 13,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p266/kernel.json",
+    "sha256": "d6ac674a102db31eea117db051ea49adb02a77b772962396d416219cc0ad9ec8"
+  },
+  {
+    "g4_batch": 267,
+    "fluka_stream": 13,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p267/kernel.json",
+    "sha256": "c9be57dcfb71bb97c930f62aaaa6d49770b78ef73166989cf09a2f5b9dcec525"
+  },
+  {
+    "g4_batch": 268,
+    "fluka_stream": 13,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p268/kernel.json",
+    "sha256": "485a8e9189c07031bcf57fa15e1e5ffd2b2c3c929eb03723b69ec32765b01283"
+  },
+  {
+    "g4_batch": 269,
+    "fluka_stream": 13,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p269/kernel.json",
+    "sha256": "0bfab776560a69f21089c084afed084b98323f59ad8b963b21491ae999d61c17"
+  },
+  {
+    "g4_batch": 270,
+    "fluka_stream": 13,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p270/kernel.json",
+    "sha256": "6dec4f24e147fdac9c278a3da6db0755b6f393b1f5ed8db68490b4bf8d6f6358"
+  },
+  {
+    "g4_batch": 271,
+    "fluka_stream": 13,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p271/kernel.json",
+    "sha256": "f73031b34d2c939679ad67d82d7f0895f042a025d14788117795a129eb956797"
+  },
+  {
+    "g4_batch": 272,
+    "fluka_stream": 13,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p272/kernel.json",
+    "sha256": "053a47b18e44dc121e3d51ce9d31a853ed6e3435c0ce6ad44ad1e7783c714966"
+  },
+  {
+    "g4_batch": 273,
+    "fluka_stream": 13,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p273/kernel.json",
+    "sha256": "2bcc78865a0ae7071479ee4b60ec9b36c4956fe2a74220fbdc93f86e31bc4680"
+  },
+  {
+    "g4_batch": 274,
+    "fluka_stream": 13,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p274/kernel.json",
+    "sha256": "987c268861edc4f07da8aa6fdf39a46e9b1882a0bf0d6218603fc77daf30fb0b"
+  },
+  {
+    "g4_batch": 275,
+    "fluka_stream": 13,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p275/kernel.json",
+    "sha256": "7ca8cf954ac5afbdf90813710c5142ca43c66efc9f1f1c4c918c191448a70528"
+  },
+  {
+    "g4_batch": 276,
+    "fluka_stream": 13,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p276/kernel.json",
+    "sha256": "481c971d3dd1b9da56e8f99db1d620eebe1193ad0a5b159c75f59905de92590c"
+  },
+  {
+    "g4_batch": 277,
+    "fluka_stream": 13,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p277/kernel.json",
+    "sha256": "b40f1824705ca7ec50d12839e3ed71b9a23b4344f09d5a1e839cb710e72f6dc4"
+  },
+  {
+    "g4_batch": 278,
+    "fluka_stream": 13,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p278/kernel.json",
+    "sha256": "ac2cd56debc4016f517cd119199e85412f29f8b885693ad4aaea7e7e2867addd"
+  },
+  {
+    "g4_batch": 279,
+    "fluka_stream": 13,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p279/kernel.json",
+    "sha256": "4b12457c05d31bdc87d4a4be7447a4da7efd12995ded6613c028be2de0d7add2"
+  },
+  {
+    "g4_batch": 280,
+    "fluka_stream": 14,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p280/kernel.json",
+    "sha256": "a54c35eb1da4862d8ff4dbb7558919389149140fb0a23a4d746ab8e980870602"
+  },
+  {
+    "g4_batch": 281,
+    "fluka_stream": 14,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p281/kernel.json",
+    "sha256": "a73895b42ed2529e69d3b1f54f5645dadfc3729a23c96d150db3004749e18bd4"
+  },
+  {
+    "g4_batch": 282,
+    "fluka_stream": 14,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p282/kernel.json",
+    "sha256": "bb3af206df435288f7506d885a0836392e87f4b5145b3e72465639850300a36d"
+  },
+  {
+    "g4_batch": 283,
+    "fluka_stream": 14,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p283/kernel.json",
+    "sha256": "57b84b862661b13613e527679f72e3660724d3edc84e421a8dfd48fbd4985fe9"
+  },
+  {
+    "g4_batch": 284,
+    "fluka_stream": 14,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p284/kernel.json",
+    "sha256": "0a1885f3a1adc389b876aecf6f97f83133f453e1d525737bea4163be7c06176f"
+  },
+  {
+    "g4_batch": 285,
+    "fluka_stream": 14,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p285/kernel.json",
+    "sha256": "51ae86c4f9ad7c7f6ecdc5f5ffdf0e72e6ec3293e1e84b25c570680c24a981ad"
+  },
+  {
+    "g4_batch": 286,
+    "fluka_stream": 14,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p286/kernel.json",
+    "sha256": "d87db6e413b41c76f2f8dc1e8cf7038518a8018a6d59c71fc222f53311f70ff8"
+  },
+  {
+    "g4_batch": 287,
+    "fluka_stream": 14,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p287/kernel.json",
+    "sha256": "7ceef10aa29241f8f13f5b54f505cb6f96c9d3c344e2155eb3bb694986fc6ca9"
+  },
+  {
+    "g4_batch": 288,
+    "fluka_stream": 14,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p288/kernel.json",
+    "sha256": "6c6e5dcf953fe46a7e07696f5d3ade3ab6792b4ddee48fd3271a68130da45b1c"
+  },
+  {
+    "g4_batch": 289,
+    "fluka_stream": 14,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p289/kernel.json",
+    "sha256": "593be290a8472235becac4e858ff8fd577cb481e2f7e306b4b8f4e581560b8d5"
+  },
+  {
+    "g4_batch": 290,
+    "fluka_stream": 14,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p290/kernel.json",
+    "sha256": "35270ee00023d4983f878b73a331eab71c484469d61ca743e730feb775f2c709"
+  },
+  {
+    "g4_batch": 291,
+    "fluka_stream": 14,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p291/kernel.json",
+    "sha256": "c114c6e6459d994c72354b394473a6a387a035190d43e37229fa162f3c7fdca2"
+  },
+  {
+    "g4_batch": 292,
+    "fluka_stream": 14,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p292/kernel.json",
+    "sha256": "3c7fe91051481fa8bd6d7581d1ae604671c765dd7d193cd80beb20b1fc251d44"
+  },
+  {
+    "g4_batch": 293,
+    "fluka_stream": 14,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p293/kernel.json",
+    "sha256": "a40083104465774719a2dd0beb254de89d19874a895fc8c540ac6e3494f7f323"
+  },
+  {
+    "g4_batch": 294,
+    "fluka_stream": 14,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p294/kernel.json",
+    "sha256": "854d113d0e3d5b2faa20afc051fe59f68e78958049fa59d7f54d1fbe49697056"
+  },
+  {
+    "g4_batch": 295,
+    "fluka_stream": 14,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p295/kernel.json",
+    "sha256": "0f70eb0683ca96f49ac0f7ec0f10f513d47a42af2930a28c79a66fdc9245a4a9"
+  },
+  {
+    "g4_batch": 296,
+    "fluka_stream": 14,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p296/kernel.json",
+    "sha256": "f1afea220c54b21f2bacf4eda619cf0042588ac3f8d8e5853c0d49f20a2994b2"
+  },
+  {
+    "g4_batch": 297,
+    "fluka_stream": 14,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p297/kernel.json",
+    "sha256": "80c2b23be7d8be2a30773e19bc97ae21c7fcde158a4184c62b7f527a60f603e5"
+  },
+  {
+    "g4_batch": 298,
+    "fluka_stream": 14,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p298/kernel.json",
+    "sha256": "01d9403cdc7110e877f81c3803908221f73b587be38e678ae9ed43cd77b0f260"
+  },
+  {
+    "g4_batch": 299,
+    "fluka_stream": 14,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p299/kernel.json",
+    "sha256": "becb361c88a795c9318e422798644b6a4a99229599adfb3876779a475a094edf"
+  },
+  {
+    "g4_batch": 300,
+    "fluka_stream": 15,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p300/kernel.json",
+    "sha256": "e9ceda748b9aef8d8df1d6c0e1ad1686ca7b9567c7ac07977b8ec790109b6386"
+  },
+  {
+    "g4_batch": 301,
+    "fluka_stream": 15,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p301/kernel.json",
+    "sha256": "9be7d20d88c2c77a363b908a9469b46df0c62f2173aa149f06c4084a6dea267c"
+  },
+  {
+    "g4_batch": 302,
+    "fluka_stream": 15,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p302/kernel.json",
+    "sha256": "d9036675b6935d07e3378cc9ff50dd2d4e0e094a644ab967624cf013ae5df938"
+  },
+  {
+    "g4_batch": 303,
+    "fluka_stream": 15,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p303/kernel.json",
+    "sha256": "faa42823653a7c758e4be0fda9ae592104f34da00e5aaed74ebf3d0f84e16ee8"
+  },
+  {
+    "g4_batch": 304,
+    "fluka_stream": 15,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p304/kernel.json",
+    "sha256": "e2ae6ee118856a2e381bc894f4ea16c061f66815df96daf2d7f7549eccde2cc8"
+  },
+  {
+    "g4_batch": 305,
+    "fluka_stream": 15,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p305/kernel.json",
+    "sha256": "54d9090744972bc58474d1a59a39abfe5e528ad6db42a274d94e33d9d7ee1d80"
+  },
+  {
+    "g4_batch": 306,
+    "fluka_stream": 15,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p306/kernel.json",
+    "sha256": "b9341c81da83cc7eb18c31b5b7af672b9bc6435d2999234423897ca49552396c"
+  },
+  {
+    "g4_batch": 307,
+    "fluka_stream": 15,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p307/kernel.json",
+    "sha256": "b5c5f87a0927094bd7cbaf507a076637f45df53120ca68b3f6192ef3071e0353"
+  },
+  {
+    "g4_batch": 308,
+    "fluka_stream": 15,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p308/kernel.json",
+    "sha256": "f87eb7dde779a7d319eb84474daeae9ed0e18cbb63332610dfeaebda430b2f08"
+  },
+  {
+    "g4_batch": 309,
+    "fluka_stream": 15,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p309/kernel.json",
+    "sha256": "0cd5b208f3f5c779513ca362f149a3ed937c629a706ede769d284809e7e21258"
+  },
+  {
+    "g4_batch": 310,
+    "fluka_stream": 15,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p310/kernel.json",
+    "sha256": "a92ca37ab5942dea251867e57b037facde1360c5b2f9fbdbc0832c0b1c6ef9ab"
+  },
+  {
+    "g4_batch": 311,
+    "fluka_stream": 15,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p311/kernel.json",
+    "sha256": "812ed51566a76ac1e0a60f86acf0172eb739a83e5f6d5942c7032dd1dc03de32"
+  },
+  {
+    "g4_batch": 312,
+    "fluka_stream": 15,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p312/kernel.json",
+    "sha256": "b5f96065ed7407ee83072060b45fbffaf21c632b347dd5d78b04fe970ce2039e"
+  },
+  {
+    "g4_batch": 313,
+    "fluka_stream": 15,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p313/kernel.json",
+    "sha256": "1cad1e1981e6ebcd748d95ecbc092be74de5d082935a56da2ee6cdee63288358"
+  },
+  {
+    "g4_batch": 314,
+    "fluka_stream": 15,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p314/kernel.json",
+    "sha256": "57ee34e96ba8f7d6a1f87a0cf6cea6a90524ce8c37caf57473bbd14edc1e9229"
+  },
+  {
+    "g4_batch": 315,
+    "fluka_stream": 15,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p315/kernel.json",
+    "sha256": "4975ce55ef721692b14952a59f8dba8f54a9b8e17bd09f8e0abe868d3f53aefb"
+  },
+  {
+    "g4_batch": 316,
+    "fluka_stream": 15,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p316/kernel.json",
+    "sha256": "2d854b5dc621382667c7087351c191889f575ef2dd31bb41cb8aa57535cd221b"
+  },
+  {
+    "g4_batch": 317,
+    "fluka_stream": 15,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p317/kernel.json",
+    "sha256": "01eaf9b3fc53a27d944309a7cd2eee7a640acd9552193ac4bec5485aab259598"
+  },
+  {
+    "g4_batch": 318,
+    "fluka_stream": 15,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p318/kernel.json",
+    "sha256": "d8ce8fc4e277cf11ba6974d5da2e70d6eeff07a462655c667c4f9db14c3741bf"
+  },
+  {
+    "g4_batch": 319,
+    "fluka_stream": 15,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p319/kernel.json",
+    "sha256": "79e864f3fc57b462a5007b61ab3c46decd7e05af97bdc1409d5c9e8b2fd69c8a"
+  },
+  {
+    "g4_batch": 320,
+    "fluka_stream": 16,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p320/kernel.json",
+    "sha256": "b300e9d94680df2b11593551c702d41b035fe5b068b8b1862875d539952f2543"
+  },
+  {
+    "g4_batch": 321,
+    "fluka_stream": 16,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p321/kernel.json",
+    "sha256": "86506af504695e60f643fae79570d6974da68639b94e9f720e120c59114cf08f"
+  },
+  {
+    "g4_batch": 322,
+    "fluka_stream": 16,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p322/kernel.json",
+    "sha256": "22fd8b04afa3aeb51ba3a7dcfe4a4d6b362220738141a809310225031c4e3cbe"
+  },
+  {
+    "g4_batch": 323,
+    "fluka_stream": 16,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p323/kernel.json",
+    "sha256": "e9b57b566b23fcf21163ec47b8c5aad4772b4c349e1c7e2ac96207e5d6bed4bb"
+  },
+  {
+    "g4_batch": 324,
+    "fluka_stream": 16,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p324/kernel.json",
+    "sha256": "8c6ac9c7da42a32315e4c3a1cc90dca30cdeffdd30d1f1fc2bea61f2622e0bae"
+  },
+  {
+    "g4_batch": 325,
+    "fluka_stream": 16,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p325/kernel.json",
+    "sha256": "32093aa7f8dbc873a82aaf6a0ce01560b9cadffb312184bb5ba6bbe1bf5035df"
+  },
+  {
+    "g4_batch": 326,
+    "fluka_stream": 16,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p326/kernel.json",
+    "sha256": "955766c50fe28e092f024f4d1330a10b4694bf908dabd8e86052842ff92bbcbd"
+  },
+  {
+    "g4_batch": 327,
+    "fluka_stream": 16,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p327/kernel.json",
+    "sha256": "c0b2e1d2d55869653373a8ba24e3aecbd07c7e10f12deb04ce44c9b116a95d52"
+  },
+  {
+    "g4_batch": 328,
+    "fluka_stream": 16,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p328/kernel.json",
+    "sha256": "c1b9edda04cac9dede1bd85caee3de5fdc6dc08a8f9b2652efba97925334e697"
+  },
+  {
+    "g4_batch": 329,
+    "fluka_stream": 16,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p329/kernel.json",
+    "sha256": "854596a871456a92f8121d62767a57920948491405e35e18e17a83f134015c24"
+  },
+  {
+    "g4_batch": 330,
+    "fluka_stream": 16,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p330/kernel.json",
+    "sha256": "598e783c52c173efa7394d5b6f02b986ddf28b6efee7af7df5457917e015194d"
+  },
+  {
+    "g4_batch": 331,
+    "fluka_stream": 16,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p331/kernel.json",
+    "sha256": "3e0ad17d6872ada06424444e11fb2eb86bff6f6f91429869cedcfbe393aee908"
+  },
+  {
+    "g4_batch": 332,
+    "fluka_stream": 16,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p332/kernel.json",
+    "sha256": "52854ca209824a262862d73176e515462dca60bc1fe3fc6ba073d711ff14d418"
+  },
+  {
+    "g4_batch": 333,
+    "fluka_stream": 16,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p333/kernel.json",
+    "sha256": "4fc07e1c3601e608697ca834b56a08dcdeb4366cf670e1a66655cc8240845db2"
+  },
+  {
+    "g4_batch": 334,
+    "fluka_stream": 16,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p334/kernel.json",
+    "sha256": "be6ddd126f047cae8c5425e0d501247c2c4e5fa01afb0c0930b2300d09e8e311"
+  },
+  {
+    "g4_batch": 335,
+    "fluka_stream": 16,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p335/kernel.json",
+    "sha256": "4d82fa83f0303199ed95813fa24e3c07ff1377ece0dac0b7c5a08c32c6807df6"
+  },
+  {
+    "g4_batch": 336,
+    "fluka_stream": 16,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p336/kernel.json",
+    "sha256": "2f96226e4f634f0b5e6566e4dc517d590d1e1e34605ce72c6e31ffeeca1abf18"
+  },
+  {
+    "g4_batch": 337,
+    "fluka_stream": 16,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p337/kernel.json",
+    "sha256": "eae2a62b71f91874c2ddd533a59568f282e0bc2dbb4a52548cb28c919d9bae94"
+  },
+  {
+    "g4_batch": 338,
+    "fluka_stream": 16,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p338/kernel.json",
+    "sha256": "9a9f9ea71deef0cff72ac97694aa6d542732ee1b215ef6a92273843e52c60913"
+  },
+  {
+    "g4_batch": 339,
+    "fluka_stream": 16,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p339/kernel.json",
+    "sha256": "666c45bf4681fb455a9ce7e39cbeae49d702ac03d0e7d3fbdcb901d597a58ca1"
+  },
+  {
+    "g4_batch": 340,
+    "fluka_stream": 17,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p340/kernel.json",
+    "sha256": "aae6b35c0a2c42bbc060433cf5fe4575eeaa9f30236ffae1becd772213c17887"
+  },
+  {
+    "g4_batch": 341,
+    "fluka_stream": 17,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p341/kernel.json",
+    "sha256": "7d4e4e8330b2e54cff58524dae6d87a3a1864c419b1fc216540d0358c1bf0042"
+  },
+  {
+    "g4_batch": 342,
+    "fluka_stream": 17,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p342/kernel.json",
+    "sha256": "417d2f98ef9c7f38e7e95473c7cac9adcfc146a5543e2ed4e69802e2c2d54ab3"
+  },
+  {
+    "g4_batch": 343,
+    "fluka_stream": 17,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p343/kernel.json",
+    "sha256": "3335b52350da1025a79b8891a011c13a81853016c2153b4fce7f379a6bd563e1"
+  },
+  {
+    "g4_batch": 344,
+    "fluka_stream": 17,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p344/kernel.json",
+    "sha256": "edbb9d23b4dfc147de27f7e80cbcee95a2fe336c2c2d2194bac7fa52a5698f4f"
+  },
+  {
+    "g4_batch": 345,
+    "fluka_stream": 17,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p345/kernel.json",
+    "sha256": "3435349398f4f388c85ae516f368bc23916f8a6d53b0b54ba8000c69f9d90df6"
+  },
+  {
+    "g4_batch": 346,
+    "fluka_stream": 17,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p346/kernel.json",
+    "sha256": "f0b013524a4bb255ec423e5a04776d7e6641b1a137b7829202fb9ef9df88d3ae"
+  },
+  {
+    "g4_batch": 347,
+    "fluka_stream": 17,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p347/kernel.json",
+    "sha256": "acb0df10b386569380cbb388ab84170c76911129d9aecc4d23032387c91ecdd0"
+  },
+  {
+    "g4_batch": 348,
+    "fluka_stream": 17,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p348/kernel.json",
+    "sha256": "b2c5eaec9fe5eaf97e4e98ea73541b00336503538c475e0ff3b2672c5063c248"
+  },
+  {
+    "g4_batch": 349,
+    "fluka_stream": 17,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p349/kernel.json",
+    "sha256": "ea761a66e6b85281286b1c12d12a62617de93a0c10c1931ddd91e2a555c94ec3"
+  },
+  {
+    "g4_batch": 350,
+    "fluka_stream": 17,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p350/kernel.json",
+    "sha256": "744197bd86efbddbaf004c55040a99b4dc32dfc59fa3637367b918daecef8512"
+  },
+  {
+    "g4_batch": 351,
+    "fluka_stream": 17,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p351/kernel.json",
+    "sha256": "871c148eb3c6f8187ae1bb91cc8351cf62b873ae53bcf8984248e76b796ec75f"
+  },
+  {
+    "g4_batch": 352,
+    "fluka_stream": 17,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p352/kernel.json",
+    "sha256": "1f4d89f3a382533bf163a41823515d1d9a28dc97bd96539539ac5f6b055c0721"
+  },
+  {
+    "g4_batch": 353,
+    "fluka_stream": 17,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p353/kernel.json",
+    "sha256": "b33154e4f76c30f3059ff452694ec34a688b6f5ef3d624779cba64ca498d9484"
+  },
+  {
+    "g4_batch": 354,
+    "fluka_stream": 17,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p354/kernel.json",
+    "sha256": "f842c27d0d437d1aa42cb8c48d401f21e5bcd9721ce3b2b1fba64a97c46a4e9c"
+  },
+  {
+    "g4_batch": 355,
+    "fluka_stream": 17,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p355/kernel.json",
+    "sha256": "e655e57aaaaf0135af32fba7cf48a3e44392f82023cd19a47943f3a29be584c7"
+  },
+  {
+    "g4_batch": 356,
+    "fluka_stream": 17,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p356/kernel.json",
+    "sha256": "54ef2dbdba8c7675ba8d55e1edcc9337524a268a5fbd55875aea4544906e3dc0"
+  },
+  {
+    "g4_batch": 357,
+    "fluka_stream": 17,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p357/kernel.json",
+    "sha256": "bdd34bec191c8fec583afabe34fa7511b4c05e8c4cae96eeffe203bd60476812"
+  },
+  {
+    "g4_batch": 358,
+    "fluka_stream": 17,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p358/kernel.json",
+    "sha256": "4036d58d39a2682c7f8b6743299a5ee7ca3683752b001c628e3efa0aee7d2ef2"
+  },
+  {
+    "g4_batch": 359,
+    "fluka_stream": 17,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p359/kernel.json",
+    "sha256": "ce2f16e5e489b1f98087236138718eda17d23d84873a2c35cac0985d41f3dcdb"
+  },
+  {
+    "g4_batch": 360,
+    "fluka_stream": 18,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p360/kernel.json",
+    "sha256": "9cda155df3546c20070f4cd58d09bc6c0180c03de4d8134acd3ff6fe04074b45"
+  },
+  {
+    "g4_batch": 361,
+    "fluka_stream": 18,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p361/kernel.json",
+    "sha256": "b140ad51fdee1edd5c1c8d04a41d6dd25a56f9588ff47103e7eda93f35b71198"
+  },
+  {
+    "g4_batch": 362,
+    "fluka_stream": 18,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p362/kernel.json",
+    "sha256": "152129cf1400d79787b615afa2041f6c92b2005b91971c2be7d177e4b73705f5"
+  },
+  {
+    "g4_batch": 363,
+    "fluka_stream": 18,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p363/kernel.json",
+    "sha256": "a6d186f6d13f8db03c7b0aa2eec8a0b3fb5783be47855271fa96fbd40be1ed10"
+  },
+  {
+    "g4_batch": 364,
+    "fluka_stream": 18,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p364/kernel.json",
+    "sha256": "188e83e5c8aca4eb8fe9995134161472a406e63eded58dcd7c681d0028305ef0"
+  },
+  {
+    "g4_batch": 365,
+    "fluka_stream": 18,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p365/kernel.json",
+    "sha256": "edd33237bcc7dda4ebd7cfa3eb295b5fa133e7a297128d388d5ef0d47e1d2163"
+  },
+  {
+    "g4_batch": 366,
+    "fluka_stream": 18,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p366/kernel.json",
+    "sha256": "e120f5ae61c3d4b14a4a3fa8af112b4c12a6c243ae600a7f78208aa8dc5aa19c"
+  },
+  {
+    "g4_batch": 367,
+    "fluka_stream": 18,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p367/kernel.json",
+    "sha256": "4f905fc7500bf2b6eb17f36ff7065e13777c998b545e4aba1b7a4a758ef801d9"
+  },
+  {
+    "g4_batch": 368,
+    "fluka_stream": 18,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p368/kernel.json",
+    "sha256": "5865120f70848b3ddad492515cc41acb33998f7af4c214bcfc486821194480d1"
+  },
+  {
+    "g4_batch": 369,
+    "fluka_stream": 18,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p369/kernel.json",
+    "sha256": "a26b24479a47829f8c9d532c8910505591d960e941eb69d532b27f9b832abf26"
+  },
+  {
+    "g4_batch": 370,
+    "fluka_stream": 18,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p370/kernel.json",
+    "sha256": "c4d95ecf2e673fbbc58521d0e2930f85c8a43dd3afc2844d6cc047f8d040455c"
+  },
+  {
+    "g4_batch": 371,
+    "fluka_stream": 18,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p371/kernel.json",
+    "sha256": "4f6b3533cdfd93e1422bc687f22a4d0087c6950c1388d62145946f60d4e6a510"
+  },
+  {
+    "g4_batch": 372,
+    "fluka_stream": 18,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p372/kernel.json",
+    "sha256": "1d88fee4859cef58dc66f2cc03ae922ccadbe038d41d469ff5bf961c58c5f3f5"
+  },
+  {
+    "g4_batch": 373,
+    "fluka_stream": 18,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p373/kernel.json",
+    "sha256": "dc317b3362d279a3b213383319a83e7a3dd04d1c0b2e391fd91018d3213ce82c"
+  },
+  {
+    "g4_batch": 374,
+    "fluka_stream": 18,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p374/kernel.json",
+    "sha256": "6ed35dd326bedb702d4a03925bf57d0a42915fa5bff1621dbc4ccc702789c71b"
+  },
+  {
+    "g4_batch": 375,
+    "fluka_stream": 18,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p375/kernel.json",
+    "sha256": "cac9f523609b271f28a9cdf652f8fe2e021f106e3e4f8ecc73375d7f65f77e5d"
+  },
+  {
+    "g4_batch": 376,
+    "fluka_stream": 18,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p376/kernel.json",
+    "sha256": "dee59784d4c6ec96773747a09df2bb89e8580fc95f837034e6e5d35f6dffa79e"
+  },
+  {
+    "g4_batch": 377,
+    "fluka_stream": 18,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p377/kernel.json",
+    "sha256": "2e684253765693d5d4faefc33d7444d6edc96bd846194e3d590fa207cbbd4527"
+  },
+  {
+    "g4_batch": 378,
+    "fluka_stream": 18,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p378/kernel.json",
+    "sha256": "a2c10d40a6153e507cdf9dc5b7fdb14beeddb90cd5379a78943d684da5935cab"
+  },
+  {
+    "g4_batch": 379,
+    "fluka_stream": 18,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p379/kernel.json",
+    "sha256": "e488b70ac3885cbed8cac91da2d969b1b7adff1112a7be96ad5737152ec099bb"
+  },
+  {
+    "g4_batch": 380,
+    "fluka_stream": 19,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p380/kernel.json",
+    "sha256": "5678f90901f4f5115338faba3ebcb2e841cf85149601b4a7c3371fe347d8032a"
+  },
+  {
+    "g4_batch": 381,
+    "fluka_stream": 19,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p381/kernel.json",
+    "sha256": "ca2be6ab1e3c45065bac75b13949183af421c033080f721f1b264a6e4253dd10"
+  },
+  {
+    "g4_batch": 382,
+    "fluka_stream": 19,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p382/kernel.json",
+    "sha256": "4806fea39247c2170e50c56e1331568326b8a3a72904481dc74dbcd70e8c6e25"
+  },
+  {
+    "g4_batch": 383,
+    "fluka_stream": 19,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p383/kernel.json",
+    "sha256": "619e7317ebcf73f8a11200dd603d910e33d56cb855bf2657baa3e6731f6792c7"
+  },
+  {
+    "g4_batch": 384,
+    "fluka_stream": 19,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p384/kernel.json",
+    "sha256": "6b0dd32b603de73afa64b573f9a9806f6246962dc395dcfe2b5f4dbd65ac9b8a"
+  },
+  {
+    "g4_batch": 385,
+    "fluka_stream": 19,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p385/kernel.json",
+    "sha256": "1b21cc214561a56044fae873c6c0d721ac1dbd128a7192c3d387609b1c79906b"
+  },
+  {
+    "g4_batch": 386,
+    "fluka_stream": 19,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p386/kernel.json",
+    "sha256": "b7ffe21506c473ef3779d445ef9329af4a1c1e0d962796fe40093c03b3c77e9b"
+  },
+  {
+    "g4_batch": 387,
+    "fluka_stream": 19,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p387/kernel.json",
+    "sha256": "cd715ddc6a9535c724093e012e78b009bd7105e4e54bea3ff89532aa8c4a184d"
+  },
+  {
+    "g4_batch": 388,
+    "fluka_stream": 19,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p388/kernel.json",
+    "sha256": "c0db0aaf823f86fb98b419621eaec1d8ed11229ed306ca6588e95a56f06fc289"
+  },
+  {
+    "g4_batch": 389,
+    "fluka_stream": 19,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p389/kernel.json",
+    "sha256": "c6f65f3a9eae1b47210ad8303a94099412f4b59ba2d0fc1601a66763c11e7b8a"
+  },
+  {
+    "g4_batch": 390,
+    "fluka_stream": 19,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p390/kernel.json",
+    "sha256": "78641750277ffb558834bff8de4118111718e330331847a4833eedbb18fe2684"
+  },
+  {
+    "g4_batch": 391,
+    "fluka_stream": 19,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p391/kernel.json",
+    "sha256": "21e3bf9e131e5e92fb220b8322bf8cbacc44917483b69e31ca0979903b8b10fc"
+  },
+  {
+    "g4_batch": 392,
+    "fluka_stream": 19,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p392/kernel.json",
+    "sha256": "9181abb4cbef013f42b98cb9843999334116077b885b63a5d077061feb424734"
+  },
+  {
+    "g4_batch": 393,
+    "fluka_stream": 19,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p393/kernel.json",
+    "sha256": "5d8eeef094c17c41b93b999492f4b0c7cca96296a14ff47d7033b635118b682e"
+  },
+  {
+    "g4_batch": 394,
+    "fluka_stream": 19,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p394/kernel.json",
+    "sha256": "20371b9e5e40348b23d31337cd43bd8acf9db4ad26b62fb96dee7c3011438bda"
+  },
+  {
+    "g4_batch": 395,
+    "fluka_stream": 19,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p395/kernel.json",
+    "sha256": "efd4d3b97149ed4c11d02482ae14cfd255846a2197e377c6e71834d3d6d79cfe"
+  },
+  {
+    "g4_batch": 396,
+    "fluka_stream": 19,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p396/kernel.json",
+    "sha256": "73d0f52087ae2de8642cadfc97b0c800fc26ca77b6c2a193713615e98c2a6052"
+  },
+  {
+    "g4_batch": 397,
+    "fluka_stream": 19,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p397/kernel.json",
+    "sha256": "224fc2efa4c74700781f54ac99e5ba97fa6557931587e17bfa70d60836740412"
+  },
+  {
+    "g4_batch": 398,
+    "fluka_stream": 19,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p398/kernel.json",
+    "sha256": "ca6fb3366ce71195189180300b33d77f17bae098b783ee80195fe90597c2d0ad"
+  },
+  {
+    "g4_batch": 399,
+    "fluka_stream": 19,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p399/kernel.json",
+    "sha256": "1eea4d2b53ad88121a1822de62c911158bd481be503b8f6ab3f91553f090ec6e"
+  },
+  {
+    "g4_batch": 400,
+    "fluka_stream": 20,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p400/kernel.json",
+    "sha256": "87fd32ce97a390fcd478c73e9d7ae956f1299d03e12173b7ea0a5a6092c4ca90"
+  },
+  {
+    "g4_batch": 401,
+    "fluka_stream": 20,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p401/kernel.json",
+    "sha256": "eb164a7e82801f05795beeeb0fe2395199559d0f3d0b6706068543554672b44b"
+  },
+  {
+    "g4_batch": 402,
+    "fluka_stream": 20,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p402/kernel.json",
+    "sha256": "77d9673e2e03283fb7e40794d5d51f1ec02d8523aa33daff7ea609f93e1d4123"
+  },
+  {
+    "g4_batch": 403,
+    "fluka_stream": 20,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p403/kernel.json",
+    "sha256": "fdf7e9f4e6cd3e595c815785abab90659ab5c08d5974c142a00d92924540a5cc"
+  },
+  {
+    "g4_batch": 404,
+    "fluka_stream": 20,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p404/kernel.json",
+    "sha256": "eb8c64c8fef1cc1550c5d73783203cc404d427675ab082adea856bce5a81520c"
+  },
+  {
+    "g4_batch": 405,
+    "fluka_stream": 20,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p405/kernel.json",
+    "sha256": "59b7fcfc566675b75576dcd914cf9d3eb94276960c2e8a23746b92ec7e5a89f9"
+  },
+  {
+    "g4_batch": 406,
+    "fluka_stream": 20,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p406/kernel.json",
+    "sha256": "3e1110183e8982c6630307c58a36860cfcca5733db2c6625416b02f16a20f4a9"
+  },
+  {
+    "g4_batch": 407,
+    "fluka_stream": 20,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p407/kernel.json",
+    "sha256": "1221167992eb9b577b032034a3265cb4bdb2e6ad6062b725f30702aa23450ca4"
+  },
+  {
+    "g4_batch": 408,
+    "fluka_stream": 20,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p408/kernel.json",
+    "sha256": "46482e3385fedb1de97afaf92e81f393117dfb3db3799fd95c690663812be223"
+  },
+  {
+    "g4_batch": 409,
+    "fluka_stream": 20,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p409/kernel.json",
+    "sha256": "d1739cd3a8899ad7399b4f838a24cf1c3d38ef9f35d78f15d3d0bf6693836e5b"
+  },
+  {
+    "g4_batch": 410,
+    "fluka_stream": 20,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p410/kernel.json",
+    "sha256": "d6fa51dd430f1ff2c347cb347559986f118a8439fed723f4c06972b8746ec8e4"
+  },
+  {
+    "g4_batch": 411,
+    "fluka_stream": 20,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p411/kernel.json",
+    "sha256": "ae1018286e383eb25e2e860f6b7484b4f56ff2a083c509f941a9787e3cd748ae"
+  },
+  {
+    "g4_batch": 412,
+    "fluka_stream": 20,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p412/kernel.json",
+    "sha256": "7f006c232a7e0089e8d0081699e37ad1a09fee9fdfd4e1a35babac645657c778"
+  },
+  {
+    "g4_batch": 413,
+    "fluka_stream": 20,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p413/kernel.json",
+    "sha256": "fa3b7884aae3dc56e07305778452192e62da9c047551bf4dd3e5ce40ce72a5ed"
+  },
+  {
+    "g4_batch": 414,
+    "fluka_stream": 20,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p414/kernel.json",
+    "sha256": "ae6751a35172751361e07035dd846abc241ec05b257160190b23a8e6aa4289e7"
+  },
+  {
+    "g4_batch": 415,
+    "fluka_stream": 20,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p415/kernel.json",
+    "sha256": "e5181bcf061f5e5d29df82203785b2083abfdf645726c2d7fc2eae15579b7ecf"
+  },
+  {
+    "g4_batch": 416,
+    "fluka_stream": 20,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p416/kernel.json",
+    "sha256": "df3359f12b4c21ffd4832be64738fd6686c5ca65efa201443a1e778d22602545"
+  },
+  {
+    "g4_batch": 417,
+    "fluka_stream": 20,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p417/kernel.json",
+    "sha256": "8fff1906e0ec0e1d94f50b95f059279679d396ddd7b3d4d68fbae2f0c53dd686"
+  },
+  {
+    "g4_batch": 418,
+    "fluka_stream": 20,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p418/kernel.json",
+    "sha256": "4dc3385fdf105ee3fc5e4e94839411ec3a63f17a9ab772eea6d0584668a636ff"
+  },
+  {
+    "g4_batch": 419,
+    "fluka_stream": 20,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p419/kernel.json",
+    "sha256": "153890b0080499d40ecd0ac9db28cb359db19086b69610679e795f78062644ca"
+  },
+  {
+    "g4_batch": 420,
+    "fluka_stream": 21,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p420/kernel.json",
+    "sha256": "92325a13df89f04130639946fdd897ecaaf8ac5dbd3ab044525706b075ecb5b0"
+  },
+  {
+    "g4_batch": 421,
+    "fluka_stream": 21,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p421/kernel.json",
+    "sha256": "b1c2441fc793f2fb346f43fef6282005942a1cd7c6151fa940fad4a5c2db20ee"
+  },
+  {
+    "g4_batch": 422,
+    "fluka_stream": 21,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p422/kernel.json",
+    "sha256": "f4d2381d961328c8fc962cb3e4e24274090e8931049706c03285231985e1c9fb"
+  },
+  {
+    "g4_batch": 423,
+    "fluka_stream": 21,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p423/kernel.json",
+    "sha256": "853fa51dcb346ae79bee2cc2db9efa0c1cd4ff09dabf3c80c194af12411e769a"
+  },
+  {
+    "g4_batch": 424,
+    "fluka_stream": 21,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p424/kernel.json",
+    "sha256": "e3ab393215f4139eae4e1a7f55bd6f5f24f30262c1de081f00894c8defdb0974"
+  },
+  {
+    "g4_batch": 425,
+    "fluka_stream": 21,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p425/kernel.json",
+    "sha256": "7a598b4d34f21c7e72863d90e20e81584f14f2b3e3524306bc48cf0837161940"
+  },
+  {
+    "g4_batch": 426,
+    "fluka_stream": 21,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p426/kernel.json",
+    "sha256": "22ca1f4c6c7773ef11fbeb0f6b2201babb90d754e3c9d31a97e93ff84198b8fc"
+  },
+  {
+    "g4_batch": 427,
+    "fluka_stream": 21,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p427/kernel.json",
+    "sha256": "5ad54012fc1f473332ef4d56a8800333212ffc5eb4a5ec5579f7d1eedd364f7b"
+  },
+  {
+    "g4_batch": 428,
+    "fluka_stream": 21,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p428/kernel.json",
+    "sha256": "3007aa82cc5675d84d862ab3dadba9284203ac0f2fa8143e85e7f9ba466a910f"
+  },
+  {
+    "g4_batch": 429,
+    "fluka_stream": 21,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p429/kernel.json",
+    "sha256": "56adfd703a44d9b7f583198998de21aa1b8aec324d02ad167860849dde702632"
+  },
+  {
+    "g4_batch": 430,
+    "fluka_stream": 21,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p430/kernel.json",
+    "sha256": "9e79c6dc3379c3e428a3aa96e2a1a5ae0453f4b5dad4a24e9983db08bcfb8c78"
+  },
+  {
+    "g4_batch": 431,
+    "fluka_stream": 21,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p431/kernel.json",
+    "sha256": "f8792de3ccc1f9a750de88956a13f8dbee26014a0dd07c975e55cdec1028683d"
+  },
+  {
+    "g4_batch": 432,
+    "fluka_stream": 21,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p432/kernel.json",
+    "sha256": "3149e1c84f4fc9f4c704d41148cafed335f5953f50b8341cb3154936bb2659f8"
+  },
+  {
+    "g4_batch": 433,
+    "fluka_stream": 21,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p433/kernel.json",
+    "sha256": "835b52cc083fe73c5162a8a7052bac114bcca56942ff00f5a4f141c2bc1a98f1"
+  },
+  {
+    "g4_batch": 434,
+    "fluka_stream": 21,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p434/kernel.json",
+    "sha256": "e443076fc448461db862d0285f684e96c89fa43d1990a5095c03e8e493e7d84b"
+  },
+  {
+    "g4_batch": 435,
+    "fluka_stream": 21,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p435/kernel.json",
+    "sha256": "09ef825688cc46319178934d5e4d7499418dff977cbae3790f60198acb43308c"
+  },
+  {
+    "g4_batch": 436,
+    "fluka_stream": 21,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p436/kernel.json",
+    "sha256": "cd84768664f5316bd309baa8fc392982db8f32a4c86b0f771f03d32ceae2a1c7"
+  },
+  {
+    "g4_batch": 437,
+    "fluka_stream": 21,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p437/kernel.json",
+    "sha256": "be0764253c77778166dc5dc5736953288d9903a91118885bae781b5ca750ddbc"
+  },
+  {
+    "g4_batch": 438,
+    "fluka_stream": 21,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p438/kernel.json",
+    "sha256": "719c2359306b442c010c65b647d351d8545429eb744d6984c62418f2889af685"
+  },
+  {
+    "g4_batch": 439,
+    "fluka_stream": 21,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p439/kernel.json",
+    "sha256": "ede1b92e35b6ec651573e64949fef6c8ebc2c078339c94fa0d35573cc6495d59"
+  },
+  {
+    "g4_batch": 440,
+    "fluka_stream": 22,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p440/kernel.json",
+    "sha256": "5aa10489b6e1c495db3493230510ff12d01537933baeb203d92c5020c0cc3d31"
+  },
+  {
+    "g4_batch": 441,
+    "fluka_stream": 22,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p441/kernel.json",
+    "sha256": "560d3070b40163ca0eb67a102e0c2b739a4dcf17933aeaa84cd717b2073337e3"
+  },
+  {
+    "g4_batch": 442,
+    "fluka_stream": 22,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p442/kernel.json",
+    "sha256": "cc796b7bcc84035b6ce0211756450f75f9baafd976b19ca8d3624631ec07fbeb"
+  },
+  {
+    "g4_batch": 443,
+    "fluka_stream": 22,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p443/kernel.json",
+    "sha256": "270772586b68d59e861196039b881f1abd9ccc3be0186c49883ac993b9b7cdd3"
+  },
+  {
+    "g4_batch": 444,
+    "fluka_stream": 22,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p444/kernel.json",
+    "sha256": "41a2e0ed9de46e59c2dfd88844d658df1585477d6f941a2550c26fbe99372b48"
+  },
+  {
+    "g4_batch": 445,
+    "fluka_stream": 22,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p445/kernel.json",
+    "sha256": "28c7d92dbb2cbf4dda80b980e0a51dd93791a7f5029198fb6e53ff510b8a7c2c"
+  },
+  {
+    "g4_batch": 446,
+    "fluka_stream": 22,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p446/kernel.json",
+    "sha256": "a2e5fff26edd6ea35f4eb6e4dcee4a0007413b6f172df062d95c416b7e59ea0d"
+  },
+  {
+    "g4_batch": 447,
+    "fluka_stream": 22,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p447/kernel.json",
+    "sha256": "85dd87375240ddad3dcfeaf5c6bdea741221d33d7b6e009108b28166ab4e944c"
+  },
+  {
+    "g4_batch": 448,
+    "fluka_stream": 22,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p448/kernel.json",
+    "sha256": "11ae3202302f6c7800faf27ac498f85526d1e61d9a6758cac901271edc32453d"
+  },
+  {
+    "g4_batch": 449,
+    "fluka_stream": 22,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p449/kernel.json",
+    "sha256": "31c199b84d57c7f024c04dbffa2eebb292125197015200bf87914b49f9c8eb68"
+  },
+  {
+    "g4_batch": 450,
+    "fluka_stream": 22,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p450/kernel.json",
+    "sha256": "5e1d512a378d928d8660358ad3e5fa4f6f558e3a17e4d2b2bd41c4133feab436"
+  },
+  {
+    "g4_batch": 451,
+    "fluka_stream": 22,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p451/kernel.json",
+    "sha256": "026d7d5d30d80fac668563bbc1b18bb740e80dc84f58a88cd7586e7afa486de8"
+  },
+  {
+    "g4_batch": 452,
+    "fluka_stream": 22,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p452/kernel.json",
+    "sha256": "85e5d0dd1838a3d722d5b9792be5bab61d4394f16ce816e9a97236ced17a53f0"
+  },
+  {
+    "g4_batch": 453,
+    "fluka_stream": 22,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p453/kernel.json",
+    "sha256": "9ab72282e3d9a1f8eb4a650b83897c250184a9e7f1c0c50128b0fbaf90d46750"
+  },
+  {
+    "g4_batch": 454,
+    "fluka_stream": 22,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p454/kernel.json",
+    "sha256": "9fd61c325c9f3a44bf9b93794e30768806e6cc5f31cfe5ec4aac2a2bbf00b1cc"
+  },
+  {
+    "g4_batch": 455,
+    "fluka_stream": 22,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p455/kernel.json",
+    "sha256": "fcb10bfce6d5411157dc8aa59d3c9c9a2a4ec5fd7f6bd714ec7d9e969f8bbe73"
+  },
+  {
+    "g4_batch": 456,
+    "fluka_stream": 22,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p456/kernel.json",
+    "sha256": "44822620fd7f630bc5df728aea4cb849d1444bc6c40923a30b217e2a6ee094f2"
+  },
+  {
+    "g4_batch": 457,
+    "fluka_stream": 22,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p457/kernel.json",
+    "sha256": "29b0a47914d243e0ad49b4d6d11b1cd94ae1d26edc3c75160fe46db11aa6e543"
+  },
+  {
+    "g4_batch": 458,
+    "fluka_stream": 22,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p458/kernel.json",
+    "sha256": "b1d6c274617d1a03b7fdbf682b247175d3cb5bc469e51bc7ecc180c32b685b1d"
+  },
+  {
+    "g4_batch": 459,
+    "fluka_stream": 22,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p459/kernel.json",
+    "sha256": "6d160536a62db599348e5fa627174929829a45aaa9e8ff678fea76e65ac572dd"
+  },
+  {
+    "g4_batch": 460,
+    "fluka_stream": 23,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p460/kernel.json",
+    "sha256": "2800c0200b21806eabbf4d073399e1cdec522cbc07519e25e9df19289df4c05b"
+  },
+  {
+    "g4_batch": 461,
+    "fluka_stream": 23,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p461/kernel.json",
+    "sha256": "ed56e5d27070066deab50a98b26bad726c990c706aa2b431cdb4db7e21c7d30f"
+  },
+  {
+    "g4_batch": 462,
+    "fluka_stream": 23,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p462/kernel.json",
+    "sha256": "62c3ae057148681911dd211ac14ff95fc607bfa0104ab8d0dee9701d5c5f63da"
+  },
+  {
+    "g4_batch": 463,
+    "fluka_stream": 23,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p463/kernel.json",
+    "sha256": "685931d5b44a7d9c61d0b74d20645d98939d66757b391dd0a533351b85b85ba9"
+  },
+  {
+    "g4_batch": 464,
+    "fluka_stream": 23,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p464/kernel.json",
+    "sha256": "29e446af426e094188a1b6d35f58160211a04014b842096712e9af69cf842101"
+  },
+  {
+    "g4_batch": 465,
+    "fluka_stream": 23,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p465/kernel.json",
+    "sha256": "4facebf0c39d94ed7dda89baa728e8da3b4f3ae40cb0c0750219a7f822260315"
+  },
+  {
+    "g4_batch": 466,
+    "fluka_stream": 23,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p466/kernel.json",
+    "sha256": "b868f7cc8417e7cb70261638b83990fc1ed0fdb5ea9c13b867b60eac9496ce32"
+  },
+  {
+    "g4_batch": 467,
+    "fluka_stream": 23,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p467/kernel.json",
+    "sha256": "a6754474849b21751cde3f69e0d531ff678fda5c768be7a41b9150f6ef1e08e3"
+  },
+  {
+    "g4_batch": 468,
+    "fluka_stream": 23,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p468/kernel.json",
+    "sha256": "1d6bf6777cda260fc51d787b1e3283512179c6efff1b8fc8545b8fc0bc98f309"
+  },
+  {
+    "g4_batch": 469,
+    "fluka_stream": 23,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p469/kernel.json",
+    "sha256": "88361d67d7f47d5b6b0bfc46eb49de5eac81ef52152836393a2d77ee669b3408"
+  },
+  {
+    "g4_batch": 470,
+    "fluka_stream": 23,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p470/kernel.json",
+    "sha256": "7603f34d03a3c395943ec1723d86b82c826e3be1a2523539ce7e66397f904bd0"
+  },
+  {
+    "g4_batch": 471,
+    "fluka_stream": 23,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p471/kernel.json",
+    "sha256": "075fb587392f23219d6d05d176dcfe88d165af33fa845153ba22eaea21ab634f"
+  },
+  {
+    "g4_batch": 472,
+    "fluka_stream": 23,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p472/kernel.json",
+    "sha256": "48dcc821d667df116ae7d383adab35eee2e3906f9cd6e14362bbce98e01c1a0a"
+  },
+  {
+    "g4_batch": 473,
+    "fluka_stream": 23,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p473/kernel.json",
+    "sha256": "e3b48573a96b79a357df3d7bb0c6e62e95b75015ea820d061d7b8423a91dd204"
+  },
+  {
+    "g4_batch": 474,
+    "fluka_stream": 23,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p474/kernel.json",
+    "sha256": "cff8aa57bacb6ca5dcc7ad8ada10a3d09a7a92cf1d86c3083ff0c6b6fd7688c9"
+  },
+  {
+    "g4_batch": 475,
+    "fluka_stream": 23,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p475/kernel.json",
+    "sha256": "0754a082938ecb0fd74b91941aaf86dcb4b819e726f407ed76a8b06e8d9f579a"
+  },
+  {
+    "g4_batch": 476,
+    "fluka_stream": 23,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p476/kernel.json",
+    "sha256": "88bd47ca7a0737fcdf9af98d8e4609b2c3650c163b790a45c53ae8259cfaf1fc"
+  },
+  {
+    "g4_batch": 477,
+    "fluka_stream": 23,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p477/kernel.json",
+    "sha256": "7d0c6bafd11cb671745ca9a16148d88d3e421ddfa091d5379e1cfacd99e80844"
+  },
+  {
+    "g4_batch": 478,
+    "fluka_stream": 23,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p478/kernel.json",
+    "sha256": "00da41c08fc18d2da3e6e45acdf0abac18c9d1fa1db67746be976e528da5fc6d"
+  },
+  {
+    "g4_batch": 479,
+    "fluka_stream": 23,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p479/kernel.json",
+    "sha256": "1cebb664f89e247e31f08f8624e98b2afbb1c514c50d18c6e9729af0d80d6cf4"
+  },
+  {
+    "g4_batch": 480,
+    "fluka_stream": 24,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p480/kernel.json",
+    "sha256": "d0c4fe281b68ccf82bbbe5a096c46045e2f03281fb05028a93a5de6b2a1299b9"
+  },
+  {
+    "g4_batch": 481,
+    "fluka_stream": 24,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p481/kernel.json",
+    "sha256": "79993cf932fc2b6776458d76de67d98fd1dcca77801b140dd9b49750b3c81cea"
+  },
+  {
+    "g4_batch": 482,
+    "fluka_stream": 24,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p482/kernel.json",
+    "sha256": "d9bb02c9889dfdd86cfa09bab41a948cf9f7a2eaa417ef6456c290413e4f23b1"
+  },
+  {
+    "g4_batch": 483,
+    "fluka_stream": 24,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p483/kernel.json",
+    "sha256": "7cd9d5b6b66731f46bac79d6f945deaa5e6834ff1f784759c0beb8dcff7b8922"
+  },
+  {
+    "g4_batch": 484,
+    "fluka_stream": 24,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p484/kernel.json",
+    "sha256": "0aa453e3913b71cfdfb5fc480ba7c750ca02feb1d5924c54033517545cd06567"
+  },
+  {
+    "g4_batch": 485,
+    "fluka_stream": 24,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p485/kernel.json",
+    "sha256": "5338b5769e7706ea400a1375e4fbdc50e0cde5a08634c9beec101b510cc58add"
+  },
+  {
+    "g4_batch": 486,
+    "fluka_stream": 24,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p486/kernel.json",
+    "sha256": "7d373b16d3263dcd5cf073d01c3092f73ada9796061f94280c5565361b7b2723"
+  },
+  {
+    "g4_batch": 487,
+    "fluka_stream": 24,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p487/kernel.json",
+    "sha256": "9dd2a687c1a32454310898c30319478931c0be4eac83d9f6d2681214fbd6a0e6"
+  },
+  {
+    "g4_batch": 488,
+    "fluka_stream": 24,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p488/kernel.json",
+    "sha256": "b561a8a33bdf5cc7128560f210177f2a09fa4439eae5b4c121f860cb3624e0e8"
+  },
+  {
+    "g4_batch": 489,
+    "fluka_stream": 24,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p489/kernel.json",
+    "sha256": "39dcafe93e84c9cf0fbe102feb39336a3f30cf1519e24ba369cff52c6ac7ddc8"
+  },
+  {
+    "g4_batch": 490,
+    "fluka_stream": 24,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p490/kernel.json",
+    "sha256": "26b2da92daa96f91a1cbb0d96503b15bfe0c553f0174c89482c417f0c7b94b97"
+  },
+  {
+    "g4_batch": 491,
+    "fluka_stream": 24,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p491/kernel.json",
+    "sha256": "c921e9a90cc56513f395790ecb0a56988e8c15e438282f02092025700c7bfdfb"
+  },
+  {
+    "g4_batch": 492,
+    "fluka_stream": 24,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p492/kernel.json",
+    "sha256": "aaab874098461868baefd486a50270130bbdf91e62ae05d145f5fe2ce926e7b6"
+  },
+  {
+    "g4_batch": 493,
+    "fluka_stream": 24,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p493/kernel.json",
+    "sha256": "4cb9fa7ef2a52942261bff83f22dee242c5c2a1a6360957546371cee57fd5e2a"
+  },
+  {
+    "g4_batch": 494,
+    "fluka_stream": 24,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p494/kernel.json",
+    "sha256": "68f0ce2a160322dd67785c9674148d5a638f854eb7d9747c202fd52e7fefc924"
+  },
+  {
+    "g4_batch": 495,
+    "fluka_stream": 24,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p495/kernel.json",
+    "sha256": "ff7662cd887651c0976e77227295681995e81f2e93fd673561c89fdd34ac8ca9"
+  },
+  {
+    "g4_batch": 496,
+    "fluka_stream": 24,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p496/kernel.json",
+    "sha256": "69725091bf7a9caf337457fa1a2326e1cb5b2e005fb933e8382b741f36154ffd"
+  },
+  {
+    "g4_batch": 497,
+    "fluka_stream": 24,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p497/kernel.json",
+    "sha256": "3d85920931970ff5b55a8e620c7794a6a85a70312d16cfd3e3ba7ae4cd0a7c13"
+  },
+  {
+    "g4_batch": 498,
+    "fluka_stream": 24,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p498/kernel.json",
+    "sha256": "859e3bc26fb70fc6009438ebc1837300fdb8725a80fd721581c35a4f738519a0"
+  },
+  {
+    "g4_batch": 499,
+    "fluka_stream": 24,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p499/kernel.json",
+    "sha256": "63b68b84f0c301e0e9b143ed27c1b8a4316d1947912451120ee2aae9b24f1480"
+  },
+  {
+    "g4_batch": 500,
+    "fluka_stream": 25,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p500/kernel.json",
+    "sha256": "d07f56764366d89e1e77b81c40a171de510d783890fe0d5f173f6b0123031eb8"
+  },
+  {
+    "g4_batch": 501,
+    "fluka_stream": 25,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p501/kernel.json",
+    "sha256": "fbe120c800efd43405bcd62a5db2c52c12819e30369c8405f56e4bb3b65879bb"
+  },
+  {
+    "g4_batch": 502,
+    "fluka_stream": 25,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p502/kernel.json",
+    "sha256": "bc2f22a741c3dc1e19261a0192b107e1b5b4f41ce17588cbb7071513e11567a7"
+  },
+  {
+    "g4_batch": 503,
+    "fluka_stream": 25,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p503/kernel.json",
+    "sha256": "f59e2a7fbded8962aa08952c5e9f4d59e138fff2597972f897e2973ea9ec0d7b"
+  },
+  {
+    "g4_batch": 504,
+    "fluka_stream": 25,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p504/kernel.json",
+    "sha256": "8fe8bfe8793c9756cbecad401002a9f0600b2f77d9ce7b77ce93b929cc3be3c3"
+  },
+  {
+    "g4_batch": 505,
+    "fluka_stream": 25,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p505/kernel.json",
+    "sha256": "bdbfae3ce3ae98f05c08f5cbde3f188c39343621a4579ba1d8281657c986ef6d"
+  },
+  {
+    "g4_batch": 506,
+    "fluka_stream": 25,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p506/kernel.json",
+    "sha256": "7d88fea66d3f168ba604eb020c255f6231f2f008138b6bf7631fc885d2c1ea64"
+  },
+  {
+    "g4_batch": 507,
+    "fluka_stream": 25,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p507/kernel.json",
+    "sha256": "8849b123f125229b38e7715561624a2150bc990bd3e5635684b7311614d72bcd"
+  },
+  {
+    "g4_batch": 508,
+    "fluka_stream": 25,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p508/kernel.json",
+    "sha256": "ca8e0af03149d26f6453a5b1e8e55a3964ffb8a0824ed6c13d637e0f5b549f2f"
+  },
+  {
+    "g4_batch": 509,
+    "fluka_stream": 25,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p509/kernel.json",
+    "sha256": "9a38134c7f278fb528041533d3409f56472b92ab14c423e59db07e8782df2cac"
+  },
+  {
+    "g4_batch": 510,
+    "fluka_stream": 25,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p510/kernel.json",
+    "sha256": "290a9cba45807e05610feb3ddbdf067e751f0d3fe297c2997ce7dfaf3392ff81"
+  },
+  {
+    "g4_batch": 511,
+    "fluka_stream": 25,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p511/kernel.json",
+    "sha256": "8f0e438a7937892abfd7aecd4f26f82c83e342f36a8e1f416592d81a1544d037"
+  },
+  {
+    "g4_batch": 512,
+    "fluka_stream": 25,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p512/kernel.json",
+    "sha256": "6de34b7b64b5738c47b8f3b8571b7a28b97cf255c0c8b459bf716821c677e4ea"
+  },
+  {
+    "g4_batch": 513,
+    "fluka_stream": 25,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p513/kernel.json",
+    "sha256": "49f8ffe84c4715411f504ad556ccf3720b1f1b82539c7514e6b674d7b460a9b5"
+  },
+  {
+    "g4_batch": 514,
+    "fluka_stream": 25,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p514/kernel.json",
+    "sha256": "6203525b6ad092c79c7f09fe4f084d0ad0020e9995f1b616abad8993d4c16a54"
+  },
+  {
+    "g4_batch": 515,
+    "fluka_stream": 25,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p515/kernel.json",
+    "sha256": "76d8e703b622cf481befce75ea3704dd36bd0e5f54659dda2bae363925b76d6e"
+  },
+  {
+    "g4_batch": 516,
+    "fluka_stream": 25,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p516/kernel.json",
+    "sha256": "c515126cf454947316807cc553e5e7eaa73ff9d86a568a6880e668ac52eca0c7"
+  },
+  {
+    "g4_batch": 517,
+    "fluka_stream": 25,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p517/kernel.json",
+    "sha256": "0d4f05d7edee4c0cd621ecad543feac8aeca32662753df21ea913a9914b01328"
+  },
+  {
+    "g4_batch": 518,
+    "fluka_stream": 25,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p518/kernel.json",
+    "sha256": "c062792224e9d8379eb1347c9aa6e35a8180165c29d2d583ddffbd45c0d181b5"
+  },
+  {
+    "g4_batch": 519,
+    "fluka_stream": 25,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p519/kernel.json",
+    "sha256": "6df04cfe56c1ce458e328aacf3420be2ea5f4f3bd3cb1e56db94c2aedbec23da"
+  },
+  {
+    "g4_batch": 520,
+    "fluka_stream": 26,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p520/kernel.json",
+    "sha256": "a88998526d7b788eea47357015113ccf287a3396063cfd08b8b9cba0eabdcfbc"
+  },
+  {
+    "g4_batch": 521,
+    "fluka_stream": 26,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p521/kernel.json",
+    "sha256": "e0977f8662877ad94ea2fcbb462c939fab4d1408b51dddd5bdf91c211efe0f8f"
+  },
+  {
+    "g4_batch": 522,
+    "fluka_stream": 26,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p522/kernel.json",
+    "sha256": "199635f32bc7dbaea07337e88e6e80fff75c103de21ebf53926bf96eea9a8f04"
+  },
+  {
+    "g4_batch": 523,
+    "fluka_stream": 26,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p523/kernel.json",
+    "sha256": "7233fdb3630def9d8b9a6756d3682e3277143c88b3ebdbe94d9990de60da4d51"
+  },
+  {
+    "g4_batch": 524,
+    "fluka_stream": 26,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p524/kernel.json",
+    "sha256": "613eb3afd8938e87828116fc579260903e87e0650267d9c85528000e3ff6fe8c"
+  },
+  {
+    "g4_batch": 525,
+    "fluka_stream": 26,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p525/kernel.json",
+    "sha256": "6a0cf5abb85ad89104e22ea4b33a7e2004cb561b3f2b6941d82bda321b352f03"
+  },
+  {
+    "g4_batch": 526,
+    "fluka_stream": 26,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p526/kernel.json",
+    "sha256": "2e1cc914a62cc647d6b95a3797c8bc20246a03c611ae5160e1eb1d2f08c8588f"
+  },
+  {
+    "g4_batch": 527,
+    "fluka_stream": 26,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p527/kernel.json",
+    "sha256": "d3c8241391bd86df0827594abfe69e668f8eb0229d9fcf064fea139512c572bf"
+  },
+  {
+    "g4_batch": 528,
+    "fluka_stream": 26,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p528/kernel.json",
+    "sha256": "99a4c30b987daecaf62cea073d8bbe1a2d9ed224d1d75c91e592633b65cb2fd6"
+  },
+  {
+    "g4_batch": 529,
+    "fluka_stream": 26,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p529/kernel.json",
+    "sha256": "e4496d8dc8785cfcdcffe31d29ef5d1a7eed892cab607d8dba3c3193f52badb2"
+  },
+  {
+    "g4_batch": 530,
+    "fluka_stream": 26,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p530/kernel.json",
+    "sha256": "ecd5961a3e66d269bc1c3633a2a71453a9850f08494e7383ded0b7ef22cdc432"
+  },
+  {
+    "g4_batch": 531,
+    "fluka_stream": 26,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p531/kernel.json",
+    "sha256": "37a6563fde67dd3b239089828220ceecc73baf7f886987fc83c3a94632955660"
+  },
+  {
+    "g4_batch": 532,
+    "fluka_stream": 26,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p532/kernel.json",
+    "sha256": "2ac865edab4595dfbc96ef0b294cd4c5560d3e33e35dd53f9a922869345f0300"
+  },
+  {
+    "g4_batch": 533,
+    "fluka_stream": 26,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p533/kernel.json",
+    "sha256": "e84beba00f85d2f3ef816a98dbe33ca35edc34b8ca784b09d41dd9f4f91ff279"
+  },
+  {
+    "g4_batch": 534,
+    "fluka_stream": 26,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p534/kernel.json",
+    "sha256": "2912da2681545e9d818afc974a593547e477408920217c002eb43d07f0909d75"
+  },
+  {
+    "g4_batch": 535,
+    "fluka_stream": 26,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p535/kernel.json",
+    "sha256": "68fff8fdf4b1cef2762136375ed71ec12351cfc33ec59b61eabc161596bcafa1"
+  },
+  {
+    "g4_batch": 536,
+    "fluka_stream": 26,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p536/kernel.json",
+    "sha256": "2c7f15e4d69549dd8e8295da0ee109bb7c133ddab1ac8b9f657579fcbc2dc993"
+  },
+  {
+    "g4_batch": 537,
+    "fluka_stream": 26,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p537/kernel.json",
+    "sha256": "52a949e923b4c28ca342729eaa4e6b4a6366529bc156d7cda98a68437ef76b49"
+  },
+  {
+    "g4_batch": 538,
+    "fluka_stream": 26,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p538/kernel.json",
+    "sha256": "8446ac9b763dfe87cfa3ecb3223d3f2c1c13662e6c8dc4c9031435bd39472905"
+  },
+  {
+    "g4_batch": 539,
+    "fluka_stream": 26,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p539/kernel.json",
+    "sha256": "e6726e756d08faad688020e9e48af2236764ef6d7426a1d3a25edbbf50471dcb"
+  },
+  {
+    "g4_batch": 540,
+    "fluka_stream": 27,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p540/kernel.json",
+    "sha256": "d8b4ce4fbd0d00bbcc41ee9e9260381e83a05298d350cfb157e70bfdfd8ca1d6"
+  },
+  {
+    "g4_batch": 541,
+    "fluka_stream": 27,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p541/kernel.json",
+    "sha256": "fc04cd3fb028bf52f87b4826840eb8562c4e971cb73fe2f7f1f9abe6b343f47b"
+  },
+  {
+    "g4_batch": 542,
+    "fluka_stream": 27,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p542/kernel.json",
+    "sha256": "621f2ce977a997c1f5ecaffd1c28163fcd8eab39eb379911df1ec5ed4b601549"
+  },
+  {
+    "g4_batch": 543,
+    "fluka_stream": 27,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p543/kernel.json",
+    "sha256": "d12007a1d672b7cc6b1d04c4a853a4a652b1ffa3aca0cffc62e2b5794d1daa7c"
+  },
+  {
+    "g4_batch": 544,
+    "fluka_stream": 27,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p544/kernel.json",
+    "sha256": "1f9facb5d875f6b2114f850f907dfdc49a818dc8840538d086e90b01bcb239f7"
+  },
+  {
+    "g4_batch": 545,
+    "fluka_stream": 27,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p545/kernel.json",
+    "sha256": "23c8a61ed8d0bae11c2517f906655132ecef529e5ce772079a1d03fbf6c7e735"
+  },
+  {
+    "g4_batch": 546,
+    "fluka_stream": 27,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p546/kernel.json",
+    "sha256": "5ef850a35b9cee1abfcbd900fe70d310fed7b6d313ae8b938c2ed2bdde826af0"
+  },
+  {
+    "g4_batch": 547,
+    "fluka_stream": 27,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p547/kernel.json",
+    "sha256": "6601d6239e9a44b24cb907b1ca89aa1940d1c5aab9da26bfff28ddcc32597f2a"
+  },
+  {
+    "g4_batch": 548,
+    "fluka_stream": 27,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p548/kernel.json",
+    "sha256": "486fc88b259bf4dedd719094aa436e9232828cf20690a83a8d692ebce356eb74"
+  },
+  {
+    "g4_batch": 549,
+    "fluka_stream": 27,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p549/kernel.json",
+    "sha256": "a1277bcbc7cf77021228673ca02af10f9c6965261931cb7838a7c258b7f7e3e2"
+  },
+  {
+    "g4_batch": 550,
+    "fluka_stream": 27,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p550/kernel.json",
+    "sha256": "f55ddf52e06ea821aee9c70f4b384aa81abb2551d4620610eb217e0db2fef3d7"
+  },
+  {
+    "g4_batch": 551,
+    "fluka_stream": 27,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p551/kernel.json",
+    "sha256": "1a57d1bfd300b9c6a27a2cc3d88b7c6dcc1c0b760f02f0308b9593e232029a8a"
+  },
+  {
+    "g4_batch": 552,
+    "fluka_stream": 27,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p552/kernel.json",
+    "sha256": "b2fcdad737019c5910f7db391fc642a9c197bfad842e0a2d10cdf5168fb2fef9"
+  },
+  {
+    "g4_batch": 553,
+    "fluka_stream": 27,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p553/kernel.json",
+    "sha256": "3f187156dfe8622663f53c7a0b3c3c93d96c59793558e25387a94c3e4e56a561"
+  },
+  {
+    "g4_batch": 554,
+    "fluka_stream": 27,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p554/kernel.json",
+    "sha256": "7a6aade5b335ddc519d6ed8362b7a021102e1981490ba0960a87d9d5279ae992"
+  },
+  {
+    "g4_batch": 555,
+    "fluka_stream": 27,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p555/kernel.json",
+    "sha256": "73d3b14054f1f9f8f1352ccf07b341e7a3440aad43567ec2e37ef64d72b8f1d1"
+  },
+  {
+    "g4_batch": 556,
+    "fluka_stream": 27,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p556/kernel.json",
+    "sha256": "b15bd861cc48e996845cec1de69e4896737fc0ba6efdd750767cf42e627f9ec8"
+  },
+  {
+    "g4_batch": 557,
+    "fluka_stream": 27,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p557/kernel.json",
+    "sha256": "9b322d979fbd8a4fa26f1dcbf3411c74a694d4aaeba3a541b7fe560fe0c9faa0"
+  },
+  {
+    "g4_batch": 558,
+    "fluka_stream": 27,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p558/kernel.json",
+    "sha256": "22059c26bd26ad628c39ca19289f54246ff26a4e211f283d7339381de574fef3"
+  },
+  {
+    "g4_batch": 559,
+    "fluka_stream": 27,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p559/kernel.json",
+    "sha256": "b1ea99b5be8ea80b33ee55203c5786148caba58bda81473fb133e5f130969bd2"
+  },
+  {
+    "g4_batch": 560,
+    "fluka_stream": 28,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p560/kernel.json",
+    "sha256": "4e745c418f52eacf534c4c2539554be54890136de65a8f1ce4af1419975a8040"
+  },
+  {
+    "g4_batch": 561,
+    "fluka_stream": 28,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p561/kernel.json",
+    "sha256": "4cf03dfdf246c7c3f32d89088f7914bb33d71bfe9d54f845a3ea18a1eab11ceb"
+  },
+  {
+    "g4_batch": 562,
+    "fluka_stream": 28,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p562/kernel.json",
+    "sha256": "20a0618d969127650819d0cc7f89850f91456db02ff8cc34172d5080fb1c868a"
+  },
+  {
+    "g4_batch": 563,
+    "fluka_stream": 28,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p563/kernel.json",
+    "sha256": "4187dd615a633e1b520126ea2c05a8f9a5ad8f7b4fe045913251b029d58fefde"
+  },
+  {
+    "g4_batch": 564,
+    "fluka_stream": 28,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p564/kernel.json",
+    "sha256": "5f0538ee1702bcb328f4c80e68d1fe58ebe469815fdabe36a94215ff81a6b053"
+  },
+  {
+    "g4_batch": 565,
+    "fluka_stream": 28,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p565/kernel.json",
+    "sha256": "d991c36c10f25beadc639d5ccc20e70f86c11f2644c942843ff9a0880d17103d"
+  },
+  {
+    "g4_batch": 566,
+    "fluka_stream": 28,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p566/kernel.json",
+    "sha256": "7e151debcf4883f3e6a869f55f620b96b3ae842abb1e1fa1409255bef0695a66"
+  },
+  {
+    "g4_batch": 567,
+    "fluka_stream": 28,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p567/kernel.json",
+    "sha256": "ced9e16d86ccd7d75ba4acdeedf0cc97c5f7167ed1c5d075108f52874568a557"
+  },
+  {
+    "g4_batch": 568,
+    "fluka_stream": 28,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p568/kernel.json",
+    "sha256": "82564ceb5d24315bfef4ed5a2f905c4778a5b0b7b334b2269a56a7fb6660e719"
+  },
+  {
+    "g4_batch": 569,
+    "fluka_stream": 28,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p569/kernel.json",
+    "sha256": "2d8f87a2597d0fa07e578c46c9c769b914aa7575bf876bed51623b353ef863c1"
+  },
+  {
+    "g4_batch": 570,
+    "fluka_stream": 28,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p570/kernel.json",
+    "sha256": "d12ab79b62c828a8605176df1fc78fe978420b8a1e3bb9dfc945295f713925ce"
+  },
+  {
+    "g4_batch": 571,
+    "fluka_stream": 28,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p571/kernel.json",
+    "sha256": "37e8a086d0c7fafd320b90f83356bc544748cf9f162f24c60d16f82b0a8e4fb2"
+  },
+  {
+    "g4_batch": 572,
+    "fluka_stream": 28,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p572/kernel.json",
+    "sha256": "6a11d882eb8f579cbb07c69b31419b9f33f151dfb35bee03765e8667f69b1b4e"
+  },
+  {
+    "g4_batch": 573,
+    "fluka_stream": 28,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p573/kernel.json",
+    "sha256": "5f61d79b10b2fa35e0b688051d278af4c6deca20d52892c90ebfbfd05e9c6979"
+  },
+  {
+    "g4_batch": 574,
+    "fluka_stream": 28,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p574/kernel.json",
+    "sha256": "c8b5845cd913ad70d20046843cff378198acabc0f2c17b7d7e8bbabecda4d408"
+  },
+  {
+    "g4_batch": 575,
+    "fluka_stream": 28,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p575/kernel.json",
+    "sha256": "2b051a47eadb5589b0b4de2ccefc3d025255ded0ba68ea0bef5757eb57d33927"
+  },
+  {
+    "g4_batch": 576,
+    "fluka_stream": 28,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p576/kernel.json",
+    "sha256": "17ab60f8ee05dda6334bb3456efc2fe16aec3b5e16e5c2f7cdd747338d2ce6ee"
+  },
+  {
+    "g4_batch": 577,
+    "fluka_stream": 28,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p577/kernel.json",
+    "sha256": "a7783bb76398cdedfb79f3c2c252b90d96359e1140780e5ef312e8b5161ead27"
+  },
+  {
+    "g4_batch": 578,
+    "fluka_stream": 28,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p578/kernel.json",
+    "sha256": "bf7b64e72dc138eae807b7b65f6ba69514f18960443f58e4b083173048a82c15"
+  },
+  {
+    "g4_batch": 579,
+    "fluka_stream": 28,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p579/kernel.json",
+    "sha256": "c728c07f222fd687f18dfacae2b9b0bf5ccfe1388b44fad1f20a10c5c29f1be0"
+  },
+  {
+    "g4_batch": 580,
+    "fluka_stream": 29,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p580/kernel.json",
+    "sha256": "2d6ebaac0bbc774cb9db7438a096da4ad7271c1f7ed35b3d9e9d19c55a8e3b38"
+  },
+  {
+    "g4_batch": 581,
+    "fluka_stream": 29,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p581/kernel.json",
+    "sha256": "990041ccc0e92f7d16caa6add7ea2beed6232faa95fa47eb1cadc57c977879f1"
+  },
+  {
+    "g4_batch": 582,
+    "fluka_stream": 29,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p582/kernel.json",
+    "sha256": "16e0e9b9bf8cce71d0cf411d8123c8639556dfa9bab03e96403bce4591bc8319"
+  },
+  {
+    "g4_batch": 583,
+    "fluka_stream": 29,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p583/kernel.json",
+    "sha256": "5fbadb37169ddcf9bd1266812fc93f81e69d38d08112c1dd702395636143f6be"
+  },
+  {
+    "g4_batch": 584,
+    "fluka_stream": 29,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p584/kernel.json",
+    "sha256": "b5e4265c7333d3bfa2a17578df90b6a3b34ff6899dbd71a5b02a96aa2a98b1d8"
+  },
+  {
+    "g4_batch": 585,
+    "fluka_stream": 29,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p585/kernel.json",
+    "sha256": "9ac05183f40d1ab30fec9eeb2b677e99ebff9fc85db6d5791730784970b59149"
+  },
+  {
+    "g4_batch": 586,
+    "fluka_stream": 29,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p586/kernel.json",
+    "sha256": "b95b8dedfdeed0f95300079910dda29113e4c9bdfb4b8cea5fb760eaef2352b0"
+  },
+  {
+    "g4_batch": 587,
+    "fluka_stream": 29,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p587/kernel.json",
+    "sha256": "f8682d1c6f6eaf5fd6404be43686e4da60522ad3cb68b1ea73b22640a61d6ded"
+  },
+  {
+    "g4_batch": 588,
+    "fluka_stream": 29,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p588/kernel.json",
+    "sha256": "bdacd5a2d45b700f176b2f07176b0602ba855d7fada3b4e90c1f176bbbb1fb52"
+  },
+  {
+    "g4_batch": 589,
+    "fluka_stream": 29,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p589/kernel.json",
+    "sha256": "639bf7d5dfb1a9dbe55f8e901dbf7aa6cb2481912ba6d5815fccc41c4e1379d9"
+  },
+  {
+    "g4_batch": 590,
+    "fluka_stream": 29,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p590/kernel.json",
+    "sha256": "7737cec4d83d1ec56a31b576decc3997b358f0947c0dc42ec19ec25e28ed0969"
+  },
+  {
+    "g4_batch": 591,
+    "fluka_stream": 29,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p591/kernel.json",
+    "sha256": "48b99221b3936b6243c3291dc17b43afb9870292def066f824a6a0a5058d5b18"
+  },
+  {
+    "g4_batch": 592,
+    "fluka_stream": 29,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p592/kernel.json",
+    "sha256": "5aa9502529223d53f4658dcdc6a8eb15147e26b88d4aab42473f4fc4dea38273"
+  },
+  {
+    "g4_batch": 593,
+    "fluka_stream": 29,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p593/kernel.json",
+    "sha256": "1fbb74a75c2ae37916dab6c4175add4b54a1a83f3836b865c45c654df6f199fc"
+  },
+  {
+    "g4_batch": 594,
+    "fluka_stream": 29,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p594/kernel.json",
+    "sha256": "b5dc09835b9be2194b50d6af23d46b9770b40859d99e9184f1f3e3ca42c1fb82"
+  },
+  {
+    "g4_batch": 595,
+    "fluka_stream": 29,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p595/kernel.json",
+    "sha256": "2b7a3f8cd57f0ad64afb3bf47b1afbf696782b775c3ff8a0e05b5e4414aceacb"
+  },
+  {
+    "g4_batch": 596,
+    "fluka_stream": 29,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p596/kernel.json",
+    "sha256": "655ebbefdcd767161047e70b81b73898cd8e1148860a5f6705052af02e348444"
+  },
+  {
+    "g4_batch": 597,
+    "fluka_stream": 29,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p597/kernel.json",
+    "sha256": "6be19a26c719ed1760aacdd9ec2aefca60895a70454c6f3ae5a3f8f7aab783a7"
+  },
+  {
+    "g4_batch": 598,
+    "fluka_stream": 29,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p598/kernel.json",
+    "sha256": "71115c8fa8d75de57fbeeec2fd3b15a624d5cf876c0696cb8ca73f8307e85e9b"
+  },
+  {
+    "g4_batch": 599,
+    "fluka_stream": 29,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p599/kernel.json",
+    "sha256": "ae4068c0f5b3a4e6e913378fd0dedd3e2a4e5513b6fce49ab1c4ef06b0092fd8"
+  },
+  {
+    "g4_batch": 600,
+    "fluka_stream": 30,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p600/kernel.json",
+    "sha256": "29b9ae1aba8cfaca6841cce08e53211332cb241874f73a4edde33b0d7d11b558"
+  },
+  {
+    "g4_batch": 601,
+    "fluka_stream": 30,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p601/kernel.json",
+    "sha256": "b373a6f725f8e19a28f15aa4c30d1bfedaa28a50b72f4e245d7ebae32aeddd0a"
+  },
+  {
+    "g4_batch": 602,
+    "fluka_stream": 30,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p602/kernel.json",
+    "sha256": "17c90716acabd9d5ed7a4dd9ac9163e3aec7854fb74257e473f98dc3a6a66b0e"
+  },
+  {
+    "g4_batch": 603,
+    "fluka_stream": 30,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p603/kernel.json",
+    "sha256": "182fbc06a69ea601c5af3b1bda8e91ed7b3de358724c8dba48c1506ac5c51bfb"
+  },
+  {
+    "g4_batch": 604,
+    "fluka_stream": 30,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p604/kernel.json",
+    "sha256": "df74dc5bb1c3cb4da03c8770f33b0767ce57b9fe078717664c616d27837b74dd"
+  },
+  {
+    "g4_batch": 605,
+    "fluka_stream": 30,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p605/kernel.json",
+    "sha256": "6493e1495e1c5c19a8f96476163a2c30efad1f5cf8dbecdd17d1ad739a21c80c"
+  },
+  {
+    "g4_batch": 606,
+    "fluka_stream": 30,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p606/kernel.json",
+    "sha256": "08f69b0e1b3b6f136c556153362b0c7b25a9cdeb5aefba26efde3eaf5be148c3"
+  },
+  {
+    "g4_batch": 607,
+    "fluka_stream": 30,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p607/kernel.json",
+    "sha256": "7e57b701d549d4ee402d117015e88ed26e0875489fb6a6d332118425067e8742"
+  },
+  {
+    "g4_batch": 608,
+    "fluka_stream": 30,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p608/kernel.json",
+    "sha256": "eeccdb61b734a500c902c2d949aa07e5887944c2f141df7ee83c880b93cc5f24"
+  },
+  {
+    "g4_batch": 609,
+    "fluka_stream": 30,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p609/kernel.json",
+    "sha256": "a0dc25257f42833511834520394463c7f6ecd0390550a865e63ffda84a7a2da4"
+  },
+  {
+    "g4_batch": 610,
+    "fluka_stream": 30,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p610/kernel.json",
+    "sha256": "47e84278d9456b0efe3fda43fa1c4282142e4087029817a438f48b9ae1f534fc"
+  },
+  {
+    "g4_batch": 611,
+    "fluka_stream": 30,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p611/kernel.json",
+    "sha256": "a25ecf512e619b969a8139023d11045339f0e2f049f34536626ec95a07176dc4"
+  },
+  {
+    "g4_batch": 612,
+    "fluka_stream": 30,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p612/kernel.json",
+    "sha256": "e3e9bf5eee6b604c9c2178fab2458ebc33c2391886a1b38cca240baa487c9708"
+  },
+  {
+    "g4_batch": 613,
+    "fluka_stream": 30,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p613/kernel.json",
+    "sha256": "fd500fde13a7f23c71bb0304430766d9a8ae199223be1f619afeb3719c51e5b7"
+  },
+  {
+    "g4_batch": 614,
+    "fluka_stream": 30,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p614/kernel.json",
+    "sha256": "bd94f0177d050b9ea92dfa6471b97d4685ba674a7092a759e0d8441cc26d2872"
+  },
+  {
+    "g4_batch": 615,
+    "fluka_stream": 30,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p615/kernel.json",
+    "sha256": "dbd3802223bda3b946eef77e97dc56dd99a42107157c7c5b4a45d56bac8b7a01"
+  },
+  {
+    "g4_batch": 616,
+    "fluka_stream": 30,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p616/kernel.json",
+    "sha256": "2eaba475af7632a5e6ee930275a7d5fad413325510a07512d2a1549ca9e3e5e5"
+  },
+  {
+    "g4_batch": 617,
+    "fluka_stream": 30,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p617/kernel.json",
+    "sha256": "1c22ccf4efcd47a683baafe6faa8510662093b23b1169bfa992b7c71dd04afbc"
+  },
+  {
+    "g4_batch": 618,
+    "fluka_stream": 30,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p618/kernel.json",
+    "sha256": "57e237b6d51991b95e01e057035838f5f0d2ff9f4b6ea0b459b9f22c1e6bb958"
+  },
+  {
+    "g4_batch": 619,
+    "fluka_stream": 30,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p619/kernel.json",
+    "sha256": "d8217cdcfd02dc7f4d744fcc9b2dd7044a93e9af38909e57eb038b6a17e0b2be"
+  },
+  {
+    "g4_batch": 620,
+    "fluka_stream": 31,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p620/kernel.json",
+    "sha256": "eabb082e4367efe6cb79364194726223377ed2ddc58ca30907db2c3428b122b3"
+  },
+  {
+    "g4_batch": 621,
+    "fluka_stream": 31,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p621/kernel.json",
+    "sha256": "230c3b4c8b6d2f40a85d5525123aebd66e7fb4ff53b2ac1f2a2fa77f0121129d"
+  },
+  {
+    "g4_batch": 622,
+    "fluka_stream": 31,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p622/kernel.json",
+    "sha256": "08cd3c1c53819b65ca7d34f143ef1e467c944ac2f113d9c33f7415fece6957b3"
+  },
+  {
+    "g4_batch": 623,
+    "fluka_stream": 31,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p623/kernel.json",
+    "sha256": "ab9f47a4252148875f80b517db6733e154f0c4b7198dd0633b6178b57e76cfab"
+  },
+  {
+    "g4_batch": 624,
+    "fluka_stream": 31,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p624/kernel.json",
+    "sha256": "1ea0294a16cfcbb052f637789edf724cb8379ce1db2a5cc01359e604c72e35bc"
+  },
+  {
+    "g4_batch": 625,
+    "fluka_stream": 31,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p625/kernel.json",
+    "sha256": "e8dbc5f7909dee796430f71e8a10be4e119101b2ea29992bf88c35e762e67c43"
+  },
+  {
+    "g4_batch": 626,
+    "fluka_stream": 31,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p626/kernel.json",
+    "sha256": "dc7c338f4db007ba702e29dac4e94bde56edcbcc5300b80f237528e0f9051944"
+  },
+  {
+    "g4_batch": 627,
+    "fluka_stream": 31,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p627/kernel.json",
+    "sha256": "6b19d91193c832e3424748f64d3435e1b08e9d5844d691ef8bad5315131d5f9a"
+  },
+  {
+    "g4_batch": 628,
+    "fluka_stream": 31,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p628/kernel.json",
+    "sha256": "a7eabcda6ae1d5226cd116adfc86150f67be58c5197d8891e09b5a08e2c2c937"
+  },
+  {
+    "g4_batch": 629,
+    "fluka_stream": 31,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p629/kernel.json",
+    "sha256": "3241743b35ee2b72078286452c930a451b12f9e5e336e1d6413d0c2dbf614aae"
+  },
+  {
+    "g4_batch": 630,
+    "fluka_stream": 31,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p630/kernel.json",
+    "sha256": "cc3f5bea8bde24b8533d16ffe2ffb611a64865d7ed2b5b5275359264e7a1c5ad"
+  },
+  {
+    "g4_batch": 631,
+    "fluka_stream": 31,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p631/kernel.json",
+    "sha256": "dd2c1075232b5bab350e40730293d19323533deb392d96ccb528ff96499a23b9"
+  },
+  {
+    "g4_batch": 632,
+    "fluka_stream": 31,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p632/kernel.json",
+    "sha256": "d594b28af3e38967d2bfe7e3e4a05db671e2e753dd33da1b9363dfac2336405a"
+  },
+  {
+    "g4_batch": 633,
+    "fluka_stream": 31,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p633/kernel.json",
+    "sha256": "b2790e94ca4cce3b2cf825b40b17df8290b1e3d691d17032e3fcb8e668f4bc99"
+  },
+  {
+    "g4_batch": 634,
+    "fluka_stream": 31,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p634/kernel.json",
+    "sha256": "741482613e5da94c0267ee7cf76408f87bc4c459f046666e6f129f2d91607c70"
+  },
+  {
+    "g4_batch": 635,
+    "fluka_stream": 31,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p635/kernel.json",
+    "sha256": "2511e752c3e4adb65e595a9cb947fc83ff64d42a6d612366eb739c6b1942ca3f"
+  },
+  {
+    "g4_batch": 636,
+    "fluka_stream": 31,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p636/kernel.json",
+    "sha256": "45866bc0e3f31ef392412832a9390c190aa8a7c433945bb080629ac8ddba44b8"
+  },
+  {
+    "g4_batch": 637,
+    "fluka_stream": 31,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p637/kernel.json",
+    "sha256": "6a43a451e7b55b01d42314674f19b6a04a0218628f294e753ffa99ce97cc9424"
+  },
+  {
+    "g4_batch": 638,
+    "fluka_stream": 31,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p638/kernel.json",
+    "sha256": "38600f859793a34bed29128b63f18e74f4b965670f58fe918e20231532887817"
+  },
+  {
+    "g4_batch": 639,
+    "fluka_stream": 31,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p639/kernel.json",
+    "sha256": "1a1388e16085573ac9d5d5d22e7b9da53384ea9570e48e4ca2e329812730970a"
+  },
+  {
+    "g4_batch": 640,
+    "fluka_stream": 32,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p640/kernel.json",
+    "sha256": "6af4a9e7dd66afbbde5e6f19b6da1147c13e78f46399c6aa93781b9489e3f56e"
+  },
+  {
+    "g4_batch": 641,
+    "fluka_stream": 32,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p641/kernel.json",
+    "sha256": "b097bcb9c96dca26eb7e0a85b8c63167dd03fb54b12a8fcb09bc78d807fae154"
+  },
+  {
+    "g4_batch": 642,
+    "fluka_stream": 32,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p642/kernel.json",
+    "sha256": "2e35c1096c44df1904821a1e3b9ed14b04814fd06e1a59b7aec948559c252809"
+  },
+  {
+    "g4_batch": 643,
+    "fluka_stream": 32,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p643/kernel.json",
+    "sha256": "4fa26f45ef47d13aa8d83d2cf0de9cf6c61039dde2455300c5954fe3c1135c8f"
+  },
+  {
+    "g4_batch": 644,
+    "fluka_stream": 32,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p644/kernel.json",
+    "sha256": "0eb266a5492f2de54b76832c221b4cb65d0712784f307ca2b46d5b98c0cdcd75"
+  },
+  {
+    "g4_batch": 645,
+    "fluka_stream": 32,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p645/kernel.json",
+    "sha256": "1749587a7c8e4f3b22cfe4a0d66c188ee43af3370184383990e5cdb8f0dff005"
+  },
+  {
+    "g4_batch": 646,
+    "fluka_stream": 32,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p646/kernel.json",
+    "sha256": "e52321991667ebaf70b455fc48fc70b373bf5da0aa6501ae986fd7d7e54169e5"
+  },
+  {
+    "g4_batch": 647,
+    "fluka_stream": 32,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p647/kernel.json",
+    "sha256": "0a103b116f690530a8c16d367a672579a824bf04043c6b41d5668690d511c660"
+  },
+  {
+    "g4_batch": 648,
+    "fluka_stream": 32,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p648/kernel.json",
+    "sha256": "3d634f6d3bd963988c09a976304217a2bcb2568e0592d47c5f1a69e036011186"
+  },
+  {
+    "g4_batch": 649,
+    "fluka_stream": 32,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p649/kernel.json",
+    "sha256": "331c25f8854452057ea66ec91aa5765947da48e4af6f60ba37007fe245482333"
+  },
+  {
+    "g4_batch": 650,
+    "fluka_stream": 32,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p650/kernel.json",
+    "sha256": "d20c50bb7f6a6577d7a56d10e7f09c03e67f53b3d1d0fd55378aacdc1bc97448"
+  },
+  {
+    "g4_batch": 651,
+    "fluka_stream": 32,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p651/kernel.json",
+    "sha256": "d5c285d4f1c6badb1d3eb90951fa6abf1b687c8d72e1b96ca177268a2fe71cc7"
+  },
+  {
+    "g4_batch": 652,
+    "fluka_stream": 32,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p652/kernel.json",
+    "sha256": "1aa19623790496e02421ad16414decace0894139f92bb1d9480cfb27397c9fa8"
+  },
+  {
+    "g4_batch": 653,
+    "fluka_stream": 32,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p653/kernel.json",
+    "sha256": "6711c127abe282590bfd8f2671bc20c0893abdbe7e2d35f4a84d29af1afb1ef4"
+  },
+  {
+    "g4_batch": 654,
+    "fluka_stream": 32,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p654/kernel.json",
+    "sha256": "6d967eb8964f1d3e6c9c4ec8444d1ae995df4ad4ff8734a89fc02733e977d3a2"
+  },
+  {
+    "g4_batch": 655,
+    "fluka_stream": 32,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p655/kernel.json",
+    "sha256": "01443ad74850835c066d00654e84d8fa631721d2326a319ab650a777bbbb1595"
+  },
+  {
+    "g4_batch": 656,
+    "fluka_stream": 32,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p656/kernel.json",
+    "sha256": "a73b5e0376695da47d65161317c1227531a5ef9fb713732cb60387bdfe214e71"
+  },
+  {
+    "g4_batch": 657,
+    "fluka_stream": 32,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p657/kernel.json",
+    "sha256": "11fd17e87c8a66ba3a52a6f56dae81836a55325c4c87ddc2e338bd632839cf15"
+  },
+  {
+    "g4_batch": 658,
+    "fluka_stream": 32,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p658/kernel.json",
+    "sha256": "c2a7a7f885e25e66146d79deb7cc68c5528635e07da9ca6c0b84b8e4334288c8"
+  },
+  {
+    "g4_batch": 659,
+    "fluka_stream": 32,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p659/kernel.json",
+    "sha256": "d03a8cbf56a7c7d19e125ade0b6cca6497acc73189758eb833841ce2de5e49e1"
+  },
+  {
+    "g4_batch": 660,
+    "fluka_stream": 33,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p660/kernel.json",
+    "sha256": "f8aaade316d4a44c805c0edb96717e6c27504fdb3d1ee71a181b02b8a9c8db6e"
+  },
+  {
+    "g4_batch": 661,
+    "fluka_stream": 33,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p661/kernel.json",
+    "sha256": "c63f5a4d9282728bb0341b84872484f9987c2576574bbbcd3b1eb84bbc959458"
+  },
+  {
+    "g4_batch": 662,
+    "fluka_stream": 33,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p662/kernel.json",
+    "sha256": "31b71cd7b7b4ff81097ec79a3f337c61682312f652ccb46e0ded42f3ed3512b2"
+  },
+  {
+    "g4_batch": 663,
+    "fluka_stream": 33,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p663/kernel.json",
+    "sha256": "0a351bf1e6f98422b15fcc7d8a3a7ec78ab98b8dd5dfa3743eae349203537df6"
+  },
+  {
+    "g4_batch": 664,
+    "fluka_stream": 33,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p664/kernel.json",
+    "sha256": "9b1da238016c0446ecb70a9baf37ab5f0050da4a5d959f73b4d834c53813ae15"
+  },
+  {
+    "g4_batch": 665,
+    "fluka_stream": 33,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p665/kernel.json",
+    "sha256": "f58849e0b9d8106586f66d063092270de6aa0d7f30a9dba927dc165f19ffe9c1"
+  },
+  {
+    "g4_batch": 666,
+    "fluka_stream": 33,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p666/kernel.json",
+    "sha256": "80168bfc2ecbc4e281763ba51df2ebf0c3dccff7e21aa3533364ee458848b89a"
+  },
+  {
+    "g4_batch": 667,
+    "fluka_stream": 33,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p667/kernel.json",
+    "sha256": "95d8da2ff95e7ccac9d260e00451969be5d75a357bcf7b7747b21db3bfd051a5"
+  },
+  {
+    "g4_batch": 668,
+    "fluka_stream": 33,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p668/kernel.json",
+    "sha256": "e7f16a6aa4a3d568df65ea52b4fb796724915a58ab9517903f2e52d670e2fbcc"
+  },
+  {
+    "g4_batch": 669,
+    "fluka_stream": 33,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p669/kernel.json",
+    "sha256": "f92610e3b0f39547a354d1f2951abf24ffd08c56e14b625c941fd715320818a8"
+  },
+  {
+    "g4_batch": 670,
+    "fluka_stream": 33,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p670/kernel.json",
+    "sha256": "019cfc1e9258664863809e528c1cce180af095fae1ed9852acc7fa75558d793a"
+  },
+  {
+    "g4_batch": 671,
+    "fluka_stream": 33,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p671/kernel.json",
+    "sha256": "f73bdde2b353faccb4c8a76df1699bdc925c2db03625e0d271794c2d07862503"
+  },
+  {
+    "g4_batch": 672,
+    "fluka_stream": 33,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p672/kernel.json",
+    "sha256": "69f7d16569529f4ce702b061444c27ebb43f050fae4f44c838492405828fd938"
+  },
+  {
+    "g4_batch": 673,
+    "fluka_stream": 33,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p673/kernel.json",
+    "sha256": "8aee683eb9705e1f14708511f332c8d2edb2d87767ff4ac5f98956da06b81880"
+  },
+  {
+    "g4_batch": 674,
+    "fluka_stream": 33,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p674/kernel.json",
+    "sha256": "076e776432332e3c566b5429892c1a2302763564806d2351609283e5ca8f9c0a"
+  },
+  {
+    "g4_batch": 675,
+    "fluka_stream": 33,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p675/kernel.json",
+    "sha256": "02dbf175585a83befc7ed1e15f994e8c748cf4ce961aaa31d12ec729f030e964"
+  },
+  {
+    "g4_batch": 676,
+    "fluka_stream": 33,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p676/kernel.json",
+    "sha256": "071a99271f89d49af28da45c9a756a53472f7958c94e49366395fccfe8769bf0"
+  },
+  {
+    "g4_batch": 677,
+    "fluka_stream": 33,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p677/kernel.json",
+    "sha256": "258f3b4fdead86ba4d0cbcd82efcd027f0f1e4077543719cb9bfc9c4e8da1969"
+  },
+  {
+    "g4_batch": 678,
+    "fluka_stream": 33,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p678/kernel.json",
+    "sha256": "629d0bff414fadc69f6eec9c5ebe6b8a8ec82403ca3f70d77f1612a9e1a01129"
+  },
+  {
+    "g4_batch": 679,
+    "fluka_stream": 33,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p679/kernel.json",
+    "sha256": "d32f7297d2718bb4dc04473541a9f250dc8117c43cd2588226c534f041e2f64b"
+  },
+  {
+    "g4_batch": 680,
+    "fluka_stream": 34,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p680/kernel.json",
+    "sha256": "c4d324cfc79d9d8607bf712f7523bde89c1d71d10adf18efe8bc848962ba8081"
+  },
+  {
+    "g4_batch": 681,
+    "fluka_stream": 34,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p681/kernel.json",
+    "sha256": "0ed517cc64dddbaabcdad2e58776212cb81c7a7401feb61980308c6cc81ac5e8"
+  },
+  {
+    "g4_batch": 682,
+    "fluka_stream": 34,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p682/kernel.json",
+    "sha256": "27be745b5ab285ce2ec11565f647c0a0d79a49ebc7c57fbe58f85674159c7205"
+  },
+  {
+    "g4_batch": 683,
+    "fluka_stream": 34,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p683/kernel.json",
+    "sha256": "a215d52a25d4ca196cba17116cd6f0659552596281bc7cbeb4aeb7a1dfe2f9fc"
+  },
+  {
+    "g4_batch": 684,
+    "fluka_stream": 34,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p684/kernel.json",
+    "sha256": "4f4ab43ea4c3ea2ef3744344bd437b05240335e5eb3393d807ebfb58fc4acf71"
+  },
+  {
+    "g4_batch": 685,
+    "fluka_stream": 34,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p685/kernel.json",
+    "sha256": "ec815781bbd5d74b188190cb418d56289d9fbbdc50a2122a35ed9a5fed8e8b6d"
+  },
+  {
+    "g4_batch": 686,
+    "fluka_stream": 34,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p686/kernel.json",
+    "sha256": "11003545a0fc142683e33ba8d595ed5439b9e69521b89a8ac094bc8b98505215"
+  },
+  {
+    "g4_batch": 687,
+    "fluka_stream": 34,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p687/kernel.json",
+    "sha256": "9354d2874a34aa7f78715111d1c2dac1da4b66ae137e118fbcdcb56000d067c6"
+  },
+  {
+    "g4_batch": 688,
+    "fluka_stream": 34,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p688/kernel.json",
+    "sha256": "db6a3262924452e673c1c5bed1031f0d5188f2b9f398b65df2485ef0043c81ce"
+  },
+  {
+    "g4_batch": 689,
+    "fluka_stream": 34,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p689/kernel.json",
+    "sha256": "9064544f45fb9b511ce11f0ea720731bd3f5b2cd7a8c712ccec9b5c35c47b1f4"
+  },
+  {
+    "g4_batch": 690,
+    "fluka_stream": 34,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p690/kernel.json",
+    "sha256": "c55fd6cdb56fee0b36b4a90ab6b8e197c693b311f39b2869cd81f98e4172b5b7"
+  },
+  {
+    "g4_batch": 691,
+    "fluka_stream": 34,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p691/kernel.json",
+    "sha256": "436807bc7538f412ff221f7952ed275c0b93a97d4bc9df2988132651df316fee"
+  },
+  {
+    "g4_batch": 692,
+    "fluka_stream": 34,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p692/kernel.json",
+    "sha256": "740a56e487238144dff5820e66a37d5641dfa902fddd05356e79c61f2f7d7dc5"
+  },
+  {
+    "g4_batch": 693,
+    "fluka_stream": 34,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p693/kernel.json",
+    "sha256": "2d87b73e49ad3193cf98cb162908e9dedb9306ae3b1876d27b09e9d75af79ced"
+  },
+  {
+    "g4_batch": 694,
+    "fluka_stream": 34,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p694/kernel.json",
+    "sha256": "36e0833315fd6c049054f2d3f05fcf4256be10e967aceda7d233b965bd47e88e"
+  },
+  {
+    "g4_batch": 695,
+    "fluka_stream": 34,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p695/kernel.json",
+    "sha256": "4b7167f99d1f121fae4e512367d165440bc924e178a2223b8497a7b44869e721"
+  },
+  {
+    "g4_batch": 696,
+    "fluka_stream": 34,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p696/kernel.json",
+    "sha256": "31c8323487c8cad6a77d9c7bd54210111d739041f788ee499497fb5f6d3c6436"
+  },
+  {
+    "g4_batch": 697,
+    "fluka_stream": 34,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p697/kernel.json",
+    "sha256": "c589815e58c1029974e05c44407ced927b7ff312c6018286022f5d336d78aedb"
+  },
+  {
+    "g4_batch": 698,
+    "fluka_stream": 34,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p698/kernel.json",
+    "sha256": "b7828dbfc4cda77948d63874f2711fa75e7ff99798cdc17206aa2e51e450cd28"
+  },
+  {
+    "g4_batch": 699,
+    "fluka_stream": 34,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p699/kernel.json",
+    "sha256": "5c638fc4e462ee5a0efc9ef8a4d4fe1bae8f3f8d34608e0cb2ac4a50d8dd4c46"
+  },
+  {
+    "g4_batch": 700,
+    "fluka_stream": 35,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p700/kernel.json",
+    "sha256": "e95712ef2ec66c4da9d992c8fc1116c4ac01889d4f2c4ec1504e6ed4f069ee3d"
+  },
+  {
+    "g4_batch": 701,
+    "fluka_stream": 35,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p701/kernel.json",
+    "sha256": "963178ec8eb9e38021628d89c7c344e217ac02bc0cbc0d637d596fcfd8bbf13b"
+  },
+  {
+    "g4_batch": 702,
+    "fluka_stream": 35,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p702/kernel.json",
+    "sha256": "bb723404c16f11c1b3e341d93c17158a6d8c2cb4fce9620df4916f56c992ada6"
+  },
+  {
+    "g4_batch": 703,
+    "fluka_stream": 35,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p703/kernel.json",
+    "sha256": "d43ed47e0088186cf999c3ec1936706bc1cd04a377e12884d998a1f74fbb0aca"
+  },
+  {
+    "g4_batch": 704,
+    "fluka_stream": 35,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p704/kernel.json",
+    "sha256": "ca0e5cb9bde924a238218fd322792f7e2c7d75f20b9659ad93b39026ba72c2b3"
+  },
+  {
+    "g4_batch": 705,
+    "fluka_stream": 35,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p705/kernel.json",
+    "sha256": "3d0bdd28704d3228d8babc9a6bb1af888b8ef800de713aa06111a0903bfd95eb"
+  },
+  {
+    "g4_batch": 706,
+    "fluka_stream": 35,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p706/kernel.json",
+    "sha256": "d448481e03526fd8113f892b41f91f198d5c49917cea927723fab2a07c311be8"
+  },
+  {
+    "g4_batch": 707,
+    "fluka_stream": 35,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p707/kernel.json",
+    "sha256": "762299796600d9511d2dcf85906ccec43eb040c30e6b9270f9170ba5deed3fbd"
+  },
+  {
+    "g4_batch": 708,
+    "fluka_stream": 35,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p708/kernel.json",
+    "sha256": "52364de91ceafb6e9f61fe254e91ce32071ad4391ecd97e281024d227d262668"
+  },
+  {
+    "g4_batch": 709,
+    "fluka_stream": 35,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p709/kernel.json",
+    "sha256": "77db7de13c66e38cae5f74c23e9c7c5125817923070e818c9a7b338b9a0c658e"
+  },
+  {
+    "g4_batch": 710,
+    "fluka_stream": 35,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p710/kernel.json",
+    "sha256": "4cc1a78f82c7142600768abd72aed2253d74b0b555d589541c792b13130cb900"
+  },
+  {
+    "g4_batch": 711,
+    "fluka_stream": 35,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p711/kernel.json",
+    "sha256": "886d6845fc60f910b422e419b74d901cc912811b234a794da31e265199dc024f"
+  },
+  {
+    "g4_batch": 712,
+    "fluka_stream": 35,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p712/kernel.json",
+    "sha256": "2217e75951802a8b31644a15fe82246692a5d091a884aed1b5b6bee7736dd788"
+  },
+  {
+    "g4_batch": 713,
+    "fluka_stream": 35,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p713/kernel.json",
+    "sha256": "b2ed0209a1349d38d3fff373aad87fbbf428908d4d0dd4d460318c1d3b1a4ac1"
+  },
+  {
+    "g4_batch": 714,
+    "fluka_stream": 35,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p714/kernel.json",
+    "sha256": "5c15760df9e6b130d152b757b3977eb2d0c691ca1a798f51f055c53b20e31c1d"
+  },
+  {
+    "g4_batch": 715,
+    "fluka_stream": 35,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p715/kernel.json",
+    "sha256": "dd65bb55aea42a70249bdc0bb76ac875860b5b00b15bf7aa9f1614d85c9c1a4c"
+  },
+  {
+    "g4_batch": 716,
+    "fluka_stream": 35,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p716/kernel.json",
+    "sha256": "aa690e6095e754a2d050309d882bc67ef17085ca2ca20b943aaa1a3cfdc79b56"
+  },
+  {
+    "g4_batch": 717,
+    "fluka_stream": 35,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p717/kernel.json",
+    "sha256": "e1b5093fbebdae59fdc430964e3f0c61f04f633277778a0de5c72087ce36023e"
+  },
+  {
+    "g4_batch": 718,
+    "fluka_stream": 35,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p718/kernel.json",
+    "sha256": "b33f038f1fbeeeaa86f79128385d49ed6aa92442f2fdb1f8d5ba8882cb1d4a5d"
+  },
+  {
+    "g4_batch": 719,
+    "fluka_stream": 35,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p719/kernel.json",
+    "sha256": "ddc329d1bfe6c0b4cd54a9cb92dbcb77734a7a588b33e06bb23a6bc7be695f3a"
+  },
+  {
+    "g4_batch": 720,
+    "fluka_stream": 36,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p720/kernel.json",
+    "sha256": "7888a90edf478510d5525473532de7f61ebe4d36233e3bc470706d9f672b6450"
+  },
+  {
+    "g4_batch": 721,
+    "fluka_stream": 36,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p721/kernel.json",
+    "sha256": "ec3fddf1b040b7d50b2ae83cf3db88ba7f0320b0bcce687ab3fbecc6ba374674"
+  },
+  {
+    "g4_batch": 722,
+    "fluka_stream": 36,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p722/kernel.json",
+    "sha256": "6bcb323c194ef5ff8f50c3b973624d7b27e5243b31acb67beb4c13dc9b1066a3"
+  },
+  {
+    "g4_batch": 723,
+    "fluka_stream": 36,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p723/kernel.json",
+    "sha256": "e94bafcf4bc1a630ffe941929b6eac0d5e338adb188d91b06a2fa51f33f4b33f"
+  },
+  {
+    "g4_batch": 724,
+    "fluka_stream": 36,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p724/kernel.json",
+    "sha256": "67ce4010263f36689f7864a95e06710ec999bb56767c146c7f0827673dba8561"
+  },
+  {
+    "g4_batch": 725,
+    "fluka_stream": 36,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p725/kernel.json",
+    "sha256": "46a2b4607cd4d0489aac65bdd61d683b5a40cf139b13fb4a6ab9e6a73e88dd32"
+  },
+  {
+    "g4_batch": 726,
+    "fluka_stream": 36,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p726/kernel.json",
+    "sha256": "0b0031d838264b365108a01be1112b88bd321cf640682f00f6d44af1969b6955"
+  },
+  {
+    "g4_batch": 727,
+    "fluka_stream": 36,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p727/kernel.json",
+    "sha256": "75d0e7078f692addd4e1a9c4b64ea00c2a3e499d1a094064fe180849f5303759"
+  },
+  {
+    "g4_batch": 728,
+    "fluka_stream": 36,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p728/kernel.json",
+    "sha256": "47be9ca6c70b77ab88b363028207ff788e7e156bba0519d5c0763f6bfe853dec"
+  },
+  {
+    "g4_batch": 729,
+    "fluka_stream": 36,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p729/kernel.json",
+    "sha256": "067e56794c3509205bc07173a7a64bf76f1a4b527bd4672fb81ba68e01713ee7"
+  },
+  {
+    "g4_batch": 730,
+    "fluka_stream": 36,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p730/kernel.json",
+    "sha256": "4152746e1d408ca16c121b96798db23475f3947a94541bfd49198f0dbc71f872"
+  },
+  {
+    "g4_batch": 731,
+    "fluka_stream": 36,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p731/kernel.json",
+    "sha256": "22991a059622e60bdd51c8edbc7f49c042a63bdbe89b72d18bc896908223e89f"
+  },
+  {
+    "g4_batch": 732,
+    "fluka_stream": 36,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p732/kernel.json",
+    "sha256": "eca3e26bb59bae434c8a5876e895cbeefff2201ee9d7e2068e89c83ef23ffea0"
+  },
+  {
+    "g4_batch": 733,
+    "fluka_stream": 36,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p733/kernel.json",
+    "sha256": "91af335ae9d0a25bb91c872e0bb9aa6b49b5a41b7ae20e5e130e34a1502a3dd1"
+  },
+  {
+    "g4_batch": 734,
+    "fluka_stream": 36,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p734/kernel.json",
+    "sha256": "ebea8034554b9a1b0c02fc26ddff324a279b13fbe26740b4ba294a73428681cd"
+  },
+  {
+    "g4_batch": 735,
+    "fluka_stream": 36,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p735/kernel.json",
+    "sha256": "b7072e74cb24ca10aa75d6a35ca162376135b378f598dec6e6a1f17e7911a3ad"
+  },
+  {
+    "g4_batch": 736,
+    "fluka_stream": 36,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p736/kernel.json",
+    "sha256": "8a2a0402388af212b316f50bbc7fd7e4bb9d53a1322ceea933e5e22838a7017d"
+  },
+  {
+    "g4_batch": 737,
+    "fluka_stream": 36,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p737/kernel.json",
+    "sha256": "69bb8662754345e5a0d676b365229707ef4f408bcb9448d590112b85927bd575"
+  },
+  {
+    "g4_batch": 738,
+    "fluka_stream": 36,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p738/kernel.json",
+    "sha256": "de91e2b12f908c9940557780dd3e9042fb44cf7db9a14b977d6f9c0bfc71c21c"
+  },
+  {
+    "g4_batch": 739,
+    "fluka_stream": 36,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p739/kernel.json",
+    "sha256": "5d755d30596e766b52ac01d8255953f6af64213aab64d5a2473263ac617acf41"
+  },
+  {
+    "g4_batch": 740,
+    "fluka_stream": 37,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p740/kernel.json",
+    "sha256": "5c6a3ea86423644bf43e2c2734936ecab907c68d6c36d05dd4326f87b454da2e"
+  },
+  {
+    "g4_batch": 741,
+    "fluka_stream": 37,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p741/kernel.json",
+    "sha256": "f3579892f8d93fb890fcd586856f1fac3ea29005f648cae9355388b6caf88f90"
+  },
+  {
+    "g4_batch": 742,
+    "fluka_stream": 37,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p742/kernel.json",
+    "sha256": "b679b605eb53a1c71fecccd7fa74227a434af5a4fca052c3b18113a97859326d"
+  },
+  {
+    "g4_batch": 743,
+    "fluka_stream": 37,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p743/kernel.json",
+    "sha256": "1e1da344185b0963e1530e238ee83d588134bc3397f5b57138511192eebfc51a"
+  },
+  {
+    "g4_batch": 744,
+    "fluka_stream": 37,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p744/kernel.json",
+    "sha256": "ecb6c092b0a59e17be90812e90b0c6e80cf8fb042915dddd9fc5b04fb36a4f08"
+  },
+  {
+    "g4_batch": 745,
+    "fluka_stream": 37,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p745/kernel.json",
+    "sha256": "ea82684c3c882d13bfe77bc3567a17a4ecbd87acc9c5d234ce15f61afd3954f3"
+  },
+  {
+    "g4_batch": 746,
+    "fluka_stream": 37,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p746/kernel.json",
+    "sha256": "3b45ff1c64701cd54332d832dd89a73f4a767f49df21bc004f41888c851c0d95"
+  },
+  {
+    "g4_batch": 747,
+    "fluka_stream": 37,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p747/kernel.json",
+    "sha256": "d5c35db9e6f55486de38926da165106d331fef0477f3bc8008efa9f1facc19c9"
+  },
+  {
+    "g4_batch": 748,
+    "fluka_stream": 37,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p748/kernel.json",
+    "sha256": "91fab3099380a3da9dbecae20bbb2e405dbda05939986fcdc82485f05a62507a"
+  },
+  {
+    "g4_batch": 749,
+    "fluka_stream": 37,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p749/kernel.json",
+    "sha256": "1565806a9d0cb138488ac9575cdf2a61862aa97a4c981c582938dbcc6752281c"
+  },
+  {
+    "g4_batch": 750,
+    "fluka_stream": 37,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p750/kernel.json",
+    "sha256": "9fe5aed24475d752e7fe0a7f475577fd51bcc6bbdff8fec5d51348d358ca833b"
+  },
+  {
+    "g4_batch": 751,
+    "fluka_stream": 37,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p751/kernel.json",
+    "sha256": "14d458ab939193408fe98c6bc8a5cbef49471f6ea0fdb3b6c35bf47bec8428b5"
+  },
+  {
+    "g4_batch": 752,
+    "fluka_stream": 37,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p752/kernel.json",
+    "sha256": "28bd8fd12d5f81feb8e0c8ebb599267e014d3a71d7cae52861256a346eb6b6c0"
+  },
+  {
+    "g4_batch": 753,
+    "fluka_stream": 37,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p753/kernel.json",
+    "sha256": "bb56dab198a41265ecf9ae816d859481d5b41e6cfa6c9adda23ac9d8b6773c8e"
+  },
+  {
+    "g4_batch": 754,
+    "fluka_stream": 37,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p754/kernel.json",
+    "sha256": "316d014a2e262c15b1c7169adfd5c7b744dfa83b89026b2b88b748f301ab1b8b"
+  },
+  {
+    "g4_batch": 755,
+    "fluka_stream": 37,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p755/kernel.json",
+    "sha256": "c414038a76f9e046c5cb67ed26953f22cd79c1b5b377c375fd455d561982f0e6"
+  },
+  {
+    "g4_batch": 756,
+    "fluka_stream": 37,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p756/kernel.json",
+    "sha256": "05cd004783dfe239e570cc26ba1befe19b6a0d8a69eb30be5f27e9aed6665aa7"
+  },
+  {
+    "g4_batch": 757,
+    "fluka_stream": 37,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p757/kernel.json",
+    "sha256": "73adaeb382f5eaae6ed036b9d0cae22b76edb73170a865ecf770dc7549ad4fbf"
+  },
+  {
+    "g4_batch": 758,
+    "fluka_stream": 37,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p758/kernel.json",
+    "sha256": "480b81758aca3ef3dd42962e936500939d7d3731714ef349a36fa580c2b86398"
+  },
+  {
+    "g4_batch": 759,
+    "fluka_stream": 37,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p759/kernel.json",
+    "sha256": "bccfe446cde9db567d0ffdb74c3a20a74e8b631b12b91b823f44f7e782080abe"
+  },
+  {
+    "g4_batch": 760,
+    "fluka_stream": 38,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p760/kernel.json",
+    "sha256": "5519f843068f88bed3c8187dc155a4ed620ae2b337593a9dfeb1d9b5d21e266a"
+  },
+  {
+    "g4_batch": 761,
+    "fluka_stream": 38,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p761/kernel.json",
+    "sha256": "31ccda9de827175ed443401628221eb28f6a1743929a0cf4584d1ed8a07757f7"
+  },
+  {
+    "g4_batch": 762,
+    "fluka_stream": 38,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p762/kernel.json",
+    "sha256": "28f67ae0ed4b93a9502ca2ef83a9d9ca6c64b1d3cdccdc89bfe029fab08b824e"
+  },
+  {
+    "g4_batch": 763,
+    "fluka_stream": 38,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p763/kernel.json",
+    "sha256": "84ed8279b25441b4634ba783b29ba38d46f03c539ba30d3c664dc4a049cada46"
+  },
+  {
+    "g4_batch": 764,
+    "fluka_stream": 38,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p764/kernel.json",
+    "sha256": "aacd9919f4b8dc37d61dd49f9706f4f04d905f4576abd37a0251249570191536"
+  },
+  {
+    "g4_batch": 765,
+    "fluka_stream": 38,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p765/kernel.json",
+    "sha256": "8a8e80580405e0f1cdbc6a4e538b0c014132538b01471f93bd67eacc875b9a03"
+  },
+  {
+    "g4_batch": 766,
+    "fluka_stream": 38,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p766/kernel.json",
+    "sha256": "8c86505ecf4f6508c0e8d7e671f38f1a82f7abfa0e0bc8796317d028747f5d0d"
+  },
+  {
+    "g4_batch": 767,
+    "fluka_stream": 38,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p767/kernel.json",
+    "sha256": "6a0bfe5786000827059e83c248bc434a9f42a2618675a22c4220f2cb74a3c746"
+  },
+  {
+    "g4_batch": 768,
+    "fluka_stream": 38,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p768/kernel.json",
+    "sha256": "7ecf2a6dcbc72578cce4b4eaffa87743316ee9da27338281081eac0e50f43d77"
+  },
+  {
+    "g4_batch": 769,
+    "fluka_stream": 38,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p769/kernel.json",
+    "sha256": "8f75a760569a4a4afd4d56b02ed756559fe0655ebb54da59f92e5df69e14d7c5"
+  },
+  {
+    "g4_batch": 770,
+    "fluka_stream": 38,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p770/kernel.json",
+    "sha256": "4dfd45c5e5994b56d27bd7cf88c4996b8762892e0cf626a4224800d765394d08"
+  },
+  {
+    "g4_batch": 771,
+    "fluka_stream": 38,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p771/kernel.json",
+    "sha256": "abdeed5aaa141599a5dd6656b453c0c9918127fc76e6ecee6f4c48d80cfda54d"
+  },
+  {
+    "g4_batch": 772,
+    "fluka_stream": 38,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p772/kernel.json",
+    "sha256": "44c5aa3a4c8c22d8f80526509806a0b86bcde640c07e43b9d8d52f65b24739c7"
+  },
+  {
+    "g4_batch": 773,
+    "fluka_stream": 38,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p773/kernel.json",
+    "sha256": "66d16962cba6ef74a95e81f16638a5a8d2787e31a4e72b9ca7f6448226c7b57b"
+  },
+  {
+    "g4_batch": 774,
+    "fluka_stream": 38,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p774/kernel.json",
+    "sha256": "c608a9659808555284feb6564672d36ba32ff9a11e34ba25b1aa23b08395bf39"
+  },
+  {
+    "g4_batch": 775,
+    "fluka_stream": 38,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p775/kernel.json",
+    "sha256": "b59803a010c2dfba71e49e7b23cdecc4d9dac5dc821e04204a262dc915289d4b"
+  },
+  {
+    "g4_batch": 776,
+    "fluka_stream": 38,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p776/kernel.json",
+    "sha256": "b8704900de270dc96c01f89dba6cb2862aaff2bf8954753dde4a8d129f92962c"
+  },
+  {
+    "g4_batch": 777,
+    "fluka_stream": 38,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p777/kernel.json",
+    "sha256": "079fb577f037d7a08c7add76e05f12bcd3f8f484531ebbf27e08d2721cb2aa53"
+  },
+  {
+    "g4_batch": 778,
+    "fluka_stream": 38,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p778/kernel.json",
+    "sha256": "ebd3b9aa94269e6b3dfe0d79eb1d00a1c0ab5776e51b4c8d5ee362775ba82850"
+  },
+  {
+    "g4_batch": 779,
+    "fluka_stream": 38,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p779/kernel.json",
+    "sha256": "f04abdfccb5f72cc4c02288490d23b83f25a7f1067c6b6846f8d3df410d0a7f7"
+  },
+  {
+    "g4_batch": 780,
+    "fluka_stream": 39,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p780/kernel.json",
+    "sha256": "890c1c256ba69b1d082e6a72497d1d61e2a1ac99656984b9cd51404c2870ba16"
+  },
+  {
+    "g4_batch": 781,
+    "fluka_stream": 39,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p781/kernel.json",
+    "sha256": "2e344fc85808fb7ad1079102ecfa834c069a2180c4b86be6d9b7fcbaa1491bed"
+  },
+  {
+    "g4_batch": 782,
+    "fluka_stream": 39,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p782/kernel.json",
+    "sha256": "ca1ebd12e8d9450b0d8aaffa4afb6c772fdb3b01d1dcc89d04e39e3075cc4e57"
+  },
+  {
+    "g4_batch": 783,
+    "fluka_stream": 39,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p783/kernel.json",
+    "sha256": "5d7a73c6940fc7225322c7edb9dfa05435b8b5207605ce45bf0554ecd1340a1a"
+  },
+  {
+    "g4_batch": 784,
+    "fluka_stream": 39,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p784/kernel.json",
+    "sha256": "b42111ea09f8427e71c0eb439c8a5820b9d8e03a44078d60ae2f3b471527c43f"
+  },
+  {
+    "g4_batch": 785,
+    "fluka_stream": 39,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p785/kernel.json",
+    "sha256": "53f8de74e66e09c3693a39099acb8d6a0b810a07e6792585ca473aa6296118da"
+  },
+  {
+    "g4_batch": 786,
+    "fluka_stream": 39,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p786/kernel.json",
+    "sha256": "a039487a761cc3889b0f55f1e805cf4565a0aa2ee9bc278186835bcc18fa8143"
+  },
+  {
+    "g4_batch": 787,
+    "fluka_stream": 39,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p787/kernel.json",
+    "sha256": "eb0c1e175712fb1f4e5c82d57428bc811838e827056ffc655bab6c6865848536"
+  },
+  {
+    "g4_batch": 788,
+    "fluka_stream": 39,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p788/kernel.json",
+    "sha256": "2f2a2e702fea0f0b06466631f2f6e95c47cec4ddb86f313ff96707e99e7684ca"
+  },
+  {
+    "g4_batch": 789,
+    "fluka_stream": 39,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p789/kernel.json",
+    "sha256": "2d67a5b7fdc1e1ae741f25b8415eb29a1b325ab86a6a8ad86b12780a5d31ae5d"
+  },
+  {
+    "g4_batch": 790,
+    "fluka_stream": 39,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p790/kernel.json",
+    "sha256": "0953e55d9658d0203ff549a882d8ee0c09465be484ab87e1a23c1144282424f7"
+  },
+  {
+    "g4_batch": 791,
+    "fluka_stream": 39,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p791/kernel.json",
+    "sha256": "06c60c154a34d77fcbad50508c7bdc6eea2297cd1dd651c215deba07808cbaca"
+  },
+  {
+    "g4_batch": 792,
+    "fluka_stream": 39,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p792/kernel.json",
+    "sha256": "1a62cecc7f3d044e869d0d17a922b6c583eb3ae36b79b5ae9540312e75818388"
+  },
+  {
+    "g4_batch": 793,
+    "fluka_stream": 39,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p793/kernel.json",
+    "sha256": "7dcbe1fbf9f6f2c5b72f28278f0ad2cb1abf7be6d61fef048c934790276f5d8b"
+  },
+  {
+    "g4_batch": 794,
+    "fluka_stream": 39,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p794/kernel.json",
+    "sha256": "af9867d3793350a1d62e686046f07860326dfa7b6177710d2eee6d7e89f1ca68"
+  },
+  {
+    "g4_batch": 795,
+    "fluka_stream": 39,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p795/kernel.json",
+    "sha256": "edebb8173b69a5f7dd5898557a1922a77dfebf353286f01d8ed1139d180b2a42"
+  },
+  {
+    "g4_batch": 796,
+    "fluka_stream": 39,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p796/kernel.json",
+    "sha256": "78bb73fb9ff2d4e452b8e9c4868ded8a714422012d89b3dc2bce0f94dbdf5949"
+  },
+  {
+    "g4_batch": 797,
+    "fluka_stream": 39,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p797/kernel.json",
+    "sha256": "ccf3ad22a1771d6b4a7e5605368cdf1e66d25fa6810d76380d98000cf3222b09"
+  },
+  {
+    "g4_batch": 798,
+    "fluka_stream": 39,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p798/kernel.json",
+    "sha256": "b8f37e2fc1d998b6d523241fd5d06f71433c0b4ca7161d23431b095481544e4e"
+  },
+  {
+    "g4_batch": 799,
+    "fluka_stream": 39,
+    "passed": true,
+    "rows": 22,
+    "record": "results/Fe-M01/pairs/p799/kernel.json",
+    "sha256": "823de9832426c52a53bd18f68e27172990ba1f1c3815f1adb0e121e920433feb"
+  }
+]

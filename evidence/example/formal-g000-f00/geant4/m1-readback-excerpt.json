@@ -1,0 +1,1414 @@
+{
+  "source_file": "data/native-Fe-M01/task/results/Fe-M01/units/geant4/u000/geant4/output/m1-readback.tsv",
+  "source_sha256": "c51a577f7d636a25e21bac53485ce5c00279d1aeb967ce17c987ed4190384971",
+  "total_source_lines": 351,
+  "omitted_lines": [
+    {
+      "line": 20,
+      "field": "neutron_data_path",
+      "reason": "cluster host filesystem path omitted from reader package"
+    }
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "text": "schema_version\tm1-3"
+    },
+    {
+      "line": 2,
+      "text": "engine\tHepJamesRandom"
+    },
+    {
+      "line": 3,
+      "text": "seed\t70690000"
+    },
+    {
+      "line": 4,
+      "text": "requested_events\t10000"
+    },
+    {
+      "line": 5,
+      "text": "geant4_version\t$Name: geant4-11-04-patch-03 [MT]$"
+    },
+    {
+      "line": 6,
+      "text": "run_manager_class\tG4RunManager"
+    },
+    {
+      "line": 7,
+      "text": "physics\tQGSP_INCLXX_HP"
+    },
+    {
+      "line": 8,
+      "text": "target\tTarget"
+    },
+    {
+      "line": 9,
+      "text": "requested_cut_mm_bits\t3fb999999999999a"
+    },
+    {
+      "line": 10,
+      "text": "effective_default_cut_mm_bits\t3fb999999999999a"
+    },
+    {
+      "line": 11,
+      "text": "target_gamma_cut_mm_bits\t3fb999999999999a"
+    },
+    {
+      "line": 12,
+      "text": "target_electron_cut_mm_bits\t3fb999999999999a"
+    },
+    {
+      "line": 13,
+      "text": "target_positron_cut_mm_bits\t3fb999999999999a"
+    },
+    {
+      "line": 14,
+      "text": "target_proton_cut_mm_bits\t0000000000000000"
+    },
+    {
+      "line": 15,
+      "text": "macro_sha256\tcfc43a751470b52ad440f2d99402b8a63f08ae46bd4caef8d7210d7a79b72333"
+    },
+    {
+      "line": 16,
+      "text": "material\tTargetMaterial"
+    },
+    {
+      "line": 17,
+      "text": "density_g_cm3_bits\t401f7ef9db22d0e4"
+    },
+    {
+      "line": 18,
+      "text": "volume_mm3_bits\t408c0db1f6a0cd1a"
+    },
+    {
+      "line": 19,
+      "text": "material_temperature_K_bits\t4072800000000000"
+    },
+    {
+      "line": 21,
+      "text": "physics_constructor_0\tG4EmStandard"
+    },
+    {
+      "line": 22,
+      "text": "physics_constructor_type_0\t19G4EmStandardPhysics"
+    },
+    {
+      "line": 23,
+      "text": "physics_constructor_1\tG4GammaLeptoNuclearPhys"
+    },
+    {
+      "line": 24,
+      "text": "physics_constructor_type_1\t16G4EmExtraPhysics"
+    },
+    {
+      "line": 25,
+      "text": "physics_constructor_2\tDecay"
+    },
+    {
+      "line": 26,
+      "text": "physics_constructor_type_2\t14G4DecayPhysics"
+    },
+    {
+      "line": 27,
+      "text": "physics_constructor_3\tG4RadioactiveDecay"
+    },
+    {
+      "line": 28,
+      "text": "physics_constructor_type_3\t25G4RadioactiveDecayPhysics"
+    },
+    {
+      "line": 29,
+      "text": "physics_constructor_4\thElasticWEL_CHIPS_HP"
+    },
+    {
+      "line": 30,
+      "text": "physics_constructor_type_4\t24G4HadronElasticPhysicsHP"
+    },
+    {
+      "line": 31,
+      "text": "physics_constructor_5\t\u0001"
+    },
+    {
+      "line": 32,
+      "text": "physics_constructor_type_5\t21G4HadronPhysicsINCLXX"
+    },
+    {
+      "line": 33,
+      "text": "physics_constructor_6\tstopping"
+    },
+    {
+      "line": 34,
+      "text": "physics_constructor_type_6\t27G4StoppingPhysicsWithINCLXX"
+    },
+    {
+      "line": 35,
+      "text": "physics_constructor_7\tIonINCLXX"
+    },
+    {
+      "line": 36,
+      "text": "physics_constructor_type_7\t18G4IonINCLXXPhysics"
+    },
+    {
+      "line": 37,
+      "text": "hp_target_material\tTargetMaterial"
+    },
+    {
+      "line": 38,
+      "text": "hp_target_element_count\t1"
+    },
+    {
+      "line": 39,
+      "text": "hp_process_count\t6"
+    },
+    {
+      "line": 40,
+      "text": "hp_process_0_name\tTransportation"
+    },
+    {
+      "line": 41,
+      "text": "hp_process_0_active\t1"
+    },
+    {
+      "line": 42,
+      "text": "hp_process_0_hadronic\t0"
+    },
+    {
+      "line": 43,
+      "text": "hp_process_1_name\tDecay"
+    },
+    {
+      "line": 44,
+      "text": "hp_process_1_active\t1"
+    },
+    {
+      "line": 45,
+      "text": "hp_process_1_hadronic\t0"
+    },
+    {
+      "line": 46,
+      "text": "hp_process_2_name\thadElastic"
+    },
+    {
+      "line": 47,
+      "text": "hp_process_2_active\t1"
+    },
+    {
+      "line": 48,
+      "text": "hp_process_2_hadronic\t1"
+    },
+    {
+      "line": 49,
+      "text": "hp_process_2_subtype\t111"
+    },
+    {
+      "line": 50,
+      "text": "hp_process_2_model_count\t2"
+    },
+    {
+      "line": 51,
+      "text": "hp_process_2_dataset_count\t2"
+    },
+    {
+      "line": 52,
+      "text": "hp_process_2_element_0_name\tNaturalIron"
+    },
+    {
+      "line": 53,
+      "text": "hp_process_2_element_0_Z\t26"
+    },
+    {
+      "line": 54,
+      "text": "hp_process_2_element_0_isotope_count\t4"
+    },
+    {
+      "line": 55,
+      "text": "hp_process_2_element_0_model_0_name\thElasticCHIPS"
+    },
+    {
+      "line": 56,
+      "text": "hp_process_2_element_0_model_0_class\tG4ChipsElasticModel"
+    },
+    {
+      "line": 57,
+      "text": "hp_process_2_element_0_model_0_min_MeV_bits\t4033800000000000"
+    },
+    {
+      "line": 58,
+      "text": "hp_process_2_element_0_model_0_max_MeV_bits\t4197d78400000000"
+    },
+    {
+      "line": 59,
+      "text": "hp_process_2_element_0_model_1_name\tNeutronHPElastic"
+    },
+    {
+      "line": 60,
+      "text": "hp_process_2_element_0_model_1_class\tG4ParticleHPElastic"
+    },
+    {
+      "line": 61,
+      "text": "hp_process_2_element_0_model_1_min_MeV_bits\t0000000000000000"
+    },
+    {
+      "line": 62,
+      "text": "hp_process_2_element_0_model_1_max_MeV_bits\t4034000000000000"
+    },
+    {
+      "line": 63,
+      "text": "hp_process_2_element_0_dataset_0_name\tG4NeutronElasticXS"
+    },
+    {
+      "line": 64,
+      "text": "hp_process_2_element_0_dataset_0_class\tG4NeutronElasticXS"
+    },
+    {
+      "line": 65,
+      "text": "hp_process_2_element_0_dataset_0_min_MeV_bits\t0000000000000000"
+    },
+    {
+      "line": 66,
+      "text": "hp_process_2_element_0_dataset_0_max_MeV_bits\t4197d78400000000"
+    },
+    {
+      "line": 67,
+      "text": "hp_process_2_element_0_dataset_1_name\tNeutronHPElasticXS"
+    },
+    {
+      "line": 68,
+      "text": "hp_process_2_element_0_dataset_1_class\tG4ParticleHPElasticData"
+    },
+    {
+      "line": 69,
+      "text": "hp_process_2_element_0_dataset_1_min_MeV_bits\t0000000000000000"
+    },
+    {
+      "line": 70,
+      "text": "hp_process_2_element_0_dataset_1_max_MeV_bits\t4034000000000000"
+    },
+    {
+      "line": 71,
+      "text": "hp_process_2_element_0_isotope_0_A\t54"
+    },
+    {
+      "line": 72,
+      "text": "hp_process_2_element_0_isotope_0_boundary_0_model_0_applicable\t1"
+    },
+    {
+      "line": 73,
+      "text": "hp_process_2_element_0_isotope_0_boundary_0_model_1_applicable\t1"
+    },
+    {
+      "line": 74,
+      "text": "hp_process_2_element_0_isotope_0_boundary_0_dataset_0_iso_applicable\t0"
+    },
+    {
+      "line": 75,
+      "text": "hp_process_2_element_0_isotope_0_boundary_0_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 76,
+      "text": "hp_process_2_element_0_isotope_0_boundary_1_model_0_applicable\t1"
+    },
+    {
+      "line": 77,
+      "text": "hp_process_2_element_0_isotope_0_boundary_1_model_1_applicable\t1"
+    },
+    {
+      "line": 78,
+      "text": "hp_process_2_element_0_isotope_0_boundary_1_dataset_0_iso_applicable\t0"
+    },
+    {
+      "line": 79,
+      "text": "hp_process_2_element_0_isotope_0_boundary_1_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 80,
+      "text": "hp_process_2_element_0_isotope_1_A\t56"
+    },
+    {
+      "line": 81,
+      "text": "hp_process_2_element_0_isotope_1_boundary_0_model_0_applicable\t1"
+    },
+    {
+      "line": 82,
+      "text": "hp_process_2_element_0_isotope_1_boundary_0_model_1_applicable\t1"
+    },
+    {
+      "line": 83,
+      "text": "hp_process_2_element_0_isotope_1_boundary_0_dataset_0_iso_applicable\t0"
+    },
+    {
+      "line": 84,
+      "text": "hp_process_2_element_0_isotope_1_boundary_0_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 85,
+      "text": "hp_process_2_element_0_isotope_1_boundary_1_model_0_applicable\t1"
+    },
+    {
+      "line": 86,
+      "text": "hp_process_2_element_0_isotope_1_boundary_1_model_1_applicable\t1"
+    },
+    {
+      "line": 87,
+      "text": "hp_process_2_element_0_isotope_1_boundary_1_dataset_0_iso_applicable\t0"
+    },
+    {
+      "line": 88,
+      "text": "hp_process_2_element_0_isotope_1_boundary_1_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 89,
+      "text": "hp_process_2_element_0_isotope_2_A\t57"
+    },
+    {
+      "line": 90,
+      "text": "hp_process_2_element_0_isotope_2_boundary_0_model_0_applicable\t1"
+    },
+    {
+      "line": 91,
+      "text": "hp_process_2_element_0_isotope_2_boundary_0_model_1_applicable\t1"
+    },
+    {
+      "line": 92,
+      "text": "hp_process_2_element_0_isotope_2_boundary_0_dataset_0_iso_applicable\t0"
+    },
+    {
+      "line": 93,
+      "text": "hp_process_2_element_0_isotope_2_boundary_0_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 94,
+      "text": "hp_process_2_element_0_isotope_2_boundary_1_model_0_applicable\t1"
+    },
+    {
+      "line": 95,
+      "text": "hp_process_2_element_0_isotope_2_boundary_1_model_1_applicable\t1"
+    },
+    {
+      "line": 96,
+      "text": "hp_process_2_element_0_isotope_2_boundary_1_dataset_0_iso_applicable\t0"
+    },
+    {
+      "line": 97,
+      "text": "hp_process_2_element_0_isotope_2_boundary_1_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 98,
+      "text": "hp_process_2_element_0_isotope_3_A\t58"
+    },
+    {
+      "line": 99,
+      "text": "hp_process_2_element_0_isotope_3_boundary_0_model_0_applicable\t1"
+    },
+    {
+      "line": 100,
+      "text": "hp_process_2_element_0_isotope_3_boundary_0_model_1_applicable\t1"
+    },
+    {
+      "line": 101,
+      "text": "hp_process_2_element_0_isotope_3_boundary_0_dataset_0_iso_applicable\t0"
+    },
+    {
+      "line": 102,
+      "text": "hp_process_2_element_0_isotope_3_boundary_0_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 103,
+      "text": "hp_process_2_element_0_isotope_3_boundary_1_model_0_applicable\t1"
+    },
+    {
+      "line": 104,
+      "text": "hp_process_2_element_0_isotope_3_boundary_1_model_1_applicable\t1"
+    },
+    {
+      "line": 105,
+      "text": "hp_process_2_element_0_isotope_3_boundary_1_dataset_0_iso_applicable\t0"
+    },
+    {
+      "line": 106,
+      "text": "hp_process_2_element_0_isotope_3_boundary_1_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 107,
+      "text": "hp_process_3_name\tneutronInelastic"
+    },
+    {
+      "line": 108,
+      "text": "hp_process_3_active\t1"
+    },
+    {
+      "line": 109,
+      "text": "hp_process_3_hadronic\t1"
+    },
+    {
+      "line": 110,
+      "text": "hp_process_3_subtype\t121"
+    },
+    {
+      "line": 111,
+      "text": "hp_process_3_model_count\t3"
+    },
+    {
+      "line": 112,
+      "text": "hp_process_3_dataset_count\t2"
+    },
+    {
+      "line": 113,
+      "text": "hp_process_3_element_0_name\tNaturalIron"
+    },
+    {
+      "line": 114,
+      "text": "hp_process_3_element_0_Z\t26"
+    },
+    {
+      "line": 115,
+      "text": "hp_process_3_element_0_isotope_count\t4"
+    },
+    {
+      "line": 116,
+      "text": "hp_process_3_element_0_model_0_name\tQGSP"
+    },
+    {
+      "line": 117,
+      "text": "hp_process_3_element_0_model_0_class\tG4TheoFSGenerator"
+    },
+    {
+      "line": 118,
+      "text": "hp_process_3_element_0_model_0_min_MeV_bits\t40cd4c0000000000"
+    },
+    {
+      "line": 119,
+      "text": "hp_process_3_element_0_model_0_max_MeV_bits\t4197d78400000000"
+    },
+    {
+      "line": 120,
+      "text": "hp_process_3_element_0_model_1_name\tINCL++ undefined"
+    },
+    {
+      "line": 121,
+      "text": "hp_process_3_element_0_model_1_class\tG4INCLXXInterface"
+    },
+    {
+      "line": 122,
+      "text": "hp_process_3_element_0_model_1_min_MeV_bits\t4033e66666666666"
+    },
+    {
+      "line": 123,
+      "text": "hp_process_3_element_0_model_1_max_MeV_bits\t40d3880000000000"
+    },
+    {
+      "line": 124,
+      "text": "hp_process_3_element_0_model_2_name\tNeutronHPInelastic"
+    },
+    {
+      "line": 125,
+      "text": "hp_process_3_element_0_model_2_class\tG4ParticleHPInelastic"
+    },
+    {
+      "line": 126,
+      "text": "hp_process_3_element_0_model_2_min_MeV_bits\t0000000000000000"
+    },
+    {
+      "line": 127,
+      "text": "hp_process_3_element_0_model_2_max_MeV_bits\t4034000000000000"
+    },
+    {
+      "line": 128,
+      "text": "hp_process_3_element_0_dataset_0_name\tG4NeutronInelasticXS"
+    },
+    {
+      "line": 129,
+      "text": "hp_process_3_element_0_dataset_0_class\tG4NeutronInelasticXS"
+    },
+    {
+      "line": 130,
+      "text": "hp_process_3_element_0_dataset_0_min_MeV_bits\t0000000000000000"
+    },
+    {
+      "line": 131,
+      "text": "hp_process_3_element_0_dataset_0_max_MeV_bits\t4197d78400000000"
+    },
+    {
+      "line": 132,
+      "text": "hp_process_3_element_0_dataset_1_name\tNeutronHPInelasticXS"
+    },
+    {
+      "line": 133,
+      "text": "hp_process_3_element_0_dataset_1_class\tG4ParticleHPInelasticData"
+    },
+    {
+      "line": 134,
+      "text": "hp_process_3_element_0_dataset_1_min_MeV_bits\t0000000000000000"
+    },
+    {
+      "line": 135,
+      "text": "hp_process_3_element_0_dataset_1_max_MeV_bits\t4034000000000000"
+    },
+    {
+      "line": 136,
+      "text": "hp_process_3_element_0_isotope_0_A\t54"
+    },
+    {
+      "line": 137,
+      "text": "hp_process_3_element_0_isotope_0_boundary_0_model_0_applicable\t1"
+    },
+    {
+      "line": 138,
+      "text": "hp_process_3_element_0_isotope_0_boundary_0_model_1_applicable\t1"
+    },
+    {
+      "line": 139,
+      "text": "hp_process_3_element_0_isotope_0_boundary_0_model_2_applicable\t1"
+    },
+    {
+      "line": 140,
+      "text": "hp_process_3_element_0_isotope_0_boundary_0_dataset_0_iso_applicable\t1"
+    },
+    {
+      "line": 141,
+      "text": "hp_process_3_element_0_isotope_0_boundary_0_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 142,
+      "text": "hp_process_3_element_0_isotope_0_boundary_1_model_0_applicable\t1"
+    },
+    {
+      "line": 143,
+      "text": "hp_process_3_element_0_isotope_0_boundary_1_model_1_applicable\t1"
+    },
+    {
+      "line": 144,
+      "text": "hp_process_3_element_0_isotope_0_boundary_1_model_2_applicable\t1"
+    },
+    {
+      "line": 145,
+      "text": "hp_process_3_element_0_isotope_0_boundary_1_dataset_0_iso_applicable\t1"
+    },
+    {
+      "line": 146,
+      "text": "hp_process_3_element_0_isotope_0_boundary_1_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 147,
+      "text": "hp_process_3_element_0_isotope_1_A\t56"
+    },
+    {
+      "line": 148,
+      "text": "hp_process_3_element_0_isotope_1_boundary_0_model_0_applicable\t1"
+    },
+    {
+      "line": 149,
+      "text": "hp_process_3_element_0_isotope_1_boundary_0_model_1_applicable\t1"
+    },
+    {
+      "line": 150,
+      "text": "hp_process_3_element_0_isotope_1_boundary_0_model_2_applicable\t1"
+    },
+    {
+      "line": 151,
+      "text": "hp_process_3_element_0_isotope_1_boundary_0_dataset_0_iso_applicable\t1"
+    },
+    {
+      "line": 152,
+      "text": "hp_process_3_element_0_isotope_1_boundary_0_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 153,
+      "text": "hp_process_3_element_0_isotope_1_boundary_1_model_0_applicable\t1"
+    },
+    {
+      "line": 154,
+      "text": "hp_process_3_element_0_isotope_1_boundary_1_model_1_applicable\t1"
+    },
+    {
+      "line": 155,
+      "text": "hp_process_3_element_0_isotope_1_boundary_1_model_2_applicable\t1"
+    },
+    {
+      "line": 156,
+      "text": "hp_process_3_element_0_isotope_1_boundary_1_dataset_0_iso_applicable\t1"
+    },
+    {
+      "line": 157,
+      "text": "hp_process_3_element_0_isotope_1_boundary_1_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 158,
+      "text": "hp_process_3_element_0_isotope_2_A\t57"
+    },
+    {
+      "line": 159,
+      "text": "hp_process_3_element_0_isotope_2_boundary_0_model_0_applicable\t1"
+    },
+    {
+      "line": 160,
+      "text": "hp_process_3_element_0_isotope_2_boundary_0_model_1_applicable\t1"
+    },
+    {
+      "line": 161,
+      "text": "hp_process_3_element_0_isotope_2_boundary_0_model_2_applicable\t1"
+    },
+    {
+      "line": 162,
+      "text": "hp_process_3_element_0_isotope_2_boundary_0_dataset_0_iso_applicable\t1"
+    },
+    {
+      "line": 163,
+      "text": "hp_process_3_element_0_isotope_2_boundary_0_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 164,
+      "text": "hp_process_3_element_0_isotope_2_boundary_1_model_0_applicable\t1"
+    },
+    {
+      "line": 165,
+      "text": "hp_process_3_element_0_isotope_2_boundary_1_model_1_applicable\t1"
+    },
+    {
+      "line": 166,
+      "text": "hp_process_3_element_0_isotope_2_boundary_1_model_2_applicable\t1"
+    },
+    {
+      "line": 167,
+      "text": "hp_process_3_element_0_isotope_2_boundary_1_dataset_0_iso_applicable\t1"
+    },
+    {
+      "line": 168,
+      "text": "hp_process_3_element_0_isotope_2_boundary_1_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 169,
+      "text": "hp_process_3_element_0_isotope_3_A\t58"
+    },
+    {
+      "line": 170,
+      "text": "hp_process_3_element_0_isotope_3_boundary_0_model_0_applicable\t1"
+    },
+    {
+      "line": 171,
+      "text": "hp_process_3_element_0_isotope_3_boundary_0_model_1_applicable\t1"
+    },
+    {
+      "line": 172,
+      "text": "hp_process_3_element_0_isotope_3_boundary_0_model_2_applicable\t1"
+    },
+    {
+      "line": 173,
+      "text": "hp_process_3_element_0_isotope_3_boundary_0_dataset_0_iso_applicable\t1"
+    },
+    {
+      "line": 174,
+      "text": "hp_process_3_element_0_isotope_3_boundary_0_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 175,
+      "text": "hp_process_3_element_0_isotope_3_boundary_1_model_0_applicable\t1"
+    },
+    {
+      "line": 176,
+      "text": "hp_process_3_element_0_isotope_3_boundary_1_model_1_applicable\t1"
+    },
+    {
+      "line": 177,
+      "text": "hp_process_3_element_0_isotope_3_boundary_1_model_2_applicable\t1"
+    },
+    {
+      "line": 178,
+      "text": "hp_process_3_element_0_isotope_3_boundary_1_dataset_0_iso_applicable\t1"
+    },
+    {
+      "line": 179,
+      "text": "hp_process_3_element_0_isotope_3_boundary_1_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 180,
+      "text": "hp_process_4_name\tnCapture"
+    },
+    {
+      "line": 181,
+      "text": "hp_process_4_active\t1"
+    },
+    {
+      "line": 182,
+      "text": "hp_process_4_hadronic\t1"
+    },
+    {
+      "line": 183,
+      "text": "hp_process_4_subtype\t131"
+    },
+    {
+      "line": 184,
+      "text": "hp_process_4_model_count\t2"
+    },
+    {
+      "line": 185,
+      "text": "hp_process_4_dataset_count\t2"
+    },
+    {
+      "line": 186,
+      "text": "hp_process_4_element_0_name\tNaturalIron"
+    },
+    {
+      "line": 187,
+      "text": "hp_process_4_element_0_Z\t26"
+    },
+    {
+      "line": 188,
+      "text": "hp_process_4_element_0_isotope_count\t4"
+    },
+    {
+      "line": 189,
+      "text": "hp_process_4_element_0_model_0_name\tnRadCaptureHP"
+    },
+    {
+      "line": 190,
+      "text": "hp_process_4_element_0_model_0_class\tG4NeutronRadCaptureHP"
+    },
+    {
+      "line": 191,
+      "text": "hp_process_4_element_0_model_0_min_MeV_bits\t0000000000000000"
+    },
+    {
+      "line": 192,
+      "text": "hp_process_4_element_0_model_0_max_MeV_bits\t4034000000000000"
+    },
+    {
+      "line": 193,
+      "text": "hp_process_4_element_0_model_1_name\tnRadCapture"
+    },
+    {
+      "line": 194,
+      "text": "hp_process_4_element_0_model_1_class\tG4NeutronRadCapture"
+    },
+    {
+      "line": 195,
+      "text": "hp_process_4_element_0_model_1_min_MeV_bits\t4033e66666666666"
+    },
+    {
+      "line": 196,
+      "text": "hp_process_4_element_0_model_1_max_MeV_bits\t4197d78400000000"
+    },
+    {
+      "line": 197,
+      "text": "hp_process_4_element_0_dataset_0_name\tG4NeutronCaptureXS"
+    },
+    {
+      "line": 198,
+      "text": "hp_process_4_element_0_dataset_0_class\tG4NeutronCaptureXS"
+    },
+    {
+      "line": 199,
+      "text": "hp_process_4_element_0_dataset_0_min_MeV_bits\t0000000000000000"
+    },
+    {
+      "line": 200,
+      "text": "hp_process_4_element_0_dataset_0_max_MeV_bits\t4197d78400000000"
+    },
+    {
+      "line": 201,
+      "text": "hp_process_4_element_0_dataset_1_name\tNeutronHPCaptureXS"
+    },
+    {
+      "line": 202,
+      "text": "hp_process_4_element_0_dataset_1_class\tG4NeutronHPCaptureData"
+    },
+    {
+      "line": 203,
+      "text": "hp_process_4_element_0_dataset_1_min_MeV_bits\t0000000000000000"
+    },
+    {
+      "line": 204,
+      "text": "hp_process_4_element_0_dataset_1_max_MeV_bits\t4197d78400000000"
+    },
+    {
+      "line": 205,
+      "text": "hp_process_4_element_0_isotope_0_A\t54"
+    },
+    {
+      "line": 206,
+      "text": "hp_process_4_element_0_isotope_0_boundary_0_model_0_applicable\t1"
+    },
+    {
+      "line": 207,
+      "text": "hp_process_4_element_0_isotope_0_boundary_0_model_1_applicable\t1"
+    },
+    {
+      "line": 208,
+      "text": "hp_process_4_element_0_isotope_0_boundary_0_dataset_0_iso_applicable\t1"
+    },
+    {
+      "line": 209,
+      "text": "hp_process_4_element_0_isotope_0_boundary_0_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 210,
+      "text": "hp_process_4_element_0_isotope_0_boundary_1_model_0_applicable\t1"
+    },
+    {
+      "line": 211,
+      "text": "hp_process_4_element_0_isotope_0_boundary_1_model_1_applicable\t1"
+    },
+    {
+      "line": 212,
+      "text": "hp_process_4_element_0_isotope_0_boundary_1_dataset_0_iso_applicable\t1"
+    },
+    {
+      "line": 213,
+      "text": "hp_process_4_element_0_isotope_0_boundary_1_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 214,
+      "text": "hp_process_4_element_0_isotope_1_A\t56"
+    },
+    {
+      "line": 215,
+      "text": "hp_process_4_element_0_isotope_1_boundary_0_model_0_applicable\t1"
+    },
+    {
+      "line": 216,
+      "text": "hp_process_4_element_0_isotope_1_boundary_0_model_1_applicable\t1"
+    },
+    {
+      "line": 217,
+      "text": "hp_process_4_element_0_isotope_1_boundary_0_dataset_0_iso_applicable\t1"
+    },
+    {
+      "line": 218,
+      "text": "hp_process_4_element_0_isotope_1_boundary_0_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 219,
+      "text": "hp_process_4_element_0_isotope_1_boundary_1_model_0_applicable\t1"
+    },
+    {
+      "line": 220,
+      "text": "hp_process_4_element_0_isotope_1_boundary_1_model_1_applicable\t1"
+    },
+    {
+      "line": 221,
+      "text": "hp_process_4_element_0_isotope_1_boundary_1_dataset_0_iso_applicable\t1"
+    },
+    {
+      "line": 222,
+      "text": "hp_process_4_element_0_isotope_1_boundary_1_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 223,
+      "text": "hp_process_4_element_0_isotope_2_A\t57"
+    },
+    {
+      "line": 224,
+      "text": "hp_process_4_element_0_isotope_2_boundary_0_model_0_applicable\t1"
+    },
+    {
+      "line": 225,
+      "text": "hp_process_4_element_0_isotope_2_boundary_0_model_1_applicable\t1"
+    },
+    {
+      "line": 226,
+      "text": "hp_process_4_element_0_isotope_2_boundary_0_dataset_0_iso_applicable\t1"
+    },
+    {
+      "line": 227,
+      "text": "hp_process_4_element_0_isotope_2_boundary_0_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 228,
+      "text": "hp_process_4_element_0_isotope_2_boundary_1_model_0_applicable\t1"
+    },
+    {
+      "line": 229,
+      "text": "hp_process_4_element_0_isotope_2_boundary_1_model_1_applicable\t1"
+    },
+    {
+      "line": 230,
+      "text": "hp_process_4_element_0_isotope_2_boundary_1_dataset_0_iso_applicable\t1"
+    },
+    {
+      "line": 231,
+      "text": "hp_process_4_element_0_isotope_2_boundary_1_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 232,
+      "text": "hp_process_4_element_0_isotope_3_A\t58"
+    },
+    {
+      "line": 233,
+      "text": "hp_process_4_element_0_isotope_3_boundary_0_model_0_applicable\t1"
+    },
+    {
+      "line": 234,
+      "text": "hp_process_4_element_0_isotope_3_boundary_0_model_1_applicable\t1"
+    },
+    {
+      "line": 235,
+      "text": "hp_process_4_element_0_isotope_3_boundary_0_dataset_0_iso_applicable\t1"
+    },
+    {
+      "line": 236,
+      "text": "hp_process_4_element_0_isotope_3_boundary_0_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 237,
+      "text": "hp_process_4_element_0_isotope_3_boundary_1_model_0_applicable\t1"
+    },
+    {
+      "line": 238,
+      "text": "hp_process_4_element_0_isotope_3_boundary_1_model_1_applicable\t1"
+    },
+    {
+      "line": 239,
+      "text": "hp_process_4_element_0_isotope_3_boundary_1_dataset_0_iso_applicable\t1"
+    },
+    {
+      "line": 240,
+      "text": "hp_process_4_element_0_isotope_3_boundary_1_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 241,
+      "text": "hp_process_5_name\tnFission"
+    },
+    {
+      "line": 242,
+      "text": "hp_process_5_active\t1"
+    },
+    {
+      "line": 243,
+      "text": "hp_process_5_hadronic\t1"
+    },
+    {
+      "line": 244,
+      "text": "hp_process_5_subtype\t141"
+    },
+    {
+      "line": 245,
+      "text": "hp_process_5_model_count\t2"
+    },
+    {
+      "line": 246,
+      "text": "hp_process_5_dataset_count\t2"
+    },
+    {
+      "line": 247,
+      "text": "hp_process_5_element_0_name\tNaturalIron"
+    },
+    {
+      "line": 248,
+      "text": "hp_process_5_element_0_Z\t26"
+    },
+    {
+      "line": 249,
+      "text": "hp_process_5_element_0_isotope_count\t4"
+    },
+    {
+      "line": 250,
+      "text": "hp_process_5_element_0_model_0_name\tNeutronHPFission"
+    },
+    {
+      "line": 251,
+      "text": "hp_process_5_element_0_model_0_class\tG4ParticleHPFission"
+    },
+    {
+      "line": 252,
+      "text": "hp_process_5_element_0_model_0_min_MeV_bits\t0000000000000000"
+    },
+    {
+      "line": 253,
+      "text": "hp_process_5_element_0_model_0_max_MeV_bits\t4034000000000000"
+    },
+    {
+      "line": 254,
+      "text": "hp_process_5_element_0_model_1_name\tG4LFission"
+    },
+    {
+      "line": 255,
+      "text": "hp_process_5_element_0_model_1_class\tG4LFission"
+    },
+    {
+      "line": 256,
+      "text": "hp_process_5_element_0_model_1_min_MeV_bits\t4033e66666666666"
+    },
+    {
+      "line": 257,
+      "text": "hp_process_5_element_0_model_1_max_MeV_bits\t4197d78400000000"
+    },
+    {
+      "line": 258,
+      "text": "hp_process_5_element_0_dataset_0_name\tZeroXS"
+    },
+    {
+      "line": 259,
+      "text": "hp_process_5_element_0_dataset_0_class\tG4ZeroXS"
+    },
+    {
+      "line": 260,
+      "text": "hp_process_5_element_0_dataset_0_min_MeV_bits\t0000000000000000"
+    },
+    {
+      "line": 261,
+      "text": "hp_process_5_element_0_dataset_0_max_MeV_bits\t4197d78400000000"
+    },
+    {
+      "line": 262,
+      "text": "hp_process_5_element_0_dataset_1_name\tNeutronHPFissionXS"
+    },
+    {
+      "line": 263,
+      "text": "hp_process_5_element_0_dataset_1_class\tG4ParticleHPFissionData"
+    },
+    {
+      "line": 264,
+      "text": "hp_process_5_element_0_dataset_1_min_MeV_bits\t0000000000000000"
+    },
+    {
+      "line": 265,
+      "text": "hp_process_5_element_0_dataset_1_max_MeV_bits\t4034000000000000"
+    },
+    {
+      "line": 266,
+      "text": "hp_process_5_element_0_isotope_0_A\t54"
+    },
+    {
+      "line": 267,
+      "text": "hp_process_5_element_0_isotope_0_boundary_0_model_0_applicable\t1"
+    },
+    {
+      "line": 268,
+      "text": "hp_process_5_element_0_isotope_0_boundary_0_model_1_applicable\t1"
+    },
+    {
+      "line": 269,
+      "text": "hp_process_5_element_0_isotope_0_boundary_0_dataset_0_iso_applicable\t0"
+    },
+    {
+      "line": 270,
+      "text": "hp_process_5_element_0_isotope_0_boundary_0_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 271,
+      "text": "hp_process_5_element_0_isotope_0_boundary_1_model_0_applicable\t1"
+    },
+    {
+      "line": 272,
+      "text": "hp_process_5_element_0_isotope_0_boundary_1_model_1_applicable\t1"
+    },
+    {
+      "line": 273,
+      "text": "hp_process_5_element_0_isotope_0_boundary_1_dataset_0_iso_applicable\t0"
+    },
+    {
+      "line": 274,
+      "text": "hp_process_5_element_0_isotope_0_boundary_1_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 275,
+      "text": "hp_process_5_element_0_isotope_1_A\t56"
+    },
+    {
+      "line": 276,
+      "text": "hp_process_5_element_0_isotope_1_boundary_0_model_0_applicable\t1"
+    },
+    {
+      "line": 277,
+      "text": "hp_process_5_element_0_isotope_1_boundary_0_model_1_applicable\t1"
+    },
+    {
+      "line": 278,
+      "text": "hp_process_5_element_0_isotope_1_boundary_0_dataset_0_iso_applicable\t0"
+    },
+    {
+      "line": 279,
+      "text": "hp_process_5_element_0_isotope_1_boundary_0_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 280,
+      "text": "hp_process_5_element_0_isotope_1_boundary_1_model_0_applicable\t1"
+    },
+    {
+      "line": 281,
+      "text": "hp_process_5_element_0_isotope_1_boundary_1_model_1_applicable\t1"
+    },
+    {
+      "line": 282,
+      "text": "hp_process_5_element_0_isotope_1_boundary_1_dataset_0_iso_applicable\t0"
+    },
+    {
+      "line": 283,
+      "text": "hp_process_5_element_0_isotope_1_boundary_1_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 284,
+      "text": "hp_process_5_element_0_isotope_2_A\t57"
+    },
+    {
+      "line": 285,
+      "text": "hp_process_5_element_0_isotope_2_boundary_0_model_0_applicable\t1"
+    },
+    {
+      "line": 286,
+      "text": "hp_process_5_element_0_isotope_2_boundary_0_model_1_applicable\t1"
+    },
+    {
+      "line": 287,
+      "text": "hp_process_5_element_0_isotope_2_boundary_0_dataset_0_iso_applicable\t0"
+    },
+    {
+      "line": 288,
+      "text": "hp_process_5_element_0_isotope_2_boundary_0_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 289,
+      "text": "hp_process_5_element_0_isotope_2_boundary_1_model_0_applicable\t1"
+    },
+    {
+      "line": 290,
+      "text": "hp_process_5_element_0_isotope_2_boundary_1_model_1_applicable\t1"
+    },
+    {
+      "line": 291,
+      "text": "hp_process_5_element_0_isotope_2_boundary_1_dataset_0_iso_applicable\t0"
+    },
+    {
+      "line": 292,
+      "text": "hp_process_5_element_0_isotope_2_boundary_1_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 293,
+      "text": "hp_process_5_element_0_isotope_3_A\t58"
+    },
+    {
+      "line": 294,
+      "text": "hp_process_5_element_0_isotope_3_boundary_0_model_0_applicable\t1"
+    },
+    {
+      "line": 295,
+      "text": "hp_process_5_element_0_isotope_3_boundary_0_model_1_applicable\t1"
+    },
+    {
+      "line": 296,
+      "text": "hp_process_5_element_0_isotope_3_boundary_0_dataset_0_iso_applicable\t0"
+    },
+    {
+      "line": 297,
+      "text": "hp_process_5_element_0_isotope_3_boundary_0_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 298,
+      "text": "hp_process_5_element_0_isotope_3_boundary_1_model_0_applicable\t1"
+    },
+    {
+      "line": 299,
+      "text": "hp_process_5_element_0_isotope_3_boundary_1_model_1_applicable\t1"
+    },
+    {
+      "line": 300,
+      "text": "hp_process_5_element_0_isotope_3_boundary_1_dataset_0_iso_applicable\t0"
+    },
+    {
+      "line": 301,
+      "text": "hp_process_5_element_0_isotope_3_boundary_1_dataset_1_iso_applicable\t1"
+    },
+    {
+      "line": 302,
+      "text": "neutron_process_0\tTransportation"
+    },
+    {
+      "line": 303,
+      "text": "neutron_process_1\tDecay"
+    },
+    {
+      "line": 304,
+      "text": "neutron_process_2\thadElastic"
+    },
+    {
+      "line": 305,
+      "text": "neutron_process_3\tneutronInelastic"
+    },
+    {
+      "line": 306,
+      "text": "neutron_process_4\tnCapture"
+    },
+    {
+      "line": 307,
+      "text": "neutron_process_5\tnFission"
+    },
+    {
+      "line": 308,
+      "text": "gamma_process_count\t2"
+    },
+    {
+      "line": 309,
+      "text": "gamma_process_0\tTransportation"
+    },
+    {
+      "line": 310,
+      "text": "gamma_process_1\tGammaGeneralProc"
+    },
+    {
+      "line": 311,
+      "text": "gamma_general_0_name\tGammaGeneralProc"
+    },
+    {
+      "line": 312,
+      "text": "gamma_general_0_active\t1"
+    },
+    {
+      "line": 313,
+      "text": "gamma_general_0_nuclear\tphotonNuclear"
+    },
+    {
+      "line": 314,
+      "text": "gamma_general_count\t1"
+    },
+    {
+      "line": 315,
+      "text": "gamma_nuclear_request\tdefault"
+    },
+    {
+      "line": 316,
+      "text": "e-_process_count\t6"
+    },
+    {
+      "line": 317,
+      "text": "e-_process_0\tTransportation"
+    },
+    {
+      "line": 318,
+      "text": "e-_process_1\tmsc"
+    },
+    {
+      "line": 319,
+      "text": "e-_process_2\teIoni"
+    },
+    {
+      "line": 320,
+      "text": "e-_process_3\teBrem"
+    },
+    {
+      "line": 321,
+      "text": "e-_process_4\tCoulombScat"
+    },
+    {
+      "line": 322,
+      "text": "e-_process_5\telectronNuclear"
+    },
+    {
+      "line": 323,
+      "text": "e+_process_count\t7"
+    },
+    {
+      "line": 324,
+      "text": "e+_process_0\tTransportation"
+    },
+    {
+      "line": 325,
+      "text": "e+_process_1\tmsc"
+    },
+    {
+      "line": 326,
+      "text": "e+_process_2\teIoni"
+    },
+    {
+      "line": 327,
+      "text": "e+_process_3\teBrem"
+    },
+    {
+      "line": 328,
+      "text": "e+_process_4\tannihil"
+    },
+    {
+      "line": 329,
+      "text": "e+_process_5\tCoulombScat"
+    },
+    {
+      "line": 330,
+      "text": "e+_process_6\tpositronNuclear"
+    },
+    {
+      "line": 331,
+      "text": "target_shape\tcylinder"
+    },
+    {
+      "line": 332,
+      "text": "target_radius_cm_bits\t3ff8000000000000"
+    },
+    {
+      "line": 333,
+      "text": "target_length_cm_bits\t3fc0418b58c20832"
+    },
+    {
+      "line": 334,
+      "text": "world_radius_cm_bits\t4049000000000000"
+    },
+    {
+      "line": 335,
+      "text": "world_material\tG4_Galactic"
+    },
+    {
+      "line": 336,
+      "text": "target_x_cm_bits\t0000000000000000"
+    },
+    {
+      "line": 337,
+      "text": "target_y_cm_bits\t0000000000000000"
+    },
+    {
+      "line": 338,
+      "text": "target_z_cm_bits\t0000000000000000"
+    },
+    {
+      "line": 339,
+      "text": "target_axis_x_bits\t0000000000000000"
+    },
+    {
+      "line": 340,
+      "text": "target_axis_y_bits\t0000000000000000"
+    },
+    {
+      "line": 341,
+      "text": "target_axis_z_bits\t3ff0000000000000"
+    },
+    {
+      "line": 342,
+      "text": "target_element_count\t1"
+    },
+    {
+      "line": 343,
+      "text": "target_atoms_per_cm3_bits\t44b1fb013e7e3eeb"
+    },
+    {
+      "line": 344,
+      "text": "isotope_26_54_fraction_bits\t3faded288ce703b0"
+    },
+    {
+      "line": 345,
+      "text": "molar_mass_26_54_g_mole_bits\t404af844d013a92a"
+    },
+    {
+      "line": 346,
+      "text": "isotope_26_56_fraction_bits\t3fed5c7cd898b2ea"
+    },
+    {
+      "line": 347,
+      "text": "molar_mass_26_56_g_mole_bits\t404bf7aacd9e83e4"
+    },
+    {
+      "line": 348,
+      "text": "isotope_26_57_fraction_bits\t3f95b2d4d4024b34"
+    },
+    {
+      "line": 349,
+      "text": "molar_mass_26_57_g_mole_bits\t404c77bb2fec56d5"
+    },
+    {
+      "line": 350,
+      "text": "isotope_26_58_fraction_bits\t3f6719f7f8ca8199"
+    },
+    {
+      "line": 351,
+      "text": "molar_mass_26_58_g_mole_bits\t404cf7765fd8adad"
+    }
+  ]
+}

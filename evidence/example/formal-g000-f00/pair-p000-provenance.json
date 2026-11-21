@@ -1,0 +1,240 @@
+{
+  "unit_id": "Fe-M01/g000-f00",
+  "array_index": 0,
+  "statistical_independence": "Geant4 batch 0 (u000, 10,000 events, seed 70690000) and FLUKA stream 0 (u000, 200,000 primaries, seed 72690000) are independent Monte Carlo runs paired solely for the p000 setting record; they do not share particle histories.",
+  "geant4": {
+    "batch_id": 0,
+    "unit_dir": "u000",
+    "seed": 70690000,
+    "actual_primaries": 10000,
+    "binary_basename": "g4_transport",
+    "binary_sha256": "0fcc6efaf81480236abe5a9b47c86bdb7cb01ff924d3fbc3c17afff5ff1e33d6",
+    "host_options": {
+      "range_cut_mm": 0.1,
+      "gamma_nuclear": "default",
+      "incl_physics": "default"
+    },
+    "shared_input_files_in_example_dir": {
+      "geometry.gdml": {
+        "path": "example/geometry.gdml",
+        "runtime_key": "geant4/geometry.gdml",
+        "sha256": "9015a85ca64c59d68465ca1ec7bf3a10f851f2413801ceb2e1757fc23fe81524"
+      },
+      "beam.mac": {
+        "path": "example/beam.mac",
+        "runtime_key": "geant4/beam.mac",
+        "sha256": "cfc43a751470b52ad440f2d99402b8a63f08ae46bd4caef8d7210d7a79b72333"
+      },
+      "physics.txt": {
+        "path": "example/physics.txt",
+        "runtime_key": "geant4/physics.txt",
+        "sha256": "57e7fd81b92029537f91fa772deedf2fb93870506d294580eb53aedf072eee7c"
+      }
+    },
+    "plan_source": "data/native-Fe-M01/task/results/Fe-M01/units/geant4/u000/plan.json",
+    "plan_sha256": "781e5c26d3560424dfb20a21024a565b9ed0117c8893365128ba8feb337ac9fe",
+    "runtime_source": "data/native-Fe-M01/task/results/Fe-M01/units/geant4/u000/runtime.json",
+    "runtime_sha256": "952f4bc2f2a5310ede337b1ebd89ed128504d35ea1ee7fb5771b65998a9529e1",
+    "unit_metadata_omitted_host_path_lines": {
+      "plan.json": [
+        15,
+        21,
+        29,
+        31
+      ],
+      "runtime.json": [
+        4
+      ]
+    }
+  },
+  "fluka": {
+    "stream_id": 0,
+    "unit_dir": "u000",
+    "seed": 72690000,
+    "actual_primaries": 200000,
+    "total_weight": 200000.0,
+    "binary_basename": "flukadpm",
+    "binary_sha256": "1b7e0a904dcbbb915f62fe16c25bb24b729ec5531a2265d7c866f6b6f22ce2e6",
+    "host_options": {
+      "range_cut_mm": 0.1,
+      "gamma_nuclear": "default",
+      "incl_physics": "default"
+    },
+    "original_inp_shared_in_example_dir": {
+      "path": "example/fluka.inp",
+      "runtime_key": "fluka/original.inp",
+      "sha256": "b88c613200ee39c02b672a67af00c50d9291e3480de266ccc2d78f4eccf58c60",
+      "note": "Initialization input (RANDOMIZ 1234567.0, START 1.0); differs from formal fluka/input.inp only on RANDOMIZ and START lines."
+    },
+    "plan_source": "data/native-Fe-M01/task/results/Fe-M01/units/fluka/u000/plan.json",
+    "plan_sha256": "d5c818d132c7f60511ec8d4bb9c967fd009e4be600048fb233ead2dc79c2b23c",
+    "runtime_source": "data/native-Fe-M01/task/results/Fe-M01/units/fluka/u000/runtime.json",
+    "runtime_sha256": "49ba3db9a81241853ae998cbd9b03c05111c4031a4e30803fc4576c6349101e8",
+    "unit_metadata_omitted_host_path_lines": {
+      "plan.json": [
+        15,
+        21,
+        29,
+        31
+      ],
+      "runtime.json": [
+        4,
+        6
+      ]
+    }
+  },
+  "kernel_index_binding": {
+    "source": "t069-recheck/task/results/Fe-M01/kernel-index.json",
+    "bundled_file": "example/formal-g000-f00/kernel-index.json",
+    "sha256": "5e08c2ee5054141a9ad4a34882620c55382261522aa253b1f67c9e4a3cf28f7e",
+    "entry_index": 0,
+    "entry": {
+      "g4_batch": 0,
+      "fluka_stream": 0,
+      "passed": true,
+      "rows": 22,
+      "record": "results/Fe-M01/pairs/p000/kernel.json",
+      "sha256": "fd74558a7d8543f074549521ac4262ac9bb92d1916d41428cc78fb218e253e1c"
+    }
+  },
+  "pair_kernel_excerpt": {
+    "source": "data/transport/task/results/Fe-M01/pairs/p000/kernel.json",
+    "source_sha256": "fd74558a7d8543f074549521ac4262ac9bb92d1916d41428cc78fb218e253e1c",
+    "source_plan": "data/transport/task/results/Fe-M01/pairs/p000/plan.json",
+    "source_plan_sha256": "657bb5d3f4007042b316d2bebec4e3c60439c5f7d42b6215a6f3d5c6e97db132",
+    "omitted_host_path_lines_in_kernel_json": [
+      192,
+      220,
+      222,
+      1164,
+      1222,
+      2151,
+      2531,
+      2537
+    ],
+    "omitted_host_path_lines_in_plan_json": [
+      15,
+      21,
+      29,
+      31
+    ],
+    "passed": {
+      "line": 177,
+      "value": true
+    },
+    "kernel_version": {
+      "line": 2516,
+      "value": "t069/2-exact-seed-unreviewed"
+    },
+    "non_scoring_passed": {
+      "line": 2517,
+      "value": true
+    },
+    "runtime_plan_sha256": {
+      "line": 267,
+      "value": "657bb5d3f4007042b316d2bebec4e3c60439c5f7d42b6215a6f3d5c6e97db132"
+    },
+    "derived_from": {
+      "lines": "268-279",
+      "value": {
+        "geant4": {
+          "path": "results/Fe-M01/units/geant4/u000",
+          "plan_sha256": "781e5c26d3560424dfb20a21024a565b9ed0117c8893365128ba8feb337ac9fe",
+          "runtime_sha256": "952f4bc2f2a5310ede337b1ebd89ed128504d35ea1ee7fb5771b65998a9529e1"
+        },
+        "fluka": {
+          "path": "results/Fe-M01/units/fluka/u000",
+          "plan_sha256": "d5c818d132c7f60511ec8d4bb9c967fd009e4be600048fb233ead2dc79c2b23c",
+          "runtime_sha256": "49ba3db9a81241853ae998cbd9b03c05111c4031a4e30803fc4576c6349101e8"
+        }
+      }
+    },
+    "runtime_files": {
+      "lines": "241-266",
+      "value": {
+        "geant4/driver.log": "6eebed6064c36367c4bc7b2aa5cf7dbe01153d4126db1ad23977b71634233d2c",
+        "geant4/beam.mac": "cfc43a751470b52ad440f2d99402b8a63f08ae46bd4caef8d7210d7a79b72333",
+        "geant4/physics.txt": "57e7fd81b92029537f91fa772deedf2fb93870506d294580eb53aedf072eee7c",
+        "geant4/geometry.gdml": "9015a85ca64c59d68465ca1ec7bf3a10f851f2413801ceb2e1757fc23fe81524",
+        "geant4/output/incl-physics.tsv": "7f2bc15d2bcf79349468b7e3aae272bdd20a4137be0890dfdcfaa5415409cf69",
+        "geant4/output/rng_seed.txt": "c49288f28389a1807a966ad8beff685bce8b1575ae209c955b6c72d5fd6ea0ac",
+        "geant4/output/primaries.csv": "10e15aa7205e7a44d353c618d62ac814a9adc3142196f1f8ec0b7d82ade3c3bb",
+        "geant4/output/rng_before.txt": "c49288f28389a1807a966ad8beff685bce8b1575ae209c955b6c72d5fd6ea0ac",
+        "geant4/output/m1-readback.tsv": "c51a577f7d636a25e21bac53485ce5c00279d1aeb967ce17c987ed4190384971",
+        "geant4/output/rng_after.txt": "59364bf479cb2671773e60c70091136810fef8b58c87ec8315c49006f4b6407c",
+        "geant4/output/cuts-energy.tsv": "8c239e105eb375607d02129a0cc7ec9716b55768890880fa76e1e873c86d210c",
+        "geant4/output/identity.tsv": "94d1cf62413ca556e1713b8dcc5d93119c259e0300df0382d815f79c23d03479",
+        "geant4/output/events.csv": "c5b6c485ff11df7023768f91c3d62462bc8bf71f930d240c77ee3297a68ae5ab",
+        "geant4/output/exits.csv": "ca1434bf3073221c5bb6eca00c8c50b7739f04f089a0252ce11a54c913c26dce",
+        "fluka/input001.out": "b0e73c022b0124303b21d850249ebd4abe24554ac1fa28ed7095bed564045354",
+        "fluka/input001_fort.19": "91d36cf32c2137371ca4505524a012730cfef9c194c50f7dc50372e646b9c706",
+        "fluka/input001.err": "d3c7db4f70e80cff87b90d8b135e8a6957228deac18479b82d09d76e452b49d3",
+        "fluka/input.inp": "af64571c11a7ebf66a6b525f0653e245f44c748428c7b622152d774bf2ad378f",
+        "fluka/raninput002": "384732479a4444c0d1a9d1d6377e8b107d73ada31f239f41c505f8366c7f1e26",
+        "fluka/driver.log": "5e6c69de4adef04ba9828a5e29b316d27a4e0a0bd32d7d9a65646b3b2a3a5b9a",
+        "fluka/input001_fort.21": "c92c02349f715fba7c1d434d02f6b4fa2bd78319c0b17728e3dd2a0c3781b25b",
+        "fluka/raninput001": "f959e0440ebc27670ff867bb9af962ccb4a4dac6ca07a279516db51dd4f129a7",
+        "fluka/input001.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "fluka/original.inp": "b88c613200ee39c02b672a67af00c50d9291e3480de266ccc2d78f4eccf58c60"
+      }
+    },
+    "execution_contract_without_host_paths": {
+      "lines": "2518-2542",
+      "schema": "recorded-input-transport/1",
+      "unit_id": "Fe-M01/g000-f00",
+      "answer_fields_sha256": {
+        "geometry_gdml": "9015a85ca64c59d68465ca1ec7bf3a10f851f2413801ceb2e1757fc23fe81524",
+        "beam_mac": "cfc43a751470b52ad440f2d99402b8a63f08ae46bd4caef8d7210d7a79b72333",
+        "physics_txt": "57e7fd81b92029537f91fa772deedf2fb93870506d294580eb53aedf072eee7c",
+        "host_options_json": "41edfdce04d17d157c61df68c1d06b431a9c81bf1321ebce056afe1ea4c72530",
+        "fluka_inp": "b88c613200ee39c02b672a67af00c50d9291e3480de266ccc2d78f4eccf58c60",
+        "answers_json": "908524153042e2f3b878184621da03066669cf0432eaecc28abf31801d33532b",
+        "differences_json": "afe36df93e3aa39377d80016d970658e62201137420838e8123e2903fa0db447"
+      },
+      "geant4": {
+        "binary_sha256": "0fcc6efaf81480236abe5a9b47c86bdb7cb01ff924d3fbc3c17afff5ff1e33d6",
+        "events": 10000,
+        "seed": 70690000,
+        "binary_basename": "g4_transport"
+      },
+      "fluka": {
+        "binary_sha256": "1b7e0a904dcbbb915f62fe16c25bb24b729ec5531a2265d7c866f6b6f22ce2e6",
+        "histories": 200000,
+        "seed": 72690000,
+        "binary_basename": "flukadpm"
+      }
+    }
+  },
+  "fluka_input001_out_line_guide": {
+    "bundled_file": "example/formal-g000-f00/fluka/input001.out",
+    "sha256": "b0e73c022b0124303b21d850249ebd4abe24554ac1fa28ed7095bed564045354",
+    "line_count": 2109,
+    "markers": {
+      "fluka_version": [
+        21
+      ],
+      "defaults_precisio": [
+        41
+      ],
+      "physics_coalesce": [
+        142
+      ],
+      "randomiz_card_echo": [
+        172
+      ],
+      "usryield_card_echoes": "199-238",
+      "start_card_echo": [
+        241
+      ],
+      "nattarg_em_thresholds": "827-830",
+      "neutron_transport_cutoff": [
+        1055
+      ],
+      "usryield_init_summary": "1243-1299",
+      "flrm64_seed_initialized": [
+        1428
+      ],
+      "summary_primaries_and_weight": "1678-1679"
+    }
+  }
+}

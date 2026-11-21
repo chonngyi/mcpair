@@ -1,0 +1,205 @@
+{
+  "id": "p800-natural-Fe",
+  "material": {
+    "symbol": "Fe",
+    "Z": 26,
+    "isotopes": [
+      {
+        "A": 54,
+        "atom_fraction": 0.05845,
+        "molar_mass_g_mol": 53.93960824563659
+      },
+      {
+        "A": 56,
+        "atom_fraction": 0.91754,
+        "molar_mass_g_mol": 55.93493559573169
+      },
+      {
+        "A": 57,
+        "atom_fraction": 0.02119,
+        "molar_mass_g_mol": 56.93539200978217
+      },
+      {
+        "A": 58,
+        "atom_fraction": 0.00282,
+        "molar_mass_g_mol": 57.93327363582994
+      }
+    ],
+    "density_g_cm3": 7.874,
+    "mass_reference": {
+      "edition": "AME2020 unrounded mass_1.mas20; 3 Mar 2021",
+      "sha256": "e8599c6d7f724fac91934e59f1b9de8fb8f63e820f4b39456b790665ed2a3307",
+      "molar_mass_constant_g_mol": 1.00000000105,
+      "avogadro_per_mol": 6.02214076e+23,
+      "relative_tolerance": 0.0001,
+      "absolute_tolerance_rule": "max(one native last-place quantum, relative_tolerance * abs(reference))"
+    },
+    "mean_molar_mass_g_mol": 55.84514369680544,
+    "atoms_per_cm3": 8.491040259773297e+22
+  },
+  "beam": {
+    "particle": "proton",
+    "energy_MeV": 800.0,
+    "position_cm": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "direction": [
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "geometry": {
+    "radius_cm": 1.5,
+    "length_cm": 0.12700025400050802,
+    "centre_cm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "world_radius_cm": 50.0,
+    "blackhole_radius_cm": 100.0
+  },
+  "interface": {
+    "target_region": "TARGET",
+    "target_material": "NATTARG",
+    "g4_material": "TargetMaterial",
+    "g4_world_material": "G4_Galactic",
+    "fluka_exterior_materials": {
+      "VOID": {
+        "name": "VACUUM",
+        "id": 2
+      },
+      "BLKBODY": {
+        "name": "BLCKHOLE",
+        "id": 1
+      }
+    },
+    "input_scope_prerequisites": {
+      "fluka_fudgem": {
+        "required_card": "EMFCUT",
+        "SDUM": "PROD-CUT",
+        "target": "NATTARG",
+        "WHAT3": 1.0,
+        "basis": "input_text_and_native_input_echo",
+        "native_readback": false,
+        "WHAT3_alignment": "right",
+        "native_input_echo": true,
+        "native_echo_required": {
+          "SDUM": "PROD-CUT",
+          "WHAT3": 1,
+          "WHAT4": "native target material id",
+          "WHAT5": "native target material id",
+          "material_id_source": "native region-material table"
+        },
+        "label": "输入文本加原生输入回显，无生效值读回"
+      },
+      "geant4_gps": {
+        "angular_type": [
+          "omitted",
+          "planar"
+        ],
+        "sigma_r_allowed": false,
+        "beam1d_allowed": false,
+        "native_gps_state_readback": false
+      },
+      "fluka_text": {
+        "characters": "printable ASCII and LF",
+        "keyword_field": "uppercase left-aligned keyword followed by spaces; short records implicitly padded",
+        "basis": "input_text_only",
+        "native_readback": false,
+        "independent_review": "T067 离线修复；作为正式依据前待合并审查",
+        "control_card_exclamation_mark_allowed": false
+      },
+      "fluka_blank_fields": {
+        "LOW-PWXS_WHAT2": {
+          "required_value": "literal blank or implicit trailing blanks",
+          "basis": "input_text_only",
+          "native_readback": false
+        },
+        "MATERIAL_WHAT4": {
+          "required_value": "literal blank or implicit trailing blanks",
+          "basis": "input_text_only",
+          "native_readback": false
+        },
+        "MATERIAL_WHAT5": {
+          "required_value": "literal blank or implicit trailing blanks",
+          "basis": "input_text_only",
+          "native_readback": false
+        },
+        "ASSIGNMA_WHAT6": {
+          "required_value": "literal blank or implicit trailing blanks",
+          "basis": "input_text_only",
+          "native_readback": false
+        }
+      },
+      "fluka_constituents": {
+        "predefined_material_names_allowed": false,
+        "basis": "input_text_only",
+        "native_readback": false,
+        "source": "FLUKA 4-5.2 manual 5.2.1 and 5.2.2"
+      }
+    }
+  },
+  "scope": "same T062 cylindrical question, not Amian experimental geometry; initialization only",
+  "scoring": {
+    "particle": "neutron",
+    "surface": {
+      "from": "TARGET",
+      "to": "VOID",
+      "direction": "outward",
+      "angle_reference": "beam",
+      "axis": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "azimuth": "full"
+    },
+    "energy_edges_MeV": [
+      35.18064,
+      41.25585,
+      48.38017,
+      56.73476,
+      66.53208,
+      78.02125,
+      91.49445,
+      107.29429
+    ],
+    "angle_edges_deg": [
+      0,
+      45,
+      90,
+      135,
+      180
+    ],
+    "intervals": "lower-inclusive upper-exclusive; final polar upper edge 180 inclusive",
+    "quantity": "d2N_dE_dOmega_per_primary",
+    "unit": "1/(primary MeV sr)",
+    "normalization": "count/(Nprimary * DeltaE_MeV * 2*pi*(cos(theta_low)-cos(theta_high)))",
+    "fluka": {
+      "estimator": "USRYIELD",
+      "ixa": 3,
+      "user_normalization": 1.0,
+      "native_unit": "1/(primary GeV sr)",
+      "to_requested_factor": 0.001,
+      "supported_output": "formatted positive logical unit 21..99"
+    },
+    "g4": {
+      "estimator": "outgoing boundary event list",
+      "pdg": 2112,
+      "native_energy_unit": "MeV",
+      "native_direction": "post-step momentum unit vector",
+      "binning": "host Python reduction of unbinned exits; same contract edges",
+      "normalization": "unit-weight crossing count per primary, energy width and solid angle; no areal-density/cross-section conversion"
+    },
+    "boundary_comparison": "native GeV/radian print equals correctly rounded contract boundary (E format, 5 significant digits)"
+  }
+}

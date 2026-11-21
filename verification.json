@@ -1,0 +1,123 @@
+{
+  "status": "passed",
+  "files_checked": 71,
+  "formal_example_fe_m01_g000_f00": {
+    "unit_id": "Fe-M01/g000-f00",
+    "array_index": 0,
+    "statistical_independence": "Geant4 batch 0 (u000, 10,000 events, seed 70690000) and FLUKA stream 0 (u000, 200,000 primaries, seed 72690000) are independent Monte Carlo runs paired solely for the p000 setting record; they do not share particle histories.",
+    "kernel_index_sha256": "5e08c2ee5054141a9ad4a34882620c55382261522aa253b1f67c9e4a3cf28f7e",
+    "p000_kernel_source_sha256": "fd74558a7d8543f074549521ac4262ac9bb92d1916d41428cc78fb218e253e1c",
+    "fluka": {
+      "stream_id": 0,
+      "seed": 72690000,
+      "primaries": 200000,
+      "total_weight": 200000.0,
+      "scoring_card": "USRYIELD code=124.0 ixa=3 unit=+21 (per-primary double-differential yield)",
+      "native_normalization_field": {
+        "user_normalization": 1.0,
+        "adopted_cross_section_mb": 1.0
+      },
+      "unit_conversion_factor_GeV_to_MeV": 0.001,
+      "per_cell_note": "Native fort.21 values are already per primary per GeV per sr; 0.001 converts energy density from /GeV to /MeV only.",
+      "cell_1_fe01_angle1": {
+        "energy_interval_MeV": [
+          35.18064,
+          41.25585
+        ],
+        "angle_interval_deg": [
+          0,
+          45
+        ],
+        "native_value": 0.0076027,
+        "integral_contribution": 8.499988410335008e-05
+      },
+      "recomputed_sum_fsum": 0.0028799872629304804,
+      "recomputed_sum_sequential": 0.0028799872629304804,
+      "units_fe_m01_array_value": 0.0028799872629304804,
+      "abs_diff_vs_units_array": 0.0,
+      "tolerances": {
+        "float_summation_rel_tol": 1e-12,
+        "sequential_vs_fsum_abs_diff": 0.0,
+        "native_fort21_print_precision": "5 significant digits (.4E formatting, <=5e-5 rounding scale per printed cell); distinct from float summation rounding."
+      },
+      "breakdown_28_cells_csv": "fe-m01-g000-f00-fluka-28-cells.csv"
+    },
+    "geant4": {
+      "batch_id": 0,
+      "seed": 70690000,
+      "primaries": 10000,
+      "exits_csv_rows": 11156,
+      "window_neutron_exits": 49,
+      "direct_crossing_over_primaries": 0.0049,
+      "binned_28_cells_integrated": 0.0049,
+      "units_fe_m01_array_value": 0.0049,
+      "abs_diff_direct_vs_array": 0.0,
+      "abs_diff_binned_vs_array": 0.0,
+      "breakdown_28_cells_csv": "fe-m01-g000-f00-geant4-28-cells.csv"
+    },
+    "scope_note": "Native cell/CSV recomputation covers only this single Fe-M01/g000-f00 formal pair (Geant4 batch 0 and FLUKA stream 0); remaining 799 Geant4 batches and 39 FLUKA streams remain unit-level yield array checks."
+  },
+  "formal_transport": {
+    "Fe-M01": {
+      "g4_mean": 0.003849,
+      "fluka_mean": 0.0029176246028254724,
+      "ratio": 1.3192238632319488,
+      "two_mcse": 0.025370098179393785,
+      "low2se": 1.293853765052555,
+      "reference_compatible": true,
+      "above_1_10": true
+    },
+    "Fe-C01": {
+      "g4_mean": 0.00386125,
+      "fluka_mean": 0.002938249569822548,
+      "ratio": 1.3141327542960197,
+      "two_mcse": 0.026889451384842354,
+      "low2se": 1.2872433029111774,
+      "reference_compatible": true,
+      "above_1_10": true
+    }
+  },
+  "pre_transport_reference": {
+    "cell": "两边都开：G4 默认 / FLUKA COALESCE",
+    "ratio": 1.3147499288226958,
+    "mc_se": 0.0143609212300579,
+    "source_commit": "da22a9bbc74fb4e5c3a98df9be5d29f77ac5a185",
+    "recheck_source_commit": "e2fb2d95b7cfbde9584b866f0c20b8516b24e66c",
+    "archived_paired_records_total": 1600
+  },
+  "response_rows": {
+    "yields": 750,
+    "four-cells": 400,
+    "g4-responses": 450,
+    "cluster-off-B": 50
+  },
+  "response_rows_total": 1650,
+  "covariance_cells": 58320,
+  "figure_points": 20,
+  "figure_points_split": {
+    "total": 20,
+    "appendix_B1": 10,
+    "appendix_B2": 10
+  },
+  "first_round_failed_rows": {
+    "Fe-M01": [
+      "P23",
+      "P26"
+    ],
+    "Fe-C01": [
+      "P23",
+      "P26",
+      "P28"
+    ],
+    "Pb-M01": [
+      "P26"
+    ],
+    "Pb-C01": [
+      "P26",
+      "P28"
+    ]
+  },
+  "fe_m01_readback_excerpts": "verified (START 1.0 initialization: incl-physics.tsv after_cluster=0, m1-readback.tsv EM cut 0.1 mm & proton cut 0 mm, FLUKA COALESCE, Ae=0.611 MeV/Ap=0.1 MeV, and USRYIELD)",
+  "early_scoring_case": "verified (M02-r5 old 13/13 physics pass table, replay 20.534 mb cross-section, round-1 geometry-header stop, round-2 unit 21 and factor 1.0 mb yield confirmation)",
+  "scope": "Native per-cell/CSV recomputation for Fe-M01/g000-f00 only; unit-level reproduction and retained record check for remaining 799 G4 batches and 39 FLUKA streams; no new Monte Carlo or full kernel replay."
+}
