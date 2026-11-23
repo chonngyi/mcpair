@@ -5,18 +5,50 @@ MCPair checks physics settings and scoring definitions in paired Geant4 and FLUK
 This repository includes iron and lead records, selected checker source files, and an offline reproduction of the archived results. Checking new inputs in full requires additional runtime components. The records retain their original Chinese titles. For each code, `effective` gives the setting the checker found and `confirmed` indicates whether the declaration agrees with it. The row-level `aligned` field is `null` for code-specific settings. The 19 internal settings appear in a separate register. [Paired records](evidence/records/) · [Checker source](evidence/settings-source/) · [Offline reproduction](#offline-reproduction)
 
 ```mermaid
-flowchart TD
-    Spec["Shared problem specification"] --> LLM["Language model"]
-    Spec --> Check["MCPair"]
-    LLM -->|Geant4 inputs| G4["Geant4 init and fixed scorer"]
-    LLM -->|FLUKA inputs| FL["FLUKA init and USRYIELD"]
+flowchart LR
+    subgraph Inputs["Input and author"]
+        direction TB
+        Spec["Shared problem specification"]:::spec --> LLM["Language model: inputs and declarations"]:::llm
+    end
+    subgraph Codes["Initialization"]
+        direction TB
+        G4["Geant4 init and fixed scorer"]:::code
+        FL["FLUKA init and USRYIELD"]:::code
+    end
+    subgraph Verify["Verification"]
+        direction TB
+        Check["MCPair"]:::kernel --> Rec["Paired setting record: configurable settings and scoring"]:::record
+    end
+    subgraph Decision["Outcome"]
+        direction TB
+        Ref["Pre-transport use, e.g. select reference"]:::pass
+        FB["Feedback: revise declarations or input cards"]:::feedback
+    end
+
+    LLM --> G4
+    LLM --> FL
+    Spec --> Check
     LLM -->|declarations| Check
-    G4 -->|init readback and fixed reducer| Check
-    FL -->|init and USRYIELD readback| Check
-    Check --> Rec["Paired setting record: configurable settings and scoring"]
-    Rec -->|setting or tally mismatch| FB["Feedback: revise declarations or input cards"]
-    FB --> LLM
-    Rec -->|checks passed| Ref["Use record before transport, e.g. select reference"]
+    G4 -->|init and reducer| Check
+    FL -->|init and USRYIELD| Check
+    Rec -->|passed| Ref
+    Rec -.->|mismatch| FB
+    FB -.-> LLM
+
+    classDef spec fill:#F1F5F9,stroke:#64748B,color:#0F172A,stroke-width:1.5px
+    classDef llm fill:#F3E8FF,stroke:#7C3AED,color:#2E1065,stroke-width:1.5px
+    classDef code fill:#E0F2FE,stroke:#0284C7,color:#0C4A6E,stroke-width:1.5px
+    classDef kernel fill:#DBEAFE,stroke:#1D4ED8,color:#1E3A8A,stroke-width:2px
+    classDef record fill:#EFF6FF,stroke:#2563EB,color:#1E3A8A,stroke-width:2px
+    classDef feedback fill:#FFEDD5,stroke:#EA580C,color:#7C2D12,stroke-width:1.5px
+    classDef pass fill:#DCFCE7,stroke:#16A34A,color:#14532D,stroke-width:1.5px
+    style Inputs fill:#F8FAFC,stroke:#CBD5E1,color:#475569
+    style Codes fill:#F8FAFC,stroke:#CBD5E1,color:#475569
+    style Verify fill:#F8FAFC,stroke:#93C5FD,color:#1E3A8A
+    style Decision fill:#F8FAFC,stroke:#CBD5E1,color:#475569
+
+    linkStyle 8 stroke:#16A34A,stroke-width:2px
+    linkStyle 9,10 stroke:#EA580C,stroke-width:2px
 ```
 
 ## Examples
